@@ -2,10 +2,12 @@
   "id": 2032062937,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-01T19:06:20Z",
+    "edtf:inception": "2026-08-01T16:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153444340"
+    },
     "wof:country": "US",
     "wof:created": 1785687350,
     "wof:geomhash": "ff243e97b2d4ce40e0a4accb79115371",
@@ -94,7 +102,7 @@
       1947304457,
       1159283697
     ],
-    "wof:lastmodified": 1785687350,
+    "wof:lastmodified": 1785687574,
     "wof:name": "UA1340 (SFO-BWI)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",

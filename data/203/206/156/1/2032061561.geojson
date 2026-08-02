@@ -2,10 +2,12 @@
   "id": 2032061561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-01T19:09:35Z",
+    "edtf:inception": "2026-08-01T15:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20260801-D-AMX-4175",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N855DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153435873"
+    },
     "wof:country": "US",
     "wof:created": 1785687193,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032061561,
     "wof:involves": [
+      1377564285,
       102526927,
       102527513,
       1159284261,
       1947304669,
       1159283539
     ],
-    "wof:lastmodified": 1785687193,
+    "wof:lastmodified": 1785687588,
     "wof:name": "DL640 (SFO-ATL)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",

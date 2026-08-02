@@ -2,10 +2,12 @@
   "id": 2032058773,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-01T05:25:39-07:00",
+    "edtf:inception": "2026-08-01T14:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.83923999999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "AZU",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260801-A-AZU-7016",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N57416",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153431701"
+    },
     "wof:country": "US",
     "wof:created": 1785686872,
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032058773,
     "wof:involves": [
+      1763588337,
+      1779770723,
+      1528104577,
       102527513,
       102533657,
-      1159285413,
-      1763588337,
-      1779770723
+      1159285413
     ],
-    "wof:lastmodified": 1785686872,
+    "wof:lastmodified": 1785687534,
     "wof:name": "UA2017 (MCO-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032059709,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-01",
-    "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "2026-08-02T11:56:10Z",
+    "edtf:inception": "2026-08-02T07:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "FJI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:base_flight_id": "20260801-D-FJI-5038",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N544UW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153410618"
+    },
     "wof:country": "US",
     "wof:created": 1785686981,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032059709,
     "wof:involves": [
-      102531023,
-      102527513,
       1159283849,
       1947304309,
-      1159283717
+      1159283717,
+      1159289411,
+      102531023,
+      102527513
     ],
-    "wof:lastmodified": 1785686981,
+    "wof:lastmodified": 1785687554,
     "wof:name": "AA1545 (SFO-MIA)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

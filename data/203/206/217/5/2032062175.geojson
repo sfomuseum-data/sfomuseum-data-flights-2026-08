@@ -2,10 +2,12 @@
   "id": 2032062175,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-01T22:25:23Z",
+    "edtf:inception": "2026-08-01T11:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KE",
     "flysfo:date": "2026-08-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.535978,
     "geom:longitude": 2.1453445,
     "iata:airline": "KE",
+    "icao:aircraft": "B744",
     "icao:airline": "KAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289915,
     "sfomuseum:airline_id": 1159284625,
     "sfomuseum:arrival_id": 102556451,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "HL7605",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153505905"
+    },
     "wof:country": "US",
     "wof:created": 1785687263,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2032062175,
     "wof:involves": [
+      1159289915,
       102556451,
       102527513,
-      1159284625,
-      -1
+      1159284625
     ],
-    "wof:lastmodified": 1785687263,
+    "wof:lastmodified": 1785687570,
     "wof:name": "KE214 (SFO-ICN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032058899,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-01T00:09:31-07:00",
+    "edtf:inception": "2026-08-01T13:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.427454999999995,
     "geom:longitude": -121.5070865,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527351,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N831UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153428163"
+    },
     "wof:country": "US",
     "wof:created": 1785686887,
     "wof:geomhash": "2af895d7dc7816e28cbc6da81f2a802b",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032058899,
     "wof:involves": [
-      102527513,
       102527351,
       1159285413,
-      1947304527
+      1947304527,
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1785686887,
+    "wof:lastmodified": 1785687535,
     "wof:name": "UA2718 (SBP-SFO)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",

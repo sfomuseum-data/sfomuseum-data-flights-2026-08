@@ -2,10 +2,12 @@
   "id": 2032061035,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-01T19:29:35Z",
+    "edtf:inception": "2026-08-01T14:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2026-08-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.799764500000002,
     "geom:longitude": -140.859366,
     "iata:airline": "AS",
+    "icao:aircraft": "B38M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102528943,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N812AK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153432269"
+    },
     "wof:country": "US",
     "wof:created": 1785687132,
     "wof:geomhash": "a2498fe603884edb23014f03e0e3c121",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032061035,
     "wof:involves": [
+      1528104575,
       102528943,
       102527513,
       1159283813,
       1947304303
     ],
-    "wof:lastmodified": 1785687132,
+    "wof:lastmodified": 1785687566,
     "wof:name": "AS789 (SFO-LIH)",
     "wof:parent_id": 1947304303,
     "wof:placetype": "custom",

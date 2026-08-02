@@ -2,10 +2,12 @@
   "id": 2032063543,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-01",
-    "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "2026-08-02T12:24:46Z",
+    "edtf:inception": "2026-08-02T02:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -57.5518295,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617321,
     "lbl:longitude": -122.389477,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102549057,
     "sfomuseum:base_flight_id": "20260801-D-ACA-5032",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N27959",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153405306"
+    },
     "wof:country": "US",
     "wof:created": 1785687419,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1947304155,
-      1159283597
+      1159283597,
+      1159293215
     ],
-    "wof:lastmodified": 1785687419,
+    "wof:lastmodified": 1785687577,
     "wof:name": "UA926 (SFO-FRA)",
     "wof:parent_id": 1947304155,
     "wof:placetype": "custom",

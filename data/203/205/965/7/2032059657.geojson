@@ -2,10 +2,12 @@
   "id": 2032059657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-01T04:59:27Z",
+    "edtf:inception": "2026-08-01T02:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153403464"
+    },
     "wof:country": "US",
     "wof:created": 1785686975,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -57,7 +62,7 @@
       -1,
       1159283539
     ],
-    "wof:lastmodified": 1785686975,
+    "wof:lastmodified": 1785687551,
     "wof:name": "WS1504 (YYC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

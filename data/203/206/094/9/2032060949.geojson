@@ -2,10 +2,12 @@
   "id": 2032060949,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-01",
-    "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "2026-08-02T07:53:41Z",
+    "edtf:inception": "2026-08-02T03:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -136.169672,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102531979,
     "sfomuseum:base_flight_id": "20260801-D-AAL-9377",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N272AK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153407101"
+    },
     "wof:country": "US",
     "wof:created": 1785687123,
     "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032060949,
     "wof:involves": [
+      1377564285,
       102531979,
       102527513,
       1159283813,
       1947304279,
       1159283849
     ],
-    "wof:lastmodified": 1785687123,
+    "wof:lastmodified": 1785687566,
     "wof:name": "AS212 (SFO-ANC)",
     "wof:parent_id": 1947304279,
     "wof:placetype": "custom",

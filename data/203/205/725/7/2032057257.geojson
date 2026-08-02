@@ -2,10 +2,12 @@
   "id": 2032057257,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-01",
-    "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-01T16:33:22-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614792,
     "lbl:longitude": -122.382166,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260801-A-AMX-4471",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +95,14 @@
     ],
     "wof:id": 2032057257,
     "wof:involves": [
+      1947304677,
+      1159283539,
+      1813375783,
       102527513,
       102533269,
-      1159284261,
-      1947304677,
-      1159283539
+      1159284261
     ],
-    "wof:lastmodified": 1785686695,
+    "wof:lastmodified": 1785687520,
     "wof:name": "DL2635 (SEA-SFO)",
     "wof:parent_id": 1947304677,
     "wof:placetype": "custom",

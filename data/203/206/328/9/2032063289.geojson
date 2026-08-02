@@ -2,10 +2,12 @@
   "id": 2032063289,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-01",
-    "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "2026-08-02T13:06:07Z",
+    "edtf:inception": "2026-08-02T02:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -55.0628825,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61836,
     "lbl:longitude": -122.393229,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102547941,
     "sfomuseum:base_flight_id": "20260801-D-ACA-4875",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2645U",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153395397"
+    },
     "wof:country": "US",
     "wof:created": 1785687390,
     "wof:geomhash": "033526ec5f586bb6dd7c4e05cd770e88",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1947304133,
-      1159283597
+      1159283597,
+      1159289993
     ],
-    "wof:lastmodified": 1785687390,
+    "wof:lastmodified": 1785687576,
     "wof:name": "UA507 (SFO-FCO)",
     "wof:parent_id": 1947304133,
     "wof:placetype": "custom",

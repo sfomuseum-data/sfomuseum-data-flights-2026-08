@@ -2,10 +2,12 @@
   "id": 2032060259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-02T04:15:02Z",
+    "edtf:inception": "2026-08-01T23:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:base_flight_id": "20260801-D-ANZ-4734",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CFDCA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153487416"
+    },
     "wof:country": "US",
     "wof:created": 1785687044,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032060259,
     "wof:involves": [
+      1947304627,
+      1159283697,
+      1159292085,
       102555091,
       102527513,
-      1159283597,
-      1947304627,
-      1159283697
+      1159283597
     ],
-    "wof:lastmodified": 1785687044,
+    "wof:lastmodified": 1785687559,
     "wof:name": "AC744 (SFO-YYZ)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",

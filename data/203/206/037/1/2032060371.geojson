@@ -2,10 +2,12 @@
   "id": 2032060371,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-01T18:34:10Z",
+    "edtf:inception": "2026-08-01T08:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NH",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 8.702347499999995,
     "iata:airline": "NH",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "ANA",
     "icao:base_airline": "UAL",
     "lbl:latitude": 37.617906,
     "lbl:longitude": -122.390944,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159283875,
     "sfomuseum:arrival_id": 102541591,
     "sfomuseum:base_flight_id": "20260801-D-UAL-7914",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "JA791A",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153412698"
+    },
     "wof:country": "US",
     "wof:created": 1785687057,
     "wof:geomhash": "64252c90f74b3e5d6a354a131140ee76",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032060371,
     "wof:involves": [
-      102541591,
-      102527513,
       1159283875,
       1947304145,
-      1159285413
+      1159285413,
+      1159289993,
+      102541591,
+      102527513
     ],
-    "wof:lastmodified": 1785687057,
+    "wof:lastmodified": 1785687587,
     "wof:name": "NH107 (SFO-HND)",
     "wof:parent_id": 1947304145,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032055391,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-01",
-    "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "2026-08-01T18:04:26-07:00",
+    "edtf:inception": "2026-08-02T04:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "FIN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260801-A-FIN-4088",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N145AN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153405468"
+    },
     "wof:country": "US",
     "wof:created": 1785686457,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -92,9 +104,10 @@
       102533631,
       1159283849,
       1947304301,
-      1159284389
+      1159284389,
+      1159289411
     ],
-    "wof:lastmodified": 1785686457,
+    "wof:lastmodified": 1785687579,
     "wof:name": "AA3054 (ORD-SFO)",
     "wof:parent_id": 1947304301,
     "wof:placetype": "custom",

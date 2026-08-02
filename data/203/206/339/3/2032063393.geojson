@@ -2,10 +2,12 @@
   "id": 2032063393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-02T00:53:47Z",
+    "edtf:inception": "2026-08-01T23:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153422716"
+    },
     "wof:country": "US",
     "wof:created": 1785687402,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -94,7 +102,7 @@
       1947304139,
       1159283597
     ],
-    "wof:lastmodified": 1785687402,
+    "wof:lastmodified": 1785687576,
     "wof:name": "UA574 (SFO-PHX)",
     "wof:parent_id": 1947304139,
     "wof:placetype": "custom",

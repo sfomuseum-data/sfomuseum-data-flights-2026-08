@@ -2,10 +2,12 @@
   "id": 2032063449,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-02T00:26:05Z",
+    "edtf:inception": "2026-08-01T21:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-01",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153475006"
+    },
     "wof:country": "US",
     "wof:created": 1785687408,
     "wof:geomhash": "b2b4de685cac2a2e83e7d43e9bbb14d9",
@@ -88,7 +96,7 @@
       1159285413,
       1947304631
     ],
-    "wof:lastmodified": 1785687408,
+    "wof:lastmodified": 1785687577,
     "wof:name": "UA692 (SFO-OMA)",
     "wof:parent_id": 1947304631,
     "wof:placetype": "custom",

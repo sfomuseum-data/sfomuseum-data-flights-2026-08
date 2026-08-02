@@ -2,10 +2,12 @@
   "id": 2032062991,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-01T20:00:08Z",
+    "edtf:inception": "2026-08-01T15:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N850UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153441107"
+    },
     "wof:country": "US",
     "wof:created": 1785687356,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032062991,
     "wof:involves": [
+      1159289407,
       102525635,
       102527513,
       1159285413,
       1947304601
     ],
-    "wof:lastmodified": 1785687356,
+    "wof:lastmodified": 1785687589,
     "wof:name": "UA1642 (SFO-DTW)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

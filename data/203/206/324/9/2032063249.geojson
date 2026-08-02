@@ -2,10 +2,12 @@
   "id": 2032063249,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-01T21:40:34Z",
+    "edtf:inception": "2026-08-01T16:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.0247425,
     "geom:longitude": -101.83923999999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533657,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N33264",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153447528"
+    },
     "wof:country": "US",
     "wof:created": 1785687386,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032063249,
     "wof:involves": [
+      1159289871,
       102533657,
       102527513,
       1159285413,
       1947304531
     ],
-    "wof:lastmodified": 1785687386,
+    "wof:lastmodified": 1785687576,
     "wof:name": "UA3882 (SFO-MCO)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

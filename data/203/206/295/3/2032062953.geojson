@@ -2,10 +2,12 @@
   "id": 2032062953,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-01",
     "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "edtf:cessation": "2026-08-02T04:19:12Z",
+    "edtf:inception": "2026-08-01T23:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153486295"
+    },
     "wof:country": "US",
     "wof:created": 1785687352,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -94,7 +102,7 @@
       1947304517,
       1159283605
     ],
-    "wof:lastmodified": 1785687352,
+    "wof:lastmodified": 1785687574,
     "wof:name": "UA1453 (SFO-IAD)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

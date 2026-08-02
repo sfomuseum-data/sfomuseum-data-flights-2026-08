@@ -2,10 +2,12 @@
   "id": 2032062539,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-01",
-    "date:inception_upper": "2026-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-01",
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "2026-08-02T09:59:47Z",
+    "edtf:inception": "2026-08-02T00:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SK",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153394910"
+    },
     "wof:country": "US",
     "wof:created": 1785687304,
     "wof:geomhash": "6cbb76e93301e33133b7541a51de6b35",
@@ -94,7 +102,7 @@
       1947304075,
       1159283627
     ],
-    "wof:lastmodified": 1785687304,
+    "wof:lastmodified": 1785687572,
     "wof:name": "SK936 (SFO-CPH)",
     "wof:parent_id": 1947304075,
     "wof:placetype": "custom",
