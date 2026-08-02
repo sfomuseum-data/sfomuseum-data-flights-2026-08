@@ -1,0 +1,78 @@
+{
+  "id": 2032063583,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-01",
+    "date:inception_upper": "2026-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-01",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "VS",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "3330",
+    "flysfo:date": "2026-08-01",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "VS3216",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SEA",
+    "flysfo:scheduled_timestamp": 1785588900,
+    "flysfo:timestamp": 1785588900,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
+    "geom:latitude": 42.529906499999996,
+    "geom:longitude": -122.3376055,
+    "iata:airline": "VS",
+    "iata:base_airline": "",
+    "icao:airline": "VIR",
+    "icao:base_airline": "AMX",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285483,
+    "sfomuseum:arrival_id": 102533269,
+    "sfomuseum:base_flight_id": "20260801-D-AMX-3330",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260801-D-VIR-3216",
+    "sfomuseum:flight_number": [
+      "VIR3216",
+      "VS3216"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1785687424,
+    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032063583,
+        "flight_id": 2032063583
+      }
+    ],
+    "wof:id": 2032063583,
+    "wof:involves": [
+      102533269,
+      102527513,
+      1159285483,
+      -1,
+      1159283539
+    ],
+    "wof:lastmodified": 1785687424,
+    "wof:name": "VS3216 (SFO-SEA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -122.304268,
+    47.441823
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
+}

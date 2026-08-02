@@ -1,0 +1,72 @@
+{
+  "id": 2032058375,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-01",
+    "date:inception_upper": "2026-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-01",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2026-08-01",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "WN3812",
+    "flysfo:gate": "",
+    "flysfo:journey": "PHX-SFO",
+    "flysfo:scheduled_timestamp": 1785569700,
+    "flysfo:timestamp": 1785569700,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.432684,-112.017392,37.617990",
+    "geom:latitude": 35.525337,
+    "geom:longitude": -117.19416749999999,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102526751,
+    "sfomuseum:flight_id": "20260801-A-SWA-3812",
+    "sfomuseum:flight_number": [
+      "SWA3812",
+      "WN3812"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1785686826,
+    "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032058375,
+        "flight_id": 2032058375
+      }
+    ],
+    "wof:id": 2032058375,
+    "wof:involves": [
+      102527513,
+      102526751,
+      1159285591,
+      -1
+    ],
+    "wof:lastmodified": 1785686826,
+    "wof:name": "WN3812 (PHX-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.432684,
+    -112.017392,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
