@@ -2,10 +2,12 @@
   "id": 2032077729,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T19:44:59Z",
+    "edtf:inception": "2026-08-02T16:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153531814"
+    },
     "wof:country": "US",
     "wof:created": 1785773826,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -94,7 +102,7 @@
       1947304519,
       1159283697
     ],
-    "wof:lastmodified": 1785773826,
+    "wof:lastmodified": 1785773961,
     "wof:name": "UA2498 (SFO-IAH)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

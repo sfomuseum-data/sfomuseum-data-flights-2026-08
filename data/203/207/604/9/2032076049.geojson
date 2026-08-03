@@ -2,10 +2,12 @@
   "id": 2032076049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T10:33:02Z",
+    "edtf:inception": "2026-08-02T06:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153501818"
+    },
     "wof:country": "US",
     "wof:created": 1785773634,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -94,7 +99,7 @@
       1947304679,
       1159283539
     ],
-    "wof:lastmodified": 1785773634,
+    "wof:lastmodified": 1785773957,
     "wof:name": "DL495 (SFO-ATL)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

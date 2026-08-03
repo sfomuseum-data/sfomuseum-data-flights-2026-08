@@ -2,10 +2,12 @@
   "id": 2032074137,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T12:26:26Z",
+    "edtf:inception": "2026-08-02T08:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-08-02",
@@ -48,6 +50,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153502665"
+    },
     "wof:country": "US",
     "wof:created": 1785773414,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
@@ -88,7 +93,7 @@
       1159283849,
       1947304291
     ],
-    "wof:lastmodified": 1785773414,
+    "wof:lastmodified": 1785773951,
     "wof:name": "AA1580 (SFO-CLT)",
     "wof:parent_id": 1947304291,
     "wof:placetype": "custom",

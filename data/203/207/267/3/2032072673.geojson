@@ -2,10 +2,12 @@
   "id": 2032072673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T02:03:00-07:00",
+    "edtf:inception": "2026-08-02T12:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.231919500000004,
     "geom:longitude": -109.610733,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525799,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8697C",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153515170"
+    },
     "wof:country": "US",
     "wof:created": 1785773243,
     "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
@@ -86,9 +98,10 @@
       102527513,
       102525799,
       1159285591,
-      1947304625
+      1947304625,
+      1159289871
     ],
-    "wof:lastmodified": 1785773243,
+    "wof:lastmodified": 1785773967,
     "wof:name": "WN376 (DAL-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

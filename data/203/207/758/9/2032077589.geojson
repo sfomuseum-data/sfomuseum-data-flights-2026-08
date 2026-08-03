@@ -2,10 +2,12 @@
   "id": 2032077589,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T22:35:17Z",
+    "edtf:inception": "2026-08-02T18:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153545072"
+    },
     "wof:country": "US",
     "wof:created": 1785773810,
     "wof:geomhash": "75b67362ad403f806ec665af17b684aa",
@@ -94,7 +102,7 @@
       1947304617,
       1159283697
     ],
-    "wof:lastmodified": 1785773810,
+    "wof:lastmodified": 1785773961,
     "wof:name": "UA1902 (SFO-IND)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

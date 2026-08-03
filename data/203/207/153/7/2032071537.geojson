@@ -2,10 +2,12 @@
   "id": 2032071537,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-02",
-    "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-02T06:57:00-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "WJA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260802-A-WJA-8804",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N880DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +100,10 @@
       102525635,
       1159284261,
       1947304669,
-      1159285523
+      1159285523,
+      1377564285
     ],
-    "wof:lastmodified": 1785773108,
+    "wof:lastmodified": 1785773936,
     "wof:name": "DL469 (DTW-SFO)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",

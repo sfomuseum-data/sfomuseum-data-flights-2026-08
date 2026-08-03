@@ -2,10 +2,12 @@
   "id": 2032074717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T23:33:04Z",
+    "edtf:inception": "2026-08-02T18:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153543635"
+    },
     "wof:country": "US",
     "wof:created": 1785773481,
     "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
@@ -94,7 +102,7 @@
       1947304627,
       1159283697
     ],
-    "wof:lastmodified": 1785773481,
+    "wof:lastmodified": 1785773953,
     "wof:name": "AC758 (SFO-YUL)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",

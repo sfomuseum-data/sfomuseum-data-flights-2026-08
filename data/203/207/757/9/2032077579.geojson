@@ -2,10 +2,12 @@
   "id": 2032077579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T11:51:39Z",
+    "edtf:inception": "2026-08-02T08:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20260802-D-ACA-4988",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N54561",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153506383"
+    },
     "wof:country": "US",
     "wof:created": 1785773809,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032077579,
     "wof:involves": [
+      1377564297,
       102533631,
       102527513,
       1159285413,
       1947304619,
       1159283597
     ],
-    "wof:lastmodified": 1785773809,
+    "wof:lastmodified": 1785773961,
     "wof:name": "UA1850 (SFO-ORD)",
     "wof:parent_id": 1947304619,
     "wof:placetype": "custom",

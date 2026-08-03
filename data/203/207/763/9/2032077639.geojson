@@ -2,10 +2,12 @@
   "id": 2032077639,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-02",
-    "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
+    "date:inception_lower": "2026-08-03",
+    "date:inception_upper": "2026-08-03",
+    "edtf:cessation": "2026-08-03T04:48:32Z",
+    "edtf:inception": "2026-08-03T01:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102521851,
     "sfomuseum:base_flight_id": "20260802-D-ACA-4795",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37541",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153506946"
+    },
     "wof:country": "US",
     "wof:created": 1785773816,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032077639,
     "wof:involves": [
+      1528104577,
       102521851,
       102527513,
       1159285413,
       1947304147,
       1159283597
     ],
-    "wof:lastmodified": 1785773816,
+    "wof:lastmodified": 1785773961,
     "wof:name": "UA2126 (SFO-AUS)",
     "wof:parent_id": 1947304147,
     "wof:placetype": "custom",

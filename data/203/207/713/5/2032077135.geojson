@@ -2,10 +2,12 @@
   "id": 2032077135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T14:41:29Z",
+    "edtf:inception": "2026-08-02T12:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-02",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153515291"
+    },
     "wof:country": "US",
     "wof:created": 1785773758,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -88,7 +96,7 @@
       1159285591,
       1947304601
     ],
-    "wof:lastmodified": 1785773758,
+    "wof:lastmodified": 1785773959,
     "wof:name": "WN3640 (SFO-DEN)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032077909,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-02",
-    "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
+    "date:inception_lower": "2026-08-03",
+    "date:inception_upper": "2026-08-03",
+    "edtf:cessation": "2026-08-03T07:21:10Z",
+    "edtf:inception": "2026-08-03T06:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153500519"
+    },
     "wof:country": "US",
     "wof:created": 1785773847,
     "wof:geomhash": "3d19e2486afc236330c096bb1f630ba3",
@@ -94,7 +102,7 @@
       1947304515,
       1159284211
     ],
-    "wof:lastmodified": 1785773847,
+    "wof:lastmodified": 1785773962,
     "wof:name": "UA548 (SFO-MFR)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

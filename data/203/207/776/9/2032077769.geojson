@@ -2,10 +2,12 @@
   "id": 2032077769,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-03T00:31:44Z",
+    "edtf:inception": "2026-08-02T23:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153565895"
+    },
     "wof:country": "US",
     "wof:created": 1785773831,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -94,7 +102,7 @@
       1947304133,
       1159283597
     ],
-    "wof:lastmodified": 1785773831,
+    "wof:lastmodified": 1785773962,
     "wof:name": "UA2851 (SFO-PDX)",
     "wof:parent_id": 1947304133,
     "wof:placetype": "custom",

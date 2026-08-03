@@ -2,10 +2,12 @@
   "id": 2032077857,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T18:14:40Z",
+    "edtf:inception": "2026-08-02T17:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.427454999999995,
     "geom:longitude": -121.5070865,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527351,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N874UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153538756"
+    },
     "wof:country": "US",
     "wof:created": 1785773841,
     "wof:geomhash": "6ee4dc6f06435306541ac2ffbe1ad823",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032077857,
     "wof:involves": [
+      1947304601,
+      1159289407,
       102527351,
       102527513,
-      1159285413,
-      1947304601
+      1159285413
     ],
-    "wof:lastmodified": 1785773841,
+    "wof:lastmodified": 1785773962,
     "wof:name": "UA487 (SFO-SBP)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

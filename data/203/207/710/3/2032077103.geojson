@@ -2,10 +2,12 @@
   "id": 2032077103,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-03T00:30:23Z",
+    "edtf:inception": "2026-08-02T23:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-02",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153487229"
+    },
     "wof:country": "US",
     "wof:created": 1785773755,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,7 +96,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1785773755,
+    "wof:lastmodified": 1785773959,
     "wof:name": "WN1044 (SFO-LAS)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

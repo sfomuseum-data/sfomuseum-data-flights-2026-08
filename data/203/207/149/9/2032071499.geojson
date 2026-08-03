@@ -2,10 +2,12 @@
   "id": 2032071499,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T18:20:03Z",
+    "edtf:inception": "2026-08-02T14:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153523697"
+    },
     "wof:country": "US",
     "wof:created": 1785773103,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -94,7 +102,7 @@
       1947304671,
       1159284625
     ],
-    "wof:lastmodified": 1785773103,
+    "wof:lastmodified": 1785773935,
     "wof:name": "DL2078 (MSP-SFO)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

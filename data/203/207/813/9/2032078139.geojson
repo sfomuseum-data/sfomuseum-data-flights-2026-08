@@ -2,10 +2,12 @@
   "id": 2032078139,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T12:41:16Z",
+    "edtf:inception": "2026-08-02T03:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -61.410693,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102556703,
     "sfomuseum:base_flight_id": "20260802-D-ACA-5376",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N51104",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153497920"
+    },
     "wof:country": "US",
     "wof:created": 1785773873,
     "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032078139,
     "wof:involves": [
+      1947304137,
+      1159283597,
+      1159293215,
       102556703,
       102527513,
-      1159285413,
-      1947304137,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1785773873,
+    "wof:lastmodified": 1785773963,
     "wof:name": "UA930 (SFO-LHR)",
     "wof:parent_id": 1947304137,
     "wof:placetype": "custom",

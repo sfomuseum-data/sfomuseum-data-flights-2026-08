@@ -2,10 +2,12 @@
   "id": 2032072185,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T14:22:01-07:00",
+    "edtf:inception": "2026-08-02T22:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "ETD",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260802-A-ETD-8330",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N992JB",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153555579"
+    },
     "wof:country": "US",
     "wof:created": 1785773184,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032072185,
     "wof:involves": [
+      1159289411,
       102527513,
       102530741,
       1159284583,
       1947304271,
       1159285587
     ],
-    "wof:lastmodified": 1785773184,
+    "wof:lastmodified": 1785773965,
     "wof:name": "B6733 (BOS-SFO)",
     "wof:parent_id": 1947304271,
     "wof:placetype": "custom",

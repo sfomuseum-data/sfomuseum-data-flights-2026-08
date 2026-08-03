@@ -2,10 +2,12 @@
   "id": 2032078145,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-03T07:59:34Z",
+    "edtf:inception": "2026-08-02T22:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -58.794018,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.618742,
     "lbl:longitude": -122.392935,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102542801,
     "sfomuseum:base_flight_id": "20260802-D-DLH-8730",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N26970",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153561678"
+    },
     "wof:country": "US",
     "wof:created": 1785773874,
     "wof:geomhash": "b03e5f5c78933bb0f626aa81ed57f330",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032078145,
     "wof:involves": [
-      102542801,
-      102527513,
       1159285413,
       1947304157,
-      1159286015
+      1159286015,
+      1159293215,
+      102542801,
+      102527513
     ],
-    "wof:lastmodified": 1785773874,
+    "wof:lastmodified": 1785773963,
     "wof:name": "UA968 (SFO-AMS)",
     "wof:parent_id": 1947304157,
     "wof:placetype": "custom",

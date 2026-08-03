@@ -2,10 +2,12 @@
   "id": 2032078051,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T22:11:38Z",
+    "edtf:inception": "2026-08-02T17:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153541051"
+    },
     "wof:country": "US",
     "wof:created": 1785773863,
     "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
@@ -94,7 +102,7 @@
       1947304523,
       1159283697
     ],
-    "wof:lastmodified": 1785773863,
+    "wof:lastmodified": 1785773972,
     "wof:name": "UA717 (SFO-CLE)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032071517,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T02:56:03-07:00",
+    "edtf:inception": "2026-08-02T15:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260802-A-KAL-3083",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153523291"
+    },
     "wof:country": "US",
     "wof:created": 1785773105,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2032071517,
     "wof:involves": [
-      102527513,
-      102533269,
       1159284261,
       1947304671,
-      1159284625
+      1159284625,
+      1813375783,
+      102527513,
+      102533269
     ],
-    "wof:lastmodified": 1785773105,
+    "wof:lastmodified": 1785773935,
     "wof:name": "DL2870 (SEA-SFO)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

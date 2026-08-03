@@ -2,10 +2,12 @@
   "id": 2032077597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-03T01:21:47Z",
+    "edtf:inception": "2026-08-02T23:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153538052"
+    },
     "wof:country": "US",
     "wof:created": 1785773811,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -94,7 +102,7 @@
       1947304487,
       1159283597
     ],
-    "wof:lastmodified": 1785773811,
+    "wof:lastmodified": 1785773961,
     "wof:name": "UA1954 (SFO-ORD)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

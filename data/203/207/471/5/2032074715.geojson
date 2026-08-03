@@ -2,10 +2,12 @@
   "id": 2032074715,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T19:49:06Z",
+    "edtf:inception": "2026-08-02T15:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.057846,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102554351,
     "sfomuseum:base_flight_id": "20260802-D-ANZ-4700",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGMEX",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153527976"
+    },
     "wof:country": "US",
     "wof:created": 1785773481,
     "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032074715,
     "wof:involves": [
-      102554351,
-      102527513,
       1159283597,
       1947304603,
-      1159283697
+      1159283697,
+      1528104575,
+      102554351,
+      102527513
     ],
-    "wof:lastmodified": 1785773481,
+    "wof:lastmodified": 1785773953,
     "wof:name": "AC756 (SFO-YUL)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032077549,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-03T04:33:25Z",
+    "edtf:inception": "2026-08-02T23:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -139.40440999999998,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532929,
     "sfomuseum:base_flight_id": "20260802-D-ACA-3534",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37527",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153487417"
+    },
     "wof:country": "US",
     "wof:created": 1785773806,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1947304525,
-      1159283597
+      1159283597,
+      1528104577
     ],
-    "wof:lastmodified": 1785773806,
+    "wof:lastmodified": 1785773961,
     "wof:name": "UA1749 (SFO-OGG)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

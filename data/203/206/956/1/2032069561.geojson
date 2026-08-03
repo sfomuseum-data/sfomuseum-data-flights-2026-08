@@ -2,10 +2,12 @@
   "id": 2032069561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T23:09:03Z",
+    "edtf:inception": "2026-08-02T21:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-08-02",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153474997"
+    },
     "wof:country": "US",
     "wof:created": 1785772854,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -88,7 +96,7 @@
       1159283849,
       1947304309
     ],
-    "wof:lastmodified": 1785772854,
+    "wof:lastmodified": 1785773939,
     "wof:name": "AA2860 (PHX-SFO)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

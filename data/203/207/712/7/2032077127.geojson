@@ -2,10 +2,12 @@
   "id": 2032077127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T21:38:43Z",
+    "edtf:inception": "2026-08-02T20:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8971L",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153549632"
+    },
     "wof:country": "US",
     "wof:created": 1785773757,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2032077127,
     "wof:involves": [
-      102528997,
-      102527513,
       1159285591,
-      -1
+      1528104575,
+      102528997,
+      102527513
     ],
-    "wof:lastmodified": 1785773757,
+    "wof:lastmodified": 1785773959,
     "wof:name": "WN3525 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

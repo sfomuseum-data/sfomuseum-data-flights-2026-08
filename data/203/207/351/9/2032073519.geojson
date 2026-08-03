@@ -2,10 +2,12 @@
   "id": 2032073519,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T15:47:32-07:00",
+    "edtf:inception": "2026-08-02T01:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260802-A-CMP-2364",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153490452"
+    },
     "wof:country": "US",
     "wof:created": 1785773344,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2032073519,
     "wof:involves": [
+      1947304455,
+      1159284211,
+      1528104577,
       102527513,
       102533997,
-      1159285413,
-      1947304455,
-      1159284211
+      1159285413
     ],
-    "wof:lastmodified": 1785773344,
+    "wof:lastmodified": 1785773948,
     "wof:name": "UA650 (HNL-SFO)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

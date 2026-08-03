@@ -2,10 +2,12 @@
   "id": 2032077811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T20:56:30Z",
+    "edtf:inception": "2026-08-02T19:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.7160145,
     "geom:longitude": -120.259968,
     "iata:airline": "UA",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528985,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N77867",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153549955"
+    },
     "wof:country": "US",
     "wof:created": 1785773836,
     "wof:geomhash": "eb36f7fd50c4e3281bc24d5224da58d3",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032077811,
     "wof:involves": [
+      1159289945,
       102528985,
       102527513,
       1159285413,
       1947304473
     ],
-    "wof:lastmodified": 1785773836,
+    "wof:lastmodified": 1785773972,
     "wof:name": "UA3752 (SFO-LGB)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

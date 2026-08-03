@@ -2,10 +2,12 @@
   "id": 2032077761,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T19:41:06Z",
+    "edtf:inception": "2026-08-02T15:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.315247,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528181,
     "sfomuseum:base_flight_id": "20260802-D-ANZ-9391",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N853UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153528242"
+    },
     "wof:country": "US",
     "wof:created": 1785773830,
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032077761,
     "wof:involves": [
+      1159289407,
       102528181,
       102527513,
       1159285413,
       1947304515,
       1159283697
     ],
-    "wof:lastmodified": 1785773830,
+    "wof:lastmodified": 1785773972,
     "wof:name": "UA2836 (SFO-PIT)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

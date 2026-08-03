@@ -2,10 +2,12 @@
   "id": 2032072699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T02:28:58-07:00",
+    "edtf:inception": "2026-08-02T15:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.907347,
     "geom:longitude": -120.3621325,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 1746879083,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N901WN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153524448"
+    },
     "wof:country": "US",
     "wof:created": 1785773246,
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032072699,
     "wof:involves": [
+      1159289869,
       102527513,
       1746879083,
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1785773246,
+    "wof:lastmodified": 1785773967,
     "wof:name": "WN827 (BUR-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

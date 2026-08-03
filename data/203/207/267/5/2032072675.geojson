@@ -2,10 +2,12 @@
   "id": 2032072675,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T07:23:03Z",
+    "edtf:inception": "2026-08-02T05:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-02",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153500971"
+    },
     "wof:country": "US",
     "wof:created": 1785773243,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -88,7 +93,7 @@
       1159285591,
       1947304603
     ],
-    "wof:lastmodified": 1785773243,
+    "wof:lastmodified": 1785773967,
     "wof:name": "WN3812 (PHX-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

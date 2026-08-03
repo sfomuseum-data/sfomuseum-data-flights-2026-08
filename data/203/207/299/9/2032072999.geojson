@@ -2,10 +2,12 @@
   "id": 2032072999,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T23:55:56Z",
+    "edtf:inception": "2026-08-02T20:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153550345"
+    },
     "wof:country": "US",
     "wof:created": 1785773282,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -94,7 +102,7 @@
       1947304457,
       1159283597
     ],
-    "wof:lastmodified": 1785773282,
+    "wof:lastmodified": 1785773968,
     "wof:name": "UA1577 (ORD-SFO)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",

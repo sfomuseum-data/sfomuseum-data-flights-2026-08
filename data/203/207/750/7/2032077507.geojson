@@ -2,10 +2,12 @@
   "id": 2032077507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T03:36:14Z",
+    "edtf:inception": "2026-08-02T02:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153495104"
+    },
     "wof:country": "US",
     "wof:created": 1785773801,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -94,7 +99,7 @@
       1947304623,
       1159283697
     ],
-    "wof:lastmodified": 1785773801,
+    "wof:lastmodified": 1785773961,
     "wof:name": "UA1577 (SFO-SEA)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

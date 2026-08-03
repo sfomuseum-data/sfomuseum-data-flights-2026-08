@@ -2,10 +2,12 @@
   "id": 2032076685,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T21:38:58Z",
+    "edtf:inception": "2026-08-02T10:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KE",
     "flysfo:date": "2026-08-02",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153581984"
+    },
     "wof:country": "US",
     "wof:created": 1785773707,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -51,7 +59,7 @@
       1159284625,
       -1
     ],
-    "wof:lastmodified": 1785773707,
+    "wof:lastmodified": 1785773958,
     "wof:name": "KE214 (SFO-ICN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

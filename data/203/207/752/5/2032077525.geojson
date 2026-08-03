@@ -2,10 +2,12 @@
   "id": 2032077525,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T15:47:54Z",
+    "edtf:inception": "2026-08-02T10:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618249,
     "lbl:longitude": -122.381477,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525535,
     "sfomuseum:base_flight_id": "20260802-D-ACA-4146",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N495UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153487872"
+    },
     "wof:country": "US",
     "wof:created": 1785773803,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032077525,
     "wof:involves": [
+      1159292085,
       102525535,
       102527513,
       1159285413,
       1947304631,
       1159283597
     ],
-    "wof:lastmodified": 1785773803,
+    "wof:lastmodified": 1785773961,
     "wof:name": "UA1613 (SFO-RNO)",
     "wof:parent_id": 1947304631,
     "wof:placetype": "custom",

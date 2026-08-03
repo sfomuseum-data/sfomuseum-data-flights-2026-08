@@ -2,10 +2,12 @@
   "id": 2032077171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T20:05:10Z",
+    "edtf:inception": "2026-08-02T18:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-02",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153519254"
+    },
     "wof:country": "US",
     "wof:created": 1785773763,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -88,7 +96,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1785773763,
+    "wof:lastmodified": 1785773972,
     "wof:name": "WN739 (SFO-LAX)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

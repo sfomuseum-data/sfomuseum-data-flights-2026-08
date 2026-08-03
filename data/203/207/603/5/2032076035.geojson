@@ -2,10 +2,12 @@
   "id": 2032076035,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-02",
+    "date:cessation_upper": "2026-08-02",
     "date:inception_lower": "2026-08-02",
     "date:inception_upper": "2026-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-02",
+    "edtf:cessation": "2026-08-02T21:16:06Z",
+    "edtf:inception": "2026-08-02T16:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153531779"
+    },
     "wof:country": "US",
     "wof:created": 1785773633,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -94,7 +102,7 @@
       1763588251,
       1159284613
     ],
-    "wof:lastmodified": 1785773633,
+    "wof:lastmodified": 1785773957,
     "wof:name": "DL383 (SFO-JFK)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",
