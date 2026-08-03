@@ -1,0 +1,72 @@
+{
+  "id": 2032073315,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-02",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-02",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA3753",
+    "flysfo:gate": "",
+    "flysfo:journey": "MKE-SFO",
+    "flysfo:scheduled_timestamp": 1785661440,
+    "flysfo:timestamp": 1785661440,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.896339,42.949572",
+    "geom:latitude": 40.283781000000005,
+    "geom:longitude": -105.133641,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530849,
+    "sfomuseum:flight_id": "20260802-A-UAL-3753",
+    "sfomuseum:flight_number": [
+      "UAL3753",
+      "UA3753"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1785773319,
+    "wof:geomhash": "1e284fd777a7bf1f8b464fea635cfcb1",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032073315,
+        "flight_id": 2032073315
+      }
+    ],
+    "wof:id": 2032073315,
+    "wof:involves": [
+      102527513,
+      102530849,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1785773319,
+    "wof:name": "UA3753 (MKE-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -87.896339,
+    42.949572
+  ],
+  "geometry": {"coordinates":[[-87.896339,42.949572],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

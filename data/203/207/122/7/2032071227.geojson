@@ -1,0 +1,72 @@
+{
+  "id": 2032071227,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-02",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DE",
+    "flysfo:date": "2026-08-02",
+    "flysfo:estimated_timestamp": 1785707400,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DE23",
+    "flysfo:gate": "",
+    "flysfo:journey": "FRA-SFO",
+    "flysfo:scheduled_timestamp": 1785706560,
+    "flysfo:timestamp": 1785707400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,7.267284,49.945918",
+    "geom:latitude": 43.781954,
+    "geom:longitude": -57.5518295,
+    "iata:airline": "DE",
+    "icao:airline": "CFG",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284193,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102549057,
+    "sfomuseum:flight_id": "20260802-A-CFG-23",
+    "sfomuseum:flight_number": [
+      "CFG23",
+      "DE23"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1785773070,
+    "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032071227,
+        "flight_id": 2032071227
+      }
+    ],
+    "wof:id": 2032071227,
+    "wof:involves": [
+      102527513,
+      102549057,
+      1159284193,
+      -1
+    ],
+    "wof:lastmodified": 1785773070,
+    "wof:name": "DE23 (FRA-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    7.267284,
+    49.945918
+  ],
+  "geometry": {"coordinates":[[7.267284,49.945918],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

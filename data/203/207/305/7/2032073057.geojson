@@ -1,0 +1,72 @@
+{
+  "id": 2032073057,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-02",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-02",
+    "flysfo:estimated_timestamp": 1785727020,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA1805",
+    "flysfo:gate": "",
+    "flysfo:journey": "DEN-SFO",
+    "flysfo:scheduled_timestamp": 1785733980,
+    "flysfo:timestamp": 1785733980,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
+    "geom:latitude": 38.7414645,
+    "geom:longitude": -113.521581,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531189,
+    "sfomuseum:flight_id": "20260802-A-UAL-1805",
+    "sfomuseum:flight_number": [
+      "UAL1805",
+      "UA1805"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1785773288,
+    "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032073057,
+        "flight_id": 2032073057
+      }
+    ],
+    "wof:id": 2032073057,
+    "wof:involves": [
+      102527513,
+      102531189,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1785773288,
+    "wof:name": "UA1805 (DEN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -104.672219,
+    39.864939
+  ],
+  "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

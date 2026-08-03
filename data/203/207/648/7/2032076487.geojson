@@ -1,0 +1,78 @@
+{
+  "id": 2032076487,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-02",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "HA",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "5800",
+    "flysfo:date": "2026-08-02",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "HA979",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-OGG",
+    "flysfo:scheduled_timestamp": 1785687780,
+    "flysfo:timestamp": 1785687780,
+    "geom:area": 0,
+    "geom:bbox": "-156.437877,20.894952,-122.370943,37.617990",
+    "geom:latitude": 29.256470999999998,
+    "geom:longitude": -139.40440999999998,
+    "iata:airline": "HA",
+    "iata:base_airline": "",
+    "icao:airline": "HAL",
+    "icao:base_airline": "FJI",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284489,
+    "sfomuseum:arrival_id": 102532929,
+    "sfomuseum:base_flight_id": "20260802-D-FJI-5800",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260802-D-HAL-979",
+    "sfomuseum:flight_number": [
+      "HAL979",
+      "HA979"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1785773685,
+    "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032076487,
+        "flight_id": 2032076487
+      }
+    ],
+    "wof:id": 2032076487,
+    "wof:involves": [
+      102532929,
+      102527513,
+      1159284489,
+      -1,
+      1159283717
+    ],
+    "wof:lastmodified": 1785773685,
+    "wof:name": "HA979 (SFO-OGG)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -156.437877,
+    20.894952,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-156.437877,20.894952]],"type":"MultiPoint"}
+}

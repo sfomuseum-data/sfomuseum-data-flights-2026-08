@@ -1,0 +1,109 @@
+{
+  "id": 2032076033,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-02",
+    "date:inception_upper": "2026-08-02",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-02",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-08-02",
+    "flysfo:estimated_timestamp": 1785688620,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL381",
+    "flysfo:gate": "C8",
+    "flysfo:journey": "SFO-AUS",
+    "flysfo:scheduled_timestamp": 1785688920,
+    "flysfo:timestamp": 1785688920,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
+    "geom:latitude": 33.9120825,
+    "geom:longitude": -110.006986,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.614676,
+    "lbl:longitude": -122.38248,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102521851,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260802-D-DAL-381",
+    "sfomuseum:flight_number": [
+      "DAL381",
+      "DL381"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304663,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304681,
+      1947304591,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1785773632,
+    "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304663,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2032076033,
+        "flight_id": 2032076033,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304681,
+        "wing_id": 1947304591
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304663,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2032076033,
+        "flight_id": 2032076033,
+        "region_id": 85688637,
+        "venue_id": 1947304681,
+        "wing_id": 1947304591
+      }
+    ],
+    "wof:id": 2032076033,
+    "wof:involves": [
+      102521851,
+      102527513,
+      1159284261,
+      1947304681
+    ],
+    "wof:lastmodified": 1785773632,
+    "wof:name": "DL381 (SFO-AUS)",
+    "wof:parent_id": 1947304681,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    30.206175,
+    -97.643029,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.643029,30.206175]],"type":"MultiPoint"}
+}
