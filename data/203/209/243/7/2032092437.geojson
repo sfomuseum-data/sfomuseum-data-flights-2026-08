@@ -2,10 +2,12 @@
   "id": 2032092437,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-03",
-    "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
+    "date:inception_lower": "2026-08-04",
+    "date:inception_upper": "2026-08-04",
+    "edtf:cessation": "2026-08-04T07:04:59Z",
+    "edtf:inception": "2026-08-04T06:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153580758"
+    },
     "wof:country": "US",
     "wof:created": 1785860254,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -94,7 +102,7 @@
       1947304631,
       1159283597
     ],
-    "wof:lastmodified": 1785860254,
+    "wof:lastmodified": 1785860452,
     "wof:name": "UA2866 (SFO-SBA)",
     "wof:parent_id": 1947304631,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032092089,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-03",
     "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "edtf:cessation": "2026-08-03T22:50:53Z",
+    "edtf:inception": "2026-08-03T21:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153633367"
+    },
     "wof:country": "US",
     "wof:created": 1785860214,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -94,7 +102,7 @@
       1947304523,
       1159283597
     ],
-    "wof:lastmodified": 1785860214,
+    "wof:lastmodified": 1785860448,
     "wof:name": "UA1151 (SFO-YVR)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

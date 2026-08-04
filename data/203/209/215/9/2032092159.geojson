@@ -2,10 +2,12 @@
   "id": 2032092159,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-03",
     "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "edtf:cessation": "2026-08-04T03:06:00Z",
+    "edtf:inception": "2026-08-03T23:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153644722"
+    },
     "wof:country": "US",
     "wof:created": 1785860222,
     "wof:geomhash": "b03a18c879ef85a5ca01fa93c99f372c",
@@ -94,7 +102,7 @@
       1947304603,
       1159283697
     ],
-    "wof:lastmodified": 1785860222,
+    "wof:lastmodified": 1785860449,
     "wof:name": "UA1515 (SFO-MCI)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

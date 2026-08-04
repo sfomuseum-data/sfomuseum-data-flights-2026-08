@@ -2,10 +2,12 @@
   "id": 2032091799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-03",
     "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "edtf:cessation": "2026-08-03T13:15:13Z",
+    "edtf:inception": "2026-08-03T12:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-03",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153589886"
+    },
     "wof:country": "US",
     "wof:created": 1785860179,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,7 +96,7 @@
       1159285591,
       1947304601
     ],
-    "wof:lastmodified": 1785860179,
+    "wof:lastmodified": 1785860442,
     "wof:name": "WN4231 (SFO-LAS)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

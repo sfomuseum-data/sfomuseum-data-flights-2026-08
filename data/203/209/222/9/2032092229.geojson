@@ -2,10 +2,12 @@
   "id": 2032092229,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-03",
-    "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
+    "date:inception_lower": "2026-08-04",
+    "date:inception_upper": "2026-08-04",
+    "edtf:cessation": "2026-08-04T06:28:14Z",
+    "edtf:inception": "2026-08-04T01:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.475248999999998,
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N211UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153634970"
+    },
     "wof:country": "US",
     "wof:created": 1785860230,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2032092229,
     "wof:involves": [
-      102533997,
-      102527513,
       1159285413,
-      -1
+      1159289985,
+      102533997,
+      102527513
     ],
-    "wof:lastmodified": 1785860230,
+    "wof:lastmodified": 1785860450,
     "wof:name": "UA1805 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

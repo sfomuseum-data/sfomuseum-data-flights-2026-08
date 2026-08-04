@@ -2,10 +2,12 @@
   "id": 2032092787,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-03",
-    "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
+    "date:inception_lower": "2026-08-04",
+    "date:inception_upper": "2026-08-04",
+    "edtf:cessation": "2026-08-04T19:47:01Z",
+    "edtf:inception": "2026-08-04T06:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153583509"
+    },
     "wof:country": "US",
     "wof:created": 1785860294,
     "wof:geomhash": "2816398c66be3da27e7024f224ecf0ab",
@@ -94,7 +102,7 @@
       1947304131,
       1159285749
     ],
-    "wof:lastmodified": 1785860294,
+    "wof:lastmodified": 1785860455,
     "wof:name": "UA96 (SFO-BNE)",
     "wof:parent_id": 1947304131,
     "wof:placetype": "custom",

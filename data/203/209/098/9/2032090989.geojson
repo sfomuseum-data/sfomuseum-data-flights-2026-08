@@ -2,10 +2,12 @@
   "id": 2032090989,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-03",
     "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-03T14:16:23-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "F9",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "FFT",
     "icao:base_airline": "VOI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20260803-D-VOI-2484",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N709FR",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +97,14 @@
     ],
     "wof:id": 2032090989,
     "wof:involves": [
-      102533795,
-      102527513,
       1159284401,
       1947304285,
-      1360700749
+      1360700749,
+      1159289411,
+      102533795,
+      102527513
     ],
-    "wof:lastmodified": 1785860082,
+    "wof:lastmodified": 1785860431,
     "wof:name": "F92858 (SFO-LAX)",
     "wof:parent_id": 1947304285,
     "wof:placetype": "custom",

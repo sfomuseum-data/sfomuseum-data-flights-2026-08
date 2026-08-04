@@ -2,10 +2,12 @@
   "id": 2032086091,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-03",
     "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "edtf:cessation": "2026-08-03T13:14:21-07:00",
+    "edtf:inception": "2026-08-03T21:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "ELY",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260803-A-ELY-4578",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N537DT",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153633360"
+    },
     "wof:country": "US",
     "wof:created": 1785859507,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032086091,
     "wof:involves": [
+      1377564297,
       102527513,
       102530741,
       1159284261,
       1947304667,
       1159284327
     ],
-    "wof:lastmodified": 1785859507,
+    "wof:lastmodified": 1785860372,
     "wof:name": "DL1655 (BOS-SFO)",
     "wof:parent_id": 1947304667,
     "wof:placetype": "custom",

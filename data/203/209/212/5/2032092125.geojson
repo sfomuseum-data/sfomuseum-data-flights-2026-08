@@ -2,10 +2,12 @@
   "id": 2032092125,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-03",
     "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "edtf:cessation": "2026-08-03T23:57:31Z",
+    "edtf:inception": "2026-08-03T23:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102521851,
     "sfomuseum:base_flight_id": "20260803-D-ACA-4029",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N432UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +97,14 @@
     ],
     "wof:id": 2032092125,
     "wof:involves": [
-      102521851,
-      102527513,
       1159285413,
       1947304455,
-      1159283597
+      1159283597,
+      1159292085,
+      102521851,
+      102527513
     ],
-    "wof:lastmodified": 1785860218,
+    "wof:lastmodified": 1785860449,
     "wof:name": "UA1326 (SFO-AUS)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

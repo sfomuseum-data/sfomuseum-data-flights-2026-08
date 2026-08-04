@@ -2,10 +2,12 @@
   "id": 2032091059,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-03",
     "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-03T13:17:26-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F8",
     "flysfo:date": "2026-08-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.40566,
     "geom:longitude": -122.7750715,
     "iata:airline": "F8",
+    "icao:aircraft": "B38M",
     "icao:airline": "FLE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1763552143,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CFFEL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +92,13 @@
     ],
     "wof:id": 2032091059,
     "wof:involves": [
+      1947304279,
+      1528104575,
       102555307,
       102527513,
-      1763552143,
-      1947304279
+      1763552143
     ],
-    "wof:lastmodified": 1785860090,
+    "wof:lastmodified": 1785860432,
     "wof:name": "F81849 (SFO-YVR)",
     "wof:parent_id": 1947304279,
     "wof:placetype": "custom",

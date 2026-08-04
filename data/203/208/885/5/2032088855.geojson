@@ -2,10 +2,12 @@
   "id": 2032088855,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-03",
     "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "edtf:cessation": "2026-08-03T17:01:36Z",
+    "edtf:inception": "2026-08-03T12:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-08-03",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153591016"
+    },
     "wof:country": "US",
     "wof:created": 1785859833,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
@@ -88,7 +96,7 @@
       1159283849,
       1947304279
     ],
-    "wof:lastmodified": 1785859833,
+    "wof:lastmodified": 1785860398,
     "wof:name": "AA3082 (SFO-CLT)",
     "wof:parent_id": 1947304279,
     "wof:placetype": "custom",

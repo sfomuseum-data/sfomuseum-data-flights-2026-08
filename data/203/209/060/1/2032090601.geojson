@@ -2,10 +2,12 @@
   "id": 2032090601,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-03",
-    "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
+    "date:inception_lower": "2026-08-04",
+    "date:inception_upper": "2026-08-04",
+    "edtf:cessation": "2026-08-04T04:41:47Z",
+    "edtf:inception": "2026-08-04T03:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20260803-D-VIR-4531",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N343NW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153570873"
+    },
     "wof:country": "US",
     "wof:created": 1785860037,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -92,9 +104,10 @@
       102527513,
       1159284261,
       1947304679,
-      1159285483
+      1159285483,
+      1159292085
     ],
-    "wof:lastmodified": 1785860037,
+    "wof:lastmodified": 1785860428,
     "wof:name": "DL1088 (SFO-SLC)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

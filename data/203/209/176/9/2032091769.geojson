@@ -2,10 +2,12 @@
   "id": 2032091769,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-03",
-    "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
+    "date:inception_lower": "2026-08-04",
+    "date:inception_upper": "2026-08-04",
+    "edtf:cessation": "2026-08-04T10:29:02Z",
+    "edtf:inception": "2026-08-04T06:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8721885,
     "geom:longitude": -104.5237975,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102525035,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N438WN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153582724"
+    },
     "wof:country": "US",
     "wof:created": 1785860175,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032091769,
     "wof:involves": [
+      1159289869,
       102525035,
       102527513,
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1785860175,
+    "wof:lastmodified": 1785860442,
     "wof:name": "WN3634 (SFO-BNA)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032087289,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-03",
     "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "edtf:cessation": "2026-08-03T04:28:41-07:00",
+    "edtf:inception": "2026-08-03T14:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.180931,
     "geom:longitude": -106.3692875,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 1746879059,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8678E",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153596117"
+    },
     "wof:country": "US",
     "wof:created": 1785859649,
     "wof:geomhash": "5aed0915f9f8845326df52b0d348a4b7",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032087289,
     "wof:involves": [
-      102527513,
       1746879059,
       1159285591,
-      1947304625
+      1947304625,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1785859649,
+    "wof:lastmodified": 1785860386,
     "wof:name": "WN3982 (STL-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

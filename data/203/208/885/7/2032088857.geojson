@@ -2,10 +2,12 @@
   "id": 2032088857,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-03",
+    "date:cessation_upper": "2026-08-03",
     "date:inception_lower": "2026-08-03",
     "date:inception_upper": "2026-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-03",
+    "edtf:cessation": "2026-08-03T21:13:31Z",
+    "edtf:inception": "2026-08-03T16:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.809414,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102529403,
     "sfomuseum:base_flight_id": "20260803-D-BAW-5616",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N427AN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153605307"
+    },
     "wof:country": "US",
     "wof:created": 1785859833,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -92,9 +104,10 @@
       102527513,
       1159283849,
       1947304317,
-      1159284021
+      1159284021,
+      1377564297
     ],
-    "wof:lastmodified": 1785859833,
+    "wof:lastmodified": 1785860398,
     "wof:name": "AA2941 (SFO-PHL)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",
