@@ -2,10 +2,12 @@
   "id": 2032107049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-05T02:26:29Z",
+    "edtf:inception": "2026-08-04T22:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153720609"
+    },
     "wof:country": "US",
     "wof:created": 1785946658,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -94,7 +102,7 @@
       1947304619,
       1159283597
     ],
-    "wof:lastmodified": 1785946658,
+    "wof:lastmodified": 1785946826,
     "wof:name": "UA817 (SFO-MEX)",
     "wof:parent_id": 1947304619,
     "wof:placetype": "custom",

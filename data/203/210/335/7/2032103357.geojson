@@ -2,10 +2,12 @@
   "id": 2032103357,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-05T00:25:55Z",
+    "edtf:inception": "2026-08-04T23:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-08-04",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153727286"
+    },
     "wof:country": "US",
     "wof:created": 1785946228,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
@@ -51,7 +59,7 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1785946228,
+    "wof:lastmodified": 1785946781,
     "wof:name": "AA499 (SFO-BOI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

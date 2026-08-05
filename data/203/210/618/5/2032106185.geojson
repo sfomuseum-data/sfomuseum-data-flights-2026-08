@@ -2,10 +2,12 @@
   "id": 2032106185,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T14:19:30Z",
+    "edtf:inception": "2026-08-04T12:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8695D",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153671950"
+    },
     "wof:country": "US",
     "wof:created": 1785946559,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032106185,
     "wof:involves": [
-      102526751,
       102527513,
       1159285591,
-      1947304603
+      1947304603,
+      1159289871,
+      102526751
     ],
-    "wof:lastmodified": 1785946559,
+    "wof:lastmodified": 1785946799,
     "wof:name": "WN3557 (SFO-PHX)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032101887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T07:55:30Z",
+    "edtf:inception": "2026-08-04T06:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-04",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153659030"
+    },
     "wof:country": "US",
     "wof:created": 1785946053,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -88,7 +93,7 @@
       1159285591,
       1947304601
     ],
-    "wof:lastmodified": 1785946053,
+    "wof:lastmodified": 1785946768,
     "wof:name": "WN1098 (PHX-SFO)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

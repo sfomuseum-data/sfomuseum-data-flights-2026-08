@@ -2,10 +2,12 @@
   "id": 2032106539,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-05T00:22:12Z",
+    "edtf:inception": "2026-08-04T22:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153697048"
+    },
     "wof:country": "US",
     "wof:created": 1785946600,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -94,7 +102,7 @@
       1947304491,
       1159283597
     ],
-    "wof:lastmodified": 1785946600,
+    "wof:lastmodified": 1785946822,
     "wof:name": "UA1604 (SFO-DEN)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

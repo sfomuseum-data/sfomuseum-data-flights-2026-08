@@ -2,10 +2,12 @@
   "id": 2032102487,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T17:18:31Z",
+    "edtf:inception": "2026-08-04T12:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153668853"
+    },
     "wof:country": "US",
     "wof:created": 1785946125,
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
@@ -94,7 +102,7 @@
       1947304531,
       1779770723
     ],
-    "wof:lastmodified": 1785946125,
+    "wof:lastmodified": 1785946773,
     "wof:name": "UA2855 (MCO-SFO)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

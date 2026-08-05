@@ -2,10 +2,12 @@
   "id": 2032101925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T23:50:22Z",
+    "edtf:inception": "2026-08-04T22:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-04",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153724029"
+    },
     "wof:country": "US",
     "wof:created": 1785946059,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,7 +96,7 @@
       1159285591,
       1947304607
     ],
-    "wof:lastmodified": 1785946059,
+    "wof:lastmodified": 1785946768,
     "wof:name": "WN3178 (LAX-SFO)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

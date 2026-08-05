@@ -2,10 +2,12 @@
   "id": 2032106781,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-05T04:47:13Z",
+    "edtf:inception": "2026-08-04T18:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153699922"
+    },
     "wof:country": "US",
     "wof:created": 1785946628,
     "wof:geomhash": "1f86cc41c51819fe374d86de27276a46",
@@ -94,7 +102,7 @@
       1947304131,
       1159283875
     ],
-    "wof:lastmodified": 1785946628,
+    "wof:lastmodified": 1785946824,
     "wof:name": "UA35 (SFO-KIX)",
     "wof:parent_id": 1947304131,
     "wof:placetype": "custom",

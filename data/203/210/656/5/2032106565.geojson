@@ -2,10 +2,12 @@
   "id": 2032106565,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-04",
-    "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
+    "date:inception_lower": "2026-08-05",
+    "date:inception_upper": "2026-08-05",
+    "edtf:cessation": "2026-08-05T05:57:01Z",
+    "edtf:inception": "2026-08-05T02:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153644260"
+    },
     "wof:country": "US",
     "wof:created": 1785946603,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -94,7 +102,7 @@
       1947304491,
       1159283605
     ],
-    "wof:lastmodified": 1785946603,
+    "wof:lastmodified": 1785946822,
     "wof:name": "UA1754 (SFO-LAX)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

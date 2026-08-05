@@ -2,10 +2,12 @@
   "id": 2032101935,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T10:35:12-07:00",
+    "edtf:inception": "2026-08-04T23:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N7876A",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153722366"
+    },
     "wof:country": "US",
     "wof:created": 1785946060,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032101935,
     "wof:involves": [
-      102527513,
-      102528997,
       1159285591,
-      1947304625
+      1947304625,
+      1159289869,
+      102527513,
+      102528997
     ],
-    "wof:lastmodified": 1785946060,
+    "wof:lastmodified": 1785946768,
     "wof:name": "WN3497 (SAN-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

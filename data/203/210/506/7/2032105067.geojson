@@ -2,10 +2,12 @@
   "id": 2032105067,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-05T01:57:05Z",
+    "edtf:inception": "2026-08-04T22:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153717015"
+    },
     "wof:country": "US",
     "wof:created": 1785946429,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -94,7 +102,7 @@
       1947304679,
       1159284625
     ],
-    "wof:lastmodified": 1785946429,
+    "wof:lastmodified": 1785946791,
     "wof:name": "DL1927 (SFO-DTW)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

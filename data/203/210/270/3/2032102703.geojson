@@ -2,10 +2,12 @@
   "id": 2032102703,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T15:46:29Z",
+    "edtf:inception": "2026-08-04T10:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153665033"
+    },
     "wof:country": "US",
     "wof:created": 1785946151,
     "wof:geomhash": "e5ae5d1ea61206da1f1e1104d6bc1bb7",
@@ -94,7 +102,7 @@
       1947304531,
       1159285485
     ],
-    "wof:lastmodified": 1785946151,
+    "wof:lastmodified": 1785946775,
     "wof:name": "UA611 (TPA-SFO)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032105079,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T16:34:42Z",
+    "edtf:inception": "2026-08-04T13:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:base_flight_id": "20260804-D-AFR-2180",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N118DY",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153674302"
+    },
     "wof:country": "US",
     "wof:created": 1785946430,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032105079,
     "wof:involves": [
+      1947304299,
+      1159283627,
+      1159289411,
       102531131,
       102527513,
-      1159284261,
-      1947304299,
-      1159283627
+      1159284261
     ],
-    "wof:lastmodified": 1785946430,
+    "wof:lastmodified": 1785946791,
     "wof:name": "DL2178 (SFO-MSP)",
     "wof:parent_id": 1947304299,
     "wof:placetype": "custom",

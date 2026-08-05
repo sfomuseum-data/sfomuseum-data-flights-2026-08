@@ -2,10 +2,12 @@
   "id": 2032102573,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T16:07:07Z",
+    "edtf:inception": "2026-08-04T11:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153668439"
+    },
     "wof:country": "US",
     "wof:created": 1785946135,
     "wof:geomhash": "c95405ad82a47404b222d64c163ad7d9",
@@ -94,7 +102,7 @@
       1947304483,
       1159283697
     ],
-    "wof:lastmodified": 1785946135,
+    "wof:lastmodified": 1785946773,
     "wof:name": "UA500 (IND-SFO)",
     "wof:parent_id": 1947304483,
     "wof:placetype": "custom",

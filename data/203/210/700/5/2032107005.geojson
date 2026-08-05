@@ -2,10 +2,12 @@
   "id": 2032107005,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T20:42:34Z",
+    "edtf:inception": "2026-08-04T16:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153686261"
+    },
     "wof:country": "US",
     "wof:created": 1785946653,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -94,7 +102,7 @@
       1947304491,
       1159283697
     ],
-    "wof:lastmodified": 1785946653,
+    "wof:lastmodified": 1785946825,
     "wof:name": "UA702 (SFO-ATL)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

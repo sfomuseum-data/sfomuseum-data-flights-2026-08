@@ -2,10 +2,12 @@
   "id": 2032101917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T07:07:34Z",
+    "edtf:inception": "2026-08-04T06:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-04",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153659068"
+    },
     "wof:country": "US",
     "wof:created": 1785946058,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -88,7 +93,7 @@
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1785946058,
+    "wof:lastmodified": 1785946768,
     "wof:name": "WN2784 (LAS-SFO)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

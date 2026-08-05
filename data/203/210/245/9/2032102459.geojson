@@ -2,10 +2,12 @@
   "id": 2032102459,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T23:59:39-07:00",
+    "edtf:inception": "2026-08-04T13:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.427454999999995,
     "geom:longitude": -121.5070865,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527351,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N884UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153674557"
+    },
     "wof:country": "US",
     "wof:created": 1785946122,
     "wof:geomhash": "2af895d7dc7816e28cbc6da81f2a802b",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032102459,
     "wof:involves": [
+      1159289407,
       102527513,
       102527351,
       1159285413,
       1947304619
     ],
-    "wof:lastmodified": 1785946122,
+    "wof:lastmodified": 1785946772,
     "wof:name": "UA2718 (SBP-SFO)",
     "wof:parent_id": 1947304619,
     "wof:placetype": "custom",

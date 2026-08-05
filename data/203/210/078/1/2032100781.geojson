@@ -2,10 +2,12 @@
   "id": 2032100781,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T09:04:00Z",
+    "edtf:inception": "2026-08-04T03:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153648296"
+    },
     "wof:country": "US",
     "wof:created": 1785945920,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -94,7 +99,7 @@
       1763588251,
       1159284613
     ],
-    "wof:lastmodified": 1785945920,
+    "wof:lastmodified": 1785946758,
     "wof:name": "DL1732 (JFK-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

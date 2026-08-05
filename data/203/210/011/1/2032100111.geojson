@@ -2,10 +2,12 @@
   "id": 2032100111,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T21:43:08Z",
+    "edtf:inception": "2026-08-04T20:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153712282"
+    },
     "wof:country": "US",
     "wof:created": 1785945838,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +102,7 @@
       1947304313,
       1159284021
     ],
-    "wof:lastmodified": 1785945838,
+    "wof:lastmodified": 1785946739,
     "wof:name": "AS1522 (LAX-SFO)",
     "wof:parent_id": 1947304313,
     "wof:placetype": "custom",

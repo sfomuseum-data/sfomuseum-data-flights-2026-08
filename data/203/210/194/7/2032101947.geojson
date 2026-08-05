@@ -2,10 +2,12 @@
   "id": 2032101947,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T18:26:54Z",
+    "edtf:inception": "2026-08-04T15:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-04",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153678994"
+    },
     "wof:country": "US",
     "wof:created": 1785946061,
     "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
@@ -88,7 +96,7 @@
       1159285591,
       1947304603
     ],
-    "wof:lastmodified": 1785946061,
+    "wof:lastmodified": 1785946768,
     "wof:name": "WN4542 (DAL-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

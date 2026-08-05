@@ -2,10 +2,12 @@
   "id": 2032106201,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T15:42:37Z",
+    "edtf:inception": "2026-08-04T13:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N9001F",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153657511"
+    },
     "wof:country": "US",
     "wof:created": 1785946561,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032106201,
     "wof:involves": [
+      1947304601,
+      1528104575,
       102531189,
       102527513,
-      1159285591,
-      1947304601
+      1159285591
     ],
-    "wof:lastmodified": 1785946561,
+    "wof:lastmodified": 1785946799,
     "wof:name": "WN4703 (SFO-DEN)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

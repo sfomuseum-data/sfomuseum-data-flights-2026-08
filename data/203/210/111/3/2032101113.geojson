@@ -2,10 +2,12 @@
   "id": 2032101113,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-04",
-    "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
+    "date:inception_lower": "2026-08-05",
+    "date:inception_upper": "2026-08-05",
+    "edtf:cessation": "2026-08-04T12:13:38-07:00",
+    "edtf:inception": "2026-08-05T00:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2026-08-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "F9",
+    "icao:aircraft": "A321",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527363,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N708FR",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153643071"
+    },
     "wof:country": "US",
     "wof:created": 1785945959,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032101113,
     "wof:involves": [
-      102527513,
       102527363,
       1159284401,
-      1947304281
+      1947304281,
+      1159289411,
+      102527513
     ],
-    "wof:lastmodified": 1785945959,
+    "wof:lastmodified": 1785946761,
     "wof:name": "F93393 (SLC-SFO)",
     "wof:parent_id": 1947304281,
     "wof:placetype": "custom",

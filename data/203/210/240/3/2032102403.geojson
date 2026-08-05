@@ -2,10 +2,12 @@
   "id": 2032102403,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T19:01:33Z",
+    "edtf:inception": "2026-08-04T15:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153680624"
+    },
     "wof:country": "US",
     "wof:created": 1785946115,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -94,7 +102,7 @@
       1947304475,
       1159284333
     ],
-    "wof:lastmodified": 1785946115,
+    "wof:lastmodified": 1785946772,
     "wof:name": "UA2358 (IAH-SFO)",
     "wof:parent_id": 1947304475,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032105391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T15:19:06Z",
+    "edtf:inception": "2026-08-04T13:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "F9",
     "iata:base_airline": "",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "icao:base_airline": "VOI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20260804-D-VOI-2095",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N409FR",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153673201"
+    },
     "wof:country": "US",
     "wof:created": 1785946467,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032105391,
     "wof:involves": [
+      1947304273,
+      1360700749,
+      1377564295,
       102531189,
       102527513,
-      1159284401,
-      1947304273,
-      1360700749
+      1159284401
     ],
-    "wof:lastmodified": 1785946467,
+    "wof:lastmodified": 1785946793,
     "wof:name": "F91230 (SFO-DEN)",
     "wof:parent_id": 1947304273,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032098873,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T21:04:40Z",
+    "edtf:inception": "2026-08-04T16:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-08-04",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153688931"
+    },
     "wof:country": "US",
     "wof:created": 1785945668,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
@@ -88,7 +96,7 @@
       1159283849,
       1947304317
     ],
-    "wof:lastmodified": 1785945668,
+    "wof:lastmodified": 1785946729,
     "wof:name": "AA1687 (CLT-SFO)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032104579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-05T01:41:20Z",
+    "edtf:inception": "2026-08-04T20:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153713232"
+    },
     "wof:country": "US",
     "wof:created": 1785946371,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -94,7 +102,7 @@
       1947304289,
       1159285043
     ],
-    "wof:lastmodified": 1785946371,
+    "wof:lastmodified": 1785946788,
     "wof:name": "AS42 (SFO-JFK)",
     "wof:parent_id": 1947304289,
     "wof:placetype": "custom",

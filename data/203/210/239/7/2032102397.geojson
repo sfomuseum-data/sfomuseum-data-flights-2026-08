@@ -2,10 +2,12 @@
   "id": 2032102397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T16:39:06Z",
+    "edtf:inception": "2026-08-04T14:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153678051"
+    },
     "wof:country": "US",
     "wof:created": 1785946114,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -94,7 +102,7 @@
       1947304453,
       1159283597
     ],
-    "wof:lastmodified": 1785946114,
+    "wof:lastmodified": 1785946772,
     "wof:name": "UA2322 (YVR-SFO)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",

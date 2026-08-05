@@ -2,10 +2,12 @@
   "id": 2032102583,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-04",
+    "date:cessation_upper": "2026-08-04",
     "date:inception_lower": "2026-08-04",
     "date:inception_upper": "2026-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-04",
+    "edtf:cessation": "2026-08-04T17:43:59Z",
+    "edtf:inception": "2026-08-04T16:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153688988"
+    },
     "wof:country": "US",
     "wof:created": 1785946136,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +102,7 @@
       1947304515,
       1159283875
     ],
-    "wof:lastmodified": 1785946136,
+    "wof:lastmodified": 1785946773,
     "wof:name": "UA520 (LAX-SFO)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",
