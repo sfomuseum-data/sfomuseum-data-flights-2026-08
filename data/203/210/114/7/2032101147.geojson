@@ -1,0 +1,72 @@
+{
+  "id": 2032101147,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-04",
+    "date:inception_upper": "2026-08-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "FJ",
+    "flysfo:date": "2026-08-04",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "FJ5861",
+    "flysfo:gate": "",
+    "flysfo:journey": "BOS-SFO",
+    "flysfo:scheduled_timestamp": 1785866880,
+    "flysfo:timestamp": 1785866880,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
+    "geom:latitude": 39.990156,
+    "geom:longitude": -96.6928465,
+    "iata:airline": "FJ",
+    "icao:airline": "FJI",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283717,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530741,
+    "sfomuseum:flight_id": "20260804-A-FJI-5861",
+    "sfomuseum:flight_number": [
+      "FJI5861",
+      "FJ5861"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1785945964,
+    "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032101147,
+        "flight_id": 2032101147
+      }
+    ],
+    "wof:id": 2032101147,
+    "wof:involves": [
+      102527513,
+      102530741,
+      1159283717,
+      -1
+    ],
+    "wof:lastmodified": 1785945964,
+    "wof:name": "FJ5861 (BOS-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -71.01475,
+    42.362322
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]]}
+}

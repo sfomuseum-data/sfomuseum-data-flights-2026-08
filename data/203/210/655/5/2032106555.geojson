@@ -1,0 +1,109 @@
+{
+  "id": 2032106555,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-04",
+    "date:inception_upper": "2026-08-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-04",
+    "flysfo:estimated_timestamp": 1785858120,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA1679",
+    "flysfo:gate": "E13",
+    "flysfo:journey": "SFO-CUN",
+    "flysfo:scheduled_timestamp": 1785858360,
+    "flysfo:timestamp": 1785858360,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,21.040317,-86.872856,37.617990",
+    "geom:latitude": 29.3291535,
+    "geom:longitude": -104.6218995,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.619425,
+    "lbl:longitude": -122.384028,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102536223,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260804-D-UAL-1679",
+    "sfomuseum:flight_number": [
+      "UAL1679",
+      "UA1679"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304511,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304517,
+      1947304447,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1785946602,
+    "wof:geomhash": "d26f8a4a9d40aeb65e997520007d0d60",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304511,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2032106555,
+        "flight_id": 2032106555,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304517,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304511,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2032106555,
+        "flight_id": 2032106555,
+        "region_id": 85688637,
+        "venue_id": 1947304517,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 2032106555,
+    "wof:involves": [
+      102536223,
+      102527513,
+      1159285413,
+      1947304517
+    ],
+    "wof:lastmodified": 1785946602,
+    "wof:name": "UA1679 (SFO-CUN)",
+    "wof:parent_id": 1947304517,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    21.040317,
+    -86.872856,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-86.872856,21.040317]]}
+}

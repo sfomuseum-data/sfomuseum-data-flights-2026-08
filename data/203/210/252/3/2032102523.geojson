@@ -1,0 +1,109 @@
+{
+  "id": 2032102523,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-04",
+    "date:inception_upper": "2026-08-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-04",
+    "flysfo:estimated_timestamp": 1785886620,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA3876",
+    "flysfo:gate": "D8",
+    "flysfo:journey": "DLH-SFO",
+    "flysfo:scheduled_timestamp": 1785884880,
+    "flysfo:timestamp": 1785886620,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-92.199292,46.840144",
+    "geom:latitude": 42.229067,
+    "geom:longitude": -107.2851175,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.617421,
+    "lbl:longitude": -122.380916,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528763,
+    "sfomuseum:flight_id": "20260804-A-UAL-3876",
+    "sfomuseum:flight_number": [
+      "UAL3876",
+      "UA3876"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304595,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304617,
+      1947304591,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1785946129,
+    "wof:geomhash": "c06b0793cc468dc4c9dc01b57143f4a0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304595,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2032102523,
+        "flight_id": 2032102523,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304617,
+        "wing_id": 1947304591
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304595,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2032102523,
+        "flight_id": 2032102523,
+        "region_id": 85688637,
+        "venue_id": 1947304617,
+        "wing_id": 1947304591
+      }
+    ],
+    "wof:id": 2032102523,
+    "wof:involves": [
+      102527513,
+      102528763,
+      1159285413,
+      1947304617
+    ],
+    "wof:lastmodified": 1785946129,
+    "wof:name": "UA3876 (DLH-SFO)",
+    "wof:parent_id": 1947304617,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -92.199292,
+    46.840144
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-92.199292,46.840144],[-122.370943,37.61799]]}
+}

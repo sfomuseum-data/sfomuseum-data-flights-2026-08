@@ -1,0 +1,109 @@
+{
+  "id": 2032106957,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-04",
+    "date:inception_upper": "2026-08-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-04",
+    "flysfo:estimated_timestamp": 1785865080,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA6001",
+    "flysfo:gate": "F8",
+    "flysfo:journey": "SFO-MTY",
+    "flysfo:scheduled_timestamp": 1785865500,
+    "flysfo:timestamp": 1785865500,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,25.780084,-100.114904,37.617990",
+    "geom:latitude": 31.699036999999997,
+    "geom:longitude": -111.24292349999999,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102536351,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260804-D-UAL-6001",
+    "sfomuseum:flight_number": [
+      "UAL6001",
+      "UA6001"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304451,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304469,
+      1947304447,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1785946648,
+    "wof:geomhash": "48153b691162a6beee6fa4d9e191993e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2032106957,
+        "flight_id": 2032106957,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304469,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2032106957,
+        "flight_id": 2032106957,
+        "region_id": 85688637,
+        "venue_id": 1947304469,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 2032106957,
+    "wof:involves": [
+      102536351,
+      102527513,
+      1159285413,
+      1947304469
+    ],
+    "wof:lastmodified": 1785946648,
+    "wof:name": "UA6001 (SFO-MTY)",
+    "wof:parent_id": 1947304469,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    25.780084,
+    -100.114904,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-100.114904,25.780084]]}
+}
