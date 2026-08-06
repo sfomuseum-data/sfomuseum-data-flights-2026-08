@@ -1,0 +1,109 @@
+{
+  "id": 2032121109,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-05",
+    "date:inception_upper": "2026-08-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-05",
+    "flysfo:estimated_timestamp": 1785950100,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA487",
+    "flysfo:gate": "D10",
+    "flysfo:journey": "SFO-SBP",
+    "flysfo:scheduled_timestamp": 1785950400,
+    "flysfo:timestamp": 1785950400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.236920,-120.643230,37.617990",
+    "geom:latitude": 36.427454999999995,
+    "geom:longitude": -121.5070865,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.617908,
+    "lbl:longitude": -122.381084,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527351,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260805-D-UAL-487",
+    "sfomuseum:flight_number": [
+      "UAL487",
+      "UA487"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304595,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304603,
+      1947304591,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786033033,
+    "wof:geomhash": "6ee4dc6f06435306541ac2ffbe1ad823",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304595,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2032121109,
+        "flight_id": 2032121109,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304603,
+        "wing_id": 1947304591
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304595,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2032121109,
+        "flight_id": 2032121109,
+        "region_id": 85688637,
+        "venue_id": 1947304603,
+        "wing_id": 1947304591
+      }
+    ],
+    "wof:id": 2032121109,
+    "wof:involves": [
+      102527351,
+      102527513,
+      1159285413,
+      1947304603
+    ],
+    "wof:lastmodified": 1786033033,
+    "wof:name": "UA487 (SFO-SBP)",
+    "wof:parent_id": 1947304603,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.23692,
+    -120.64323,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-120.64323,35.23692]]}
+}

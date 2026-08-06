@@ -1,0 +1,109 @@
+{
+  "id": 2032120355,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-05",
+    "date:inception_upper": "2026-08-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "SY",
+    "flysfo:date": "2026-08-05",
+    "flysfo:estimated_timestamp": 1785979260,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "SY396",
+    "flysfo:gate": "B10",
+    "flysfo:journey": "SFO-MSP",
+    "flysfo:scheduled_timestamp": 1785978180,
+    "flysfo:timestamp": 1785979260,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
+    "iata:airline": "SY",
+    "icao:airline": "SCX",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285227,
+    "sfomuseum:arrival_id": 102531131,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260805-D-SCX-396",
+    "sfomuseum:flight_number": [
+      "SCX396",
+      "SY396"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304261,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304307,
+      1947304259,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786032945,
+    "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2032120355,
+        "flight_id": 2032120355,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304307,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2032120355,
+        "flight_id": 2032120355,
+        "region_id": 85688637,
+        "venue_id": 1947304307,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 2032120355,
+    "wof:involves": [
+      102531131,
+      102527513,
+      1159285227,
+      1947304307
+    ],
+    "wof:lastmodified": 1786032945,
+    "wof:name": "SY396 (SFO-MSP)",
+    "wof:parent_id": 1947304307,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -93.200317,
+    44.883321
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]]}
+}

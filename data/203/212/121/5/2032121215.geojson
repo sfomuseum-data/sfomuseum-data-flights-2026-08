@@ -1,0 +1,109 @@
+{
+  "id": 2032121215,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-05",
+    "date:inception_upper": "2026-08-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-05",
+    "flysfo:estimated_timestamp": 1785963060,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA5738",
+    "flysfo:gate": "F10",
+    "flysfo:journey": "SFO-MRY",
+    "flysfo:scheduled_timestamp": 1785963000,
+    "flysfo:timestamp": 1785963060,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.587900,-121.839390,37.617990",
+    "geom:latitude": 37.102945,
+    "geom:longitude": -122.1051665,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.620819,
+    "lbl:longitude": -122.386769,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102525191,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260805-D-UAL-5738",
+    "sfomuseum:flight_number": [
+      "UAL5738",
+      "UA5738"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304451,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304471,
+      1947304447,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786033045,
+    "wof:geomhash": "671e58da07f1ec37fb4507b393a80870",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2032121215,
+        "flight_id": 2032121215,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304471,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2032121215,
+        "flight_id": 2032121215,
+        "region_id": 85688637,
+        "venue_id": 1947304471,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 2032121215,
+    "wof:involves": [
+      102525191,
+      102527513,
+      1159285413,
+      1947304471
+    ],
+    "wof:lastmodified": 1786033045,
+    "wof:name": "UA5738 (SFO-MRY)",
+    "wof:parent_id": 1947304471,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.5879,
+    -121.83939,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-121.83939,36.5879]]}
+}

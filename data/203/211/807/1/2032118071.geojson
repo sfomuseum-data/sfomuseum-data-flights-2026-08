@@ -1,0 +1,72 @@
+{
+  "id": 2032118071,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-05",
+    "date:inception_upper": "2026-08-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AC",
+    "flysfo:date": "2026-08-05",
+    "flysfo:estimated_timestamp": 1785954420,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AC7054",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-YYZ",
+    "flysfo:scheduled_timestamp": 1785947400,
+    "flysfo:timestamp": 1785954420,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-79.628342,43.676352",
+    "geom:latitude": 40.647171,
+    "geom:longitude": -100.9996425,
+    "iata:airline": "AC",
+    "icao:airline": "ACA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283597,
+    "sfomuseum:arrival_id": 102555091,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260805-D-ACA-7054",
+    "sfomuseum:flight_number": [
+      "ACA7054",
+      "AC7054"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786032677,
+    "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032118071,
+        "flight_id": 2032118071
+      }
+    ],
+    "wof:id": 2032118071,
+    "wof:involves": [
+      102555091,
+      102527513,
+      1159283597,
+      -1
+    ],
+    "wof:lastmodified": 1786032677,
+    "wof:name": "AC7054 (SFO-YYZ)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -79.628342,
+    43.676352
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]]}
+}
