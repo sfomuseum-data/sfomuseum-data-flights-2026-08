@@ -2,10 +2,12 @@
   "id": 2032116951,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T23:59:56-07:00",
+    "edtf:inception": "2026-08-05T12:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.9389005,
     "geom:longitude": -121.76404,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530507,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N435UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153755892"
+    },
     "wof:country": "US",
     "wof:created": 1786032545,
     "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032116951,
     "wof:involves": [
+      1159292085,
       102527513,
       102530507,
       1159285413,
       1947304621
     ],
-    "wof:lastmodified": 1786032545,
+    "wof:lastmodified": 1786033180,
     "wof:name": "UA702 (RDM-SFO)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

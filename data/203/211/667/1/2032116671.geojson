@@ -2,10 +2,12 @@
   "id": 2032116671,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-06T02:31:53Z",
+    "edtf:inception": "2026-08-05T21:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153804259"
+    },
     "wof:country": "US",
     "wof:created": 1786032511,
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
@@ -94,7 +102,7 @@
       1947304607,
       1779770723
     ],
-    "wof:lastmodified": 1786032511,
+    "wof:lastmodified": 1786033177,
     "wof:name": "UA2620 (MCO-SFO)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

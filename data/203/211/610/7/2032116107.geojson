@@ -2,10 +2,12 @@
   "id": 2032116107,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T10:18:04-07:00",
+    "edtf:inception": "2026-08-05T20:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8721885,
     "geom:longitude": -104.5237975,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525035,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N462WN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153791848"
+    },
     "wof:country": "US",
     "wof:created": 1786032443,
     "wof:geomhash": "462e561a68f133085fb895c49eddc748",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032116107,
     "wof:involves": [
+      1159289869,
       102527513,
       102525035,
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1786032443,
+    "wof:lastmodified": 1786033171,
     "wof:name": "WN2300 (BNA-SFO)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

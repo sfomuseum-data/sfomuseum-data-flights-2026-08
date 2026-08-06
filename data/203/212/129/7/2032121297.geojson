@@ -2,10 +2,12 @@
   "id": 2032121297,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T23:27:17Z",
+    "edtf:inception": "2026-08-05T18:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153782968"
+    },
     "wof:country": "US",
     "wof:created": 1786033054,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -94,7 +102,7 @@
       1947304133,
       1159283697
     ],
-    "wof:lastmodified": 1786033054,
+    "wof:lastmodified": 1786033302,
     "wof:name": "UA713 (SFO-EWR)",
     "wof:parent_id": 1947304133,
     "wof:placetype": "custom",

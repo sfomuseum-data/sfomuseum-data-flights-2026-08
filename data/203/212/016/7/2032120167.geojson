@@ -2,10 +2,12 @@
   "id": 2032120167,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T21:11:32Z",
+    "edtf:inception": "2026-08-05T08:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PR",
     "flysfo:date": "2026-08-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 26.067878999999998,
     "geom:longitude": -0.6778954999999982,
     "iata:airline": "PR",
+    "icao:aircraft": "A35K",
     "icao:airline": "PAL",
     "lbl:latitude": 37.612048,
     "lbl:longitude": -122.389573,
+    "sfomuseum:aircraft_id": 1377649085,
     "sfomuseum:airline_id": 1159285015,
     "sfomuseum:arrival_id": 102553219,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +56,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153743160"
+    },
     "wof:country": "US",
     "wof:created": 1786032924,
     "wof:geomhash": "d86898d5d90d953f6630362144c30ee0",
@@ -83,12 +94,13 @@
     ],
     "wof:id": 2032120167,
     "wof:involves": [
-      102553219,
       102527513,
       1159285015,
-      1947304097
+      1947304097,
+      1377649085,
+      102553219
     ],
-    "wof:lastmodified": 1786032924,
+    "wof:lastmodified": 1786033282,
     "wof:name": "PR105 (SFO-MNL)",
     "wof:parent_id": 1947304097,
     "wof:placetype": "custom",

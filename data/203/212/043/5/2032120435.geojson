@@ -2,10 +2,12 @@
   "id": 2032120435,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T23:54:34Z",
+    "edtf:inception": "2026-08-05T20:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.180931,
     "geom:longitude": -106.3692875,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 1746879059,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8846Q",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153790844"
+    },
     "wof:country": "US",
     "wof:created": 1786032955,
     "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032120435,
     "wof:involves": [
+      1947304621,
+      1528104575,
       1746879059,
       102527513,
-      1159285591,
-      1947304621
+      1159285591
     ],
-    "wof:lastmodified": 1786032955,
+    "wof:lastmodified": 1786033291,
     "wof:name": "WN3564 (SFO-STL)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032119431,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-06T03:37:20Z",
+    "edtf:inception": "2026-08-05T22:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153809050"
+    },
     "wof:country": "US",
     "wof:created": 1786032836,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -94,7 +102,7 @@
       1763588251,
       1159284625
     ],
-    "wof:lastmodified": 1786032836,
+    "wof:lastmodified": 1786033199,
     "wof:name": "DL860 (SFO-BOS)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

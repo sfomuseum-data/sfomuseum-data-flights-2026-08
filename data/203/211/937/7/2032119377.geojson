@@ -2,10 +2,12 @@
   "id": 2032119377,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T16:50:37Z",
+    "edtf:inception": "2026-08-05T14:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-08-05",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153762896"
+    },
     "wof:country": "US",
     "wof:created": 1786032830,
     "wof:geomhash": "5815a5b1ad78885fe3ae36c1daab138f",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1786032830,
+    "wof:lastmodified": 1786033199,
     "wof:name": "DL385 (SFO-ACV)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

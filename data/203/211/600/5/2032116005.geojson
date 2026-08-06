@@ -2,10 +2,12 @@
   "id": 2032116005,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T00:21:41-07:00",
+    "edtf:inception": "2026-08-05T10:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QR",
     "flysfo:date": "2026-08-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "QR",
+    "icao:aircraft": "B77L",
     "icao:airline": "QTR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289989,
     "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533631,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "A7BFB",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153825815"
+    },
     "wof:country": "US",
     "wof:created": 1786032430,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2032116005,
     "wof:involves": [
-      102527513,
-      102533631,
       1159286153,
-      -1
+      1159289989,
+      102527513,
+      102533631
     ],
-    "wof:lastmodified": 1786032430,
+    "wof:lastmodified": 1786033170,
     "wof:name": "QR8815 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

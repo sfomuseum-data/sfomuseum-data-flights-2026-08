@@ -2,10 +2,12 @@
   "id": 2032116721,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T23:03:05Z",
+    "edtf:inception": "2026-08-05T18:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-05",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153816884"
+    },
     "wof:country": "US",
     "wof:created": 1786032517,
     "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
@@ -88,7 +96,7 @@
       1159285413,
       1947304475
     ],
-    "wof:lastmodified": 1786032517,
+    "wof:lastmodified": 1786033178,
     "wof:name": "UA3049 (KOA-SFO)",
     "wof:parent_id": 1947304475,
     "wof:placetype": "custom",

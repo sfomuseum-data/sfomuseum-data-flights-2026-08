@@ -2,10 +2,12 @@
   "id": 2032115137,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T12:35:35-07:00",
+    "edtf:inception": "2026-08-05T23:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-08-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.231919500000004,
     "geom:longitude": -109.610733,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525799,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N649DL",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153813736"
+    },
     "wof:country": "US",
     "wof:created": 1786032327,
     "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2032115137,
     "wof:involves": [
-      102527513,
       102525799,
       1159284261,
-      -1
+      1159289939,
+      102527513
     ],
-    "wof:lastmodified": 1786032327,
+    "wof:lastmodified": 1786033164,
     "wof:name": "DL8888 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

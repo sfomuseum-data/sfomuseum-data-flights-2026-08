@@ -2,10 +2,12 @@
   "id": 2032118069,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T21:57:35Z",
+    "edtf:inception": "2026-08-05T20:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20260805-D-ANZ-4610",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CFHNB",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153794356"
+    },
     "wof:country": "US",
     "wof:created": 1786032676,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -92,9 +104,10 @@
       102527513,
       1159283597,
       1947304673,
-      1159283697
+      1159283697,
+      1813375783
     ],
-    "wof:lastmodified": 1786032676,
+    "wof:lastmodified": 1786033190,
     "wof:name": "AC567 (SFO-YVR)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",

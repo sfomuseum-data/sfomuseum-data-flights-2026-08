@@ -2,10 +2,12 @@
   "id": 2032118071,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T22:07:35Z",
+    "edtf:inception": "2026-08-05T17:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:date": "2026-08-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "A320",
     "icao:airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGJVT",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153843098"
+    },
     "wof:country": "US",
     "wof:created": 1786032677,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2032118071,
     "wof:involves": [
+      1159292085,
       102555091,
       102527513,
-      1159283597,
-      -1
+      1159283597
     ],
-    "wof:lastmodified": 1786032677,
+    "wof:lastmodified": 1786033190,
     "wof:name": "AC7054 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

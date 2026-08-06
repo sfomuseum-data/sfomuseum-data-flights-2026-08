@@ -2,10 +2,12 @@
   "id": 2032116945,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-05",
-    "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-05T15:50:16-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.620164,
     "lbl:longitude": -122.387194,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260805-A-CMP-2367",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -92,9 +99,10 @@
       102533997,
       1159285413,
       1930457221,
-      1159284211
+      1159284211,
+      1528104577
     ],
-    "wof:lastmodified": 1786032544,
+    "wof:lastmodified": 1786033180,
     "wof:name": "UA650 (HNL-SFO)",
     "wof:parent_id": 1930457221,
     "wof:placetype": "custom",

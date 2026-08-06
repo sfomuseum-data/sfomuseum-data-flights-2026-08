@@ -2,10 +2,12 @@
   "id": 2032121389,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-06T09:01:01Z",
+    "edtf:inception": "2026-08-05T22:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153808007"
+    },
     "wof:country": "US",
     "wof:created": 1786033066,
     "wof:geomhash": "ad7dd7ece479a882a3440fb19be6ff4c",
@@ -94,7 +102,7 @@
       1947304265,
       1159283597
     ],
-    "wof:lastmodified": 1786033066,
+    "wof:lastmodified": 1786033303,
     "wof:name": "UA990 (SFO-CDG)",
     "wof:parent_id": 1947304265,
     "wof:placetype": "custom",

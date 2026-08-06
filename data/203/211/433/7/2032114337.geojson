@@ -2,10 +2,12 @@
   "id": 2032114337,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-05",
-    "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
+    "date:inception_lower": "2026-08-06",
+    "date:inception_upper": "2026-08-06",
+    "edtf:cessation": "2026-08-05T11:59:50-07:00",
+    "edtf:inception": "2026-08-06T00:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260805-A-AAL-7538",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N248AK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153727065"
+    },
     "wof:country": "US",
     "wof:created": 1786032232,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,9 +104,10 @@
       102533269,
       1159283813,
       1947304267,
-      1159283849
+      1159283849,
+      1377564285
     ],
-    "wof:lastmodified": 1786032232,
+    "wof:lastmodified": 1786033139,
     "wof:name": "AS1385 (SEA-SFO)",
     "wof:parent_id": 1947304267,
     "wof:placetype": "custom",

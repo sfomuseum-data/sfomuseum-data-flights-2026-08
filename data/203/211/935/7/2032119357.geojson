@@ -2,10 +2,12 @@
   "id": 2032119357,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-05",
-    "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
+    "date:inception_lower": "2026-08-06",
+    "date:inception_upper": "2026-08-06",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-05T23:34:57-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:base_flight_id": "20260805-D-AFR-2180",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N371DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2032119357,
     "wof:involves": [
+      1159283627,
+      1159289411,
       102531131,
       102527513,
       1159284261,
-      1947304669,
-      1159283627
+      1947304669
     ],
-    "wof:lastmodified": 1786032828,
+    "wof:lastmodified": 1786033199,
     "wof:name": "DL2178 (SFO-MSP)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",

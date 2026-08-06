@@ -2,10 +2,12 @@
   "id": 2032117561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-05",
+    "date:cessation_upper": "2026-08-05",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-05T17:13:55Z",
+    "edtf:inception": "2026-08-05T15:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-08-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
+    "icao:aircraft": "A320",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N680AW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153769471"
+    },
     "wof:country": "US",
     "wof:created": 1786032616,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032117561,
     "wof:involves": [
+      1947304291,
+      1159292085,
       102526751,
       102527513,
-      1159283849,
-      1947304291
+      1159283849
     ],
-    "wof:lastmodified": 1786032616,
+    "wof:lastmodified": 1786033185,
     "wof:name": "AA2414 (SFO-PHX)",
     "wof:parent_id": 1947304291,
     "wof:placetype": "custom",

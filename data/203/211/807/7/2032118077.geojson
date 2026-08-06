@@ -2,10 +2,12 @@
   "id": 2032118077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-06T01:17:16Z",
+    "edtf:inception": "2026-08-05T21:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:base_flight_id": "20260805-D-ANZ-4724",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGIUB",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153790765"
+    },
     "wof:country": "US",
     "wof:created": 1786032677,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032118077,
     "wof:involves": [
+      1159289411,
       102555091,
       102527513,
       1159283597,
       1947304627,
       1159283697
     ],
-    "wof:lastmodified": 1786032677,
+    "wof:lastmodified": 1786033190,
     "wof:name": "AC740 (SFO-YYZ)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",

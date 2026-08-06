@@ -2,10 +2,12 @@
   "id": 2032119355,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-05",
-    "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
+    "date:inception_lower": "2026-08-06",
+    "date:inception_upper": "2026-08-06",
+    "edtf:cessation": "2026-08-06T03:52:46Z",
+    "edtf:inception": "2026-08-06T02:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153737803"
+    },
     "wof:country": "US",
     "wof:created": 1786032828,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -94,7 +102,7 @@
       1947304679,
       1159285483
     ],
-    "wof:lastmodified": 1786032828,
+    "wof:lastmodified": 1786033199,
     "wof:name": "DL2652 (SFO-SLC)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

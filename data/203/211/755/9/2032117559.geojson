@@ -2,10 +2,12 @@
   "id": 2032117559,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-05",
     "date:inception_upper": "2026-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-05",
+    "edtf:cessation": "2026-08-06T00:06:07Z",
+    "edtf:inception": "2026-08-05T19:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-08-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.419367,
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528659,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N557UW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153796392"
+    },
     "wof:country": "US",
     "wof:created": 1786032616,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032117559,
     "wof:involves": [
+      1947304317,
+      1159289411,
       102528659,
       102527513,
-      1159283849,
-      1947304317
+      1159283849
     ],
-    "wof:lastmodified": 1786032616,
+    "wof:lastmodified": 1786033185,
     "wof:name": "AA2428 (SFO-CLT)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",
