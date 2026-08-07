@@ -2,10 +2,12 @@
   "id": 2032130135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T18:16:44-07:00",
+    "edtf:inception": "2026-08-06T19:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KE",
     "flysfo:date": "2026-08-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "KE",
+    "icao:aircraft": "B748",
     "icao:airline": "KAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293239,
     "sfomuseum:airline_id": 1159284625,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "HL7639",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153952441"
+    },
     "wof:country": "US",
     "wof:created": 1786118810,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2032130135,
     "wof:involves": [
+      1159293239,
       102527513,
       102533795,
-      1159284625,
-      -1
+      1159284625
     ],
-    "wof:lastmodified": 1786118810,
+    "wof:lastmodified": 1786119599,
     "wof:name": "KE214 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

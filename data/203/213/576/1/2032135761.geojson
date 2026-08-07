@@ -2,10 +2,12 @@
   "id": 2032135761,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T20:29:55Z",
+    "edtf:inception": "2026-08-06T17:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153874855"
+    },
     "wof:country": "US",
     "wof:created": 1786119464,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -94,7 +102,7 @@
       1947304609,
       1159283597
     ],
-    "wof:lastmodified": 1786119464,
+    "wof:lastmodified": 1786119678,
     "wof:name": "UA2842 (SFO-DFW)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032128875,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T07:12:05-07:00",
+    "edtf:inception": "2026-08-06T15:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2026-08-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.283618000000004,
     "geom:longitude": -99.9123225,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528817,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N533AS",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153863158"
+    },
     "wof:country": "US",
     "wof:created": 1786118660,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032128875,
     "wof:involves": [
+      1159289871,
       102527513,
       102528817,
       1159283813,
       1947304289
     ],
-    "wof:lastmodified": 1786118660,
+    "wof:lastmodified": 1786119590,
     "wof:name": "AS9802 (IAD-SFO)",
     "wof:parent_id": 1947304289,
     "wof:placetype": "custom",

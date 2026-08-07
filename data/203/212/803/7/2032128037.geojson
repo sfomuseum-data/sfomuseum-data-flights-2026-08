@@ -2,10 +2,12 @@
   "id": 2032128037,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-07T00:02:00Z",
+    "edtf:inception": "2026-08-06T21:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:date": "2026-08-06",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153948584"
+    },
     "wof:country": "US",
     "wof:created": 1786118556,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -51,7 +59,7 @@
       1159283597,
       -1
     ],
-    "wof:lastmodified": 1786118556,
+    "wof:lastmodified": 1786119581,
     "wof:name": "AC7058 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

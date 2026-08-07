@@ -2,10 +2,12 @@
   "id": 2032134807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-07T01:45:09Z",
+    "edtf:inception": "2026-08-06T21:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PD",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "PD",
     "iata:base_airline": "",
+    "icao:aircraft": "E295",
     "icao:airline": "POE",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
@@ -39,6 +42,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGKQP",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153892419"
+    },
     "wof:country": "US",
     "wof:created": 1786119355,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -94,7 +105,7 @@
       1947304385,
       1159283849
     ],
-    "wof:lastmodified": 1786119355,
+    "wof:lastmodified": 1786119660,
     "wof:name": "PD672 (SFO-YYZ)",
     "wof:parent_id": 1947304385,
     "wof:placetype": "custom",

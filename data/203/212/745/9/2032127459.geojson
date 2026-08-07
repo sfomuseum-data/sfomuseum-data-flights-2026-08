@@ -2,10 +2,12 @@
   "id": 2032127459,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T20:31:22Z",
+    "edtf:inception": "2026-08-06T16:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153867043"
+    },
     "wof:country": "US",
     "wof:created": 1786118471,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -94,7 +102,7 @@
       1947304277,
       1159284563
     ],
-    "wof:lastmodified": 1786118471,
+    "wof:lastmodified": 1786119576,
     "wof:name": "AA1851 (ORD-SFO)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

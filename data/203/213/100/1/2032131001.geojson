@@ -2,10 +2,12 @@
   "id": 2032131001,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T06:05:09Z",
+    "edtf:inception": "2026-08-06T00:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153810111"
+    },
     "wof:country": "US",
     "wof:created": 1786118912,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -94,7 +99,7 @@
       1947304475,
       1159286015
     ],
-    "wof:lastmodified": 1786118912,
+    "wof:lastmodified": 1786119628,
     "wof:name": "UA1844 (EWR-SFO)",
     "wof:parent_id": 1947304475,
     "wof:placetype": "custom",

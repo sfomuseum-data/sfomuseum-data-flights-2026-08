@@ -2,10 +2,12 @@
   "id": 2032130599,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T23:04:09Z",
+    "edtf:inception": "2026-08-06T22:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-06",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153897010"
+    },
     "wof:country": "US",
     "wof:created": 1786118865,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,7 +96,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1786118865,
+    "wof:lastmodified": 1786119624,
     "wof:name": "WN3942 (LAX-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

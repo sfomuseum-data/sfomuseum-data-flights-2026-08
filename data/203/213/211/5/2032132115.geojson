@@ -2,10 +2,12 @@
   "id": 2032132115,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T09:55:44Z",
+    "edtf:inception": "2026-08-06T05:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "GLO",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:base_flight_id": "20260806-D-GLO-6411",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N464AA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153832411"
+    },
     "wof:country": "US",
     "wof:created": 1786119043,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032132115,
     "wof:involves": [
+      1377564297,
       102531023,
       102527513,
       1159283849,
       1947304291,
       1779770725
     ],
-    "wof:lastmodified": 1786119043,
+    "wof:lastmodified": 1786119638,
     "wof:name": "AA3022 (SFO-MIA)",
     "wof:parent_id": 1947304291,
     "wof:placetype": "custom",

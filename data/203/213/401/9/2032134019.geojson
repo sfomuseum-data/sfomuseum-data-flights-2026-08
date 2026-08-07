@@ -2,10 +2,12 @@
   "id": 2032134019,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-06T15:28:52-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20260806-D-AMX-3359",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N693DL",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -88,13 +97,14 @@
     ],
     "wof:id": 2032134019,
     "wof:involves": [
+      1763588251,
+      1159283539,
+      1159289939,
       102526927,
       102527513,
-      1159284261,
-      1763588251,
-      1159283539
+      1159284261
     ],
-    "wof:lastmodified": 1786119263,
+    "wof:lastmodified": 1786119655,
     "wof:name": "DL517 (SFO-ATL)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032135797,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T20:30:02Z",
+    "edtf:inception": "2026-08-06T19:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.193359,
     "geom:longitude": -121.0461075,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530717,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N77581",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153964590"
+    },
     "wof:country": "US",
     "wof:created": 1786119468,
     "wof:geomhash": "7027f9178c7d77a5f6f9a377b7a1bb37",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2032135797,
     "wof:involves": [
+      1528104577,
       102530717,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1786119468,
+    "wof:lastmodified": 1786119679,
     "wof:name": "UA3902 (SFO-FAT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

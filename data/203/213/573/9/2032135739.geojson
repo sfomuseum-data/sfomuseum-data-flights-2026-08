@@ -2,10 +2,12 @@
   "id": 2032135739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T12:58:34Z",
+    "edtf:inception": "2026-08-06T08:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.057846,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102554351,
     "sfomuseum:base_flight_id": "20260806-D-ACA-3106",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37541",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153834138"
+    },
     "wof:country": "US",
     "wof:created": 1786119462,
     "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032135739,
     "wof:involves": [
+      1528104577,
       102554351,
       102527513,
       1159285413,
       1947304483,
       1159283597
     ],
-    "wof:lastmodified": 1786119462,
+    "wof:lastmodified": 1786119678,
     "wof:name": "UA2681 (SFO-YUL)",
     "wof:parent_id": 1947304483,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032129447,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T06:16:43-07:00",
+    "edtf:inception": "2026-08-06T18:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "SAS",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260806-A-SAS-3926",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153875753"
+    },
     "wof:country": "US",
     "wof:created": 1786118728,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2032129447,
     "wof:involves": [
-      102527513,
-      102533269,
       1159284261,
       1947304669,
-      1159285129
+      1159285129,
+      1813375783,
+      102527513,
+      102533269
     ],
-    "wof:lastmodified": 1786118728,
+    "wof:lastmodified": 1786119594,
     "wof:name": "DL1412 (SEA-SFO)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",

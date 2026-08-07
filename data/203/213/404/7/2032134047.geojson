@@ -2,10 +2,12 @@
   "id": 2032134047,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-07T04:04:08Z",
+    "edtf:inception": "2026-08-06T23:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-08-06",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153907972"
+    },
     "wof:country": "US",
     "wof:created": 1786119267,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -88,7 +96,7 @@
       1159284261,
       1947304671
     ],
-    "wof:lastmodified": 1786119267,
+    "wof:lastmodified": 1786119655,
     "wof:name": "DL724 (SFO-ATL)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

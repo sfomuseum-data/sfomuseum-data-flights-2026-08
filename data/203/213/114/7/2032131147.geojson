@@ -2,10 +2,12 @@
   "id": 2032131147,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T23:50:19Z",
+    "edtf:inception": "2026-08-06T22:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153901730"
+    },
     "wof:country": "US",
     "wof:created": 1786118929,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -94,7 +102,7 @@
       1947304529,
       1159283597
     ],
-    "wof:lastmodified": 1786118929,
+    "wof:lastmodified": 1786119629,
     "wof:name": "UA2478 (LAS-SFO)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032131259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T23:45:34Z",
+    "edtf:inception": "2026-08-06T20:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153892939"
+    },
     "wof:country": "US",
     "wof:created": 1786118941,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -94,7 +102,7 @@
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1786118941,
+    "wof:lastmodified": 1786119631,
     "wof:name": "UA454 (DFW-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

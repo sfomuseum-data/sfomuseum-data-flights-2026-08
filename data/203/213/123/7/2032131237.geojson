@@ -2,10 +2,12 @@
   "id": 2032131237,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T05:46:18Z",
+    "edtf:inception": "2026-08-06T00:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153810070"
+    },
     "wof:country": "US",
     "wof:created": 1786118939,
     "wof:geomhash": "cfff966b0a5de3ca50080923c4337cfe",
@@ -94,7 +99,7 @@
       1947304513,
       1159283697
     ],
-    "wof:lastmodified": 1786118939,
+    "wof:lastmodified": 1786119630,
     "wof:name": "UA368 (DCA-SFO)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032135129,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T20:23:59Z",
+    "edtf:inception": "2026-08-06T19:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8729H",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153878945"
+    },
     "wof:country": "US",
     "wof:created": 1786119392,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032135129,
     "wof:involves": [
+      1528104575,
       102527209,
       102527513,
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1786119392,
+    "wof:lastmodified": 1786119670,
     "wof:name": "WN4524 (SFO-LAS)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

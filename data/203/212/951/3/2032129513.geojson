@@ -2,10 +2,12 @@
   "id": 2032129513,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T06:29:00Z",
+    "edtf:inception": "2026-08-06T00:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153814562"
+    },
     "wof:country": "US",
     "wof:created": 1786118736,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -94,7 +99,7 @@
       1947304671,
       1159283539
     ],
-    "wof:lastmodified": 1786118736,
+    "wof:lastmodified": 1786119595,
     "wof:name": "DL667 (JFK-SFO)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

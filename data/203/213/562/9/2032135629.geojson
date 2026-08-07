@@ -2,10 +2,12 @@
   "id": 2032135629,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T18:43:29Z",
+    "edtf:inception": "2026-08-06T17:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-06",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153875258"
+    },
     "wof:country": "US",
     "wof:created": 1786119450,
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
@@ -88,7 +96,7 @@
       1159285413,
       1947304527
     ],
-    "wof:lastmodified": 1786119450,
+    "wof:lastmodified": 1786119676,
     "wof:name": "UA2153 (SFO-RDM)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",

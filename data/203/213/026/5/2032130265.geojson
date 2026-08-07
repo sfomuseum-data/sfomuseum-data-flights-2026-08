@@ -2,10 +2,12 @@
   "id": 2032130265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T05:15:03-07:00",
+    "edtf:inception": "2026-08-06T14:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2026-08-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.336206000000004,
     "geom:longitude": -103.5140435,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528187,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N215BZ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153853629"
+    },
     "wof:country": "US",
     "wof:created": 1786118825,
     "wof:geomhash": "772e5110aaf1e095142ff9199bc6ebaa",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032130265,
     "wof:involves": [
+      1813375783,
       102527513,
       102528187,
       1763552131,
       1947304603
     ],
-    "wof:lastmodified": 1786118825,
+    "wof:lastmodified": 1786119613,
     "wof:name": "MX258 (CVG-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032135413,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-06",
+    "date:cessation_upper": "2026-08-06",
     "date:inception_lower": "2026-08-06",
     "date:inception_upper": "2026-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-06",
+    "edtf:cessation": "2026-08-06T19:33:01Z",
+    "edtf:inception": "2026-08-06T16:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153864363"
+    },
     "wof:country": "US",
     "wof:created": 1786119425,
     "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
@@ -94,7 +102,7 @@
       1947304483,
       1159283597
     ],
-    "wof:lastmodified": 1786119425,
+    "wof:lastmodified": 1786119672,
     "wof:name": "UA1189 (SFO-SJD)",
     "wof:parent_id": 1947304483,
     "wof:placetype": "custom",
