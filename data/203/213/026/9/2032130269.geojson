@@ -1,0 +1,72 @@
+{
+  "id": 2032130269,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-06",
+    "date:inception_upper": "2026-08-06",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-06",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "MX",
+    "flysfo:date": "2026-08-06",
+    "flysfo:estimated_timestamp": 1786065060,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "MX601",
+    "flysfo:gate": "",
+    "flysfo:journey": "SBD-SFO",
+    "flysfo:scheduled_timestamp": 1786065660,
+    "flysfo:timestamp": 1786065660,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,34.104408,-117.245887,37.617990",
+    "geom:latitude": 35.861199,
+    "geom:longitude": -119.808415,
+    "iata:airline": "MX",
+    "icao:airline": "MXY",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1763552131,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530129,
+    "sfomuseum:flight_id": "20260806-A-MXY-601",
+    "sfomuseum:flight_number": [
+      "MXY601",
+      "MX601"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786118826,
+    "wof:geomhash": "6d8f05e22cdd419a749a10658572882e",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032130269,
+        "flight_id": 2032130269
+      }
+    ],
+    "wof:id": 2032130269,
+    "wof:involves": [
+      102527513,
+      102530129,
+      1763552131,
+      -1
+    ],
+    "wof:lastmodified": 1786118826,
+    "wof:name": "MX601 (SBD-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    34.104408,
+    -117.245887,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-117.245887,34.104408],[-122.370943,37.61799]]}
+}

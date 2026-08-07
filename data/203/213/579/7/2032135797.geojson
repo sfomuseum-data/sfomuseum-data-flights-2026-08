@@ -1,0 +1,72 @@
+{
+  "id": 2032135797,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-06",
+    "date:inception_upper": "2026-08-06",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-06",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-06",
+    "flysfo:estimated_timestamp": 1786043940,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA3902",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-FAT",
+    "flysfo:scheduled_timestamp": 1786042800,
+    "flysfo:timestamp": 1786043940,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.768728,-119.721272,37.617990",
+    "geom:latitude": 37.193359,
+    "geom:longitude": -121.0461075,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102530717,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260806-D-UAL-3902",
+    "sfomuseum:flight_number": [
+      "UAL3902",
+      "UA3902"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786119468,
+    "wof:geomhash": "7027f9178c7d77a5f6f9a377b7a1bb37",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032135797,
+        "flight_id": 2032135797
+      }
+    ],
+    "wof:id": 2032135797,
+    "wof:involves": [
+      102530717,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1786119468,
+    "wof:name": "UA3902 (SFO-FAT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.768728,
+    -119.721272,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-119.721272,36.768728]]}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 2032135967,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-06",
+    "date:inception_upper": "2026-08-06",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-06",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-06",
+    "flysfo:estimated_timestamp": 1786067820,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA5986",
+    "flysfo:gate": "F9",
+    "flysfo:journey": "SFO-SUN",
+    "flysfo:scheduled_timestamp": 1786067700,
+    "flysfo:timestamp": 1786067820,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-114.297820,43.506570",
+    "geom:latitude": 40.56228,
+    "geom:longitude": -118.3343815,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.620731,
+    "lbl:longitude": -122.387053,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102530779,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260806-D-UAL-5986",
+    "sfomuseum:flight_number": [
+      "UAL5986",
+      "UA5986"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304451,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304493,
+      1947304447,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786119488,
+    "wof:geomhash": "f2b00bdda4c9b7ccf3aa1fd5338fa592",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2032135967,
+        "flight_id": 2032135967,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304493,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2032135967,
+        "flight_id": 2032135967,
+        "region_id": 85688637,
+        "venue_id": 1947304493,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 2032135967,
+    "wof:involves": [
+      102530779,
+      102527513,
+      1159285413,
+      1947304493
+    ],
+    "wof:lastmodified": 1786119488,
+    "wof:name": "UA5986 (SFO-SUN)",
+    "wof:parent_id": 1947304493,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -114.29782,
+    43.50657
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-114.29782,43.50657]]}
+}

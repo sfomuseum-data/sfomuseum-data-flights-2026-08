@@ -1,0 +1,72 @@
+{
+  "id": 2032134787,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-06",
+    "date:inception_upper": "2026-08-06",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-06",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "MX",
+    "flysfo:date": "2026-08-06",
+    "flysfo:estimated_timestamp": 1786045620,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "MX259",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-CVG",
+    "flysfo:scheduled_timestamp": 1786045620,
+    "flysfo:timestamp": 1786045620,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-84.657144,39.054422",
+    "geom:latitude": 38.336206000000004,
+    "geom:longitude": -103.5140435,
+    "iata:airline": "MX",
+    "icao:airline": "MXY",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1763552131,
+    "sfomuseum:arrival_id": 102528187,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260806-D-MXY-259",
+    "sfomuseum:flight_number": [
+      "MXY259",
+      "MX259"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786119353,
+    "wof:geomhash": "c97739d28e676f0ee62f6ec4585963c5",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2032134787,
+        "flight_id": 2032134787
+      }
+    ],
+    "wof:id": 2032134787,
+    "wof:involves": [
+      102528187,
+      102527513,
+      1763552131,
+      -1
+    ],
+    "wof:lastmodified": 1786119353,
+    "wof:name": "MX259 (SFO-CVG)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -84.657144,
+    39.054422
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-84.657144,39.054422]]}
+}
