@@ -2,10 +2,12 @@
   "id": 2047873389,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T05:37:10-07:00",
+    "edtf:inception": "2026-08-07T14:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "CFG",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260807-A-CFG-5247",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N724AL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153946126"
+    },
     "wof:country": "US",
     "wof:created": 1786205041,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047873389,
     "wof:involves": [
+      1159284193,
+      1528104577,
       102527513,
       102534365,
       1159283813,
-      1947304275,
-      1159284193
+      1947304275
     ],
-    "wof:lastmodified": 1786205041,
+    "wof:lastmodified": 1786205956,
     "wof:name": "AS227 (JFK-SFO)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

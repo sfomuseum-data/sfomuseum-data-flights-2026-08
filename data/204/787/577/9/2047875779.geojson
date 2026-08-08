@@ -2,10 +2,12 @@
   "id": 2047875779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T05:08:03-07:00",
+    "edtf:inception": "2026-08-07T13:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530049,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N782UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154020012"
+    },
     "wof:country": "US",
     "wof:created": 1786205320,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2047875779,
     "wof:involves": [
+      1159289985,
       102527513,
       102530049,
       1159285413,
       1947304487
     ],
-    "wof:lastmodified": 1786205320,
+    "wof:lastmodified": 1786205976,
     "wof:name": "UA3025 (EWR-SFO)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

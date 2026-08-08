@@ -2,10 +2,12 @@
   "id": 2047878511,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-08T01:26:59Z",
+    "edtf:inception": "2026-08-07T21:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153976268"
+    },
     "wof:country": "US",
     "wof:created": 1786205639,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -94,7 +102,7 @@
       1947304679,
       1159283539
     ],
-    "wof:lastmodified": 1786205639,
+    "wof:lastmodified": 1786205993,
     "wof:name": "DL693 (SFO-ATL)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047880427,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-07",
-    "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
+    "date:inception_lower": "2026-08-08",
+    "date:inception_upper": "2026-08-08",
+    "edtf:cessation": "2026-08-08T03:58:29Z",
+    "edtf:inception": "2026-08-08T01:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534161,
     "sfomuseum:base_flight_id": "20260807-D-ACA-4518",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N1902U",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153969722"
+    },
     "wof:country": "US",
     "wof:created": 1786205858,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047880427,
     "wof:involves": [
-      102534161,
-      102527513,
       1159285413,
       1947304307,
-      1159283597
+      1159283597,
+      1159292085,
+      102534161,
+      102527513
     ],
-    "wof:lastmodified": 1786205858,
+    "wof:lastmodified": 1786206031,
     "wof:name": "UA643 (SFO-SNA)",
     "wof:parent_id": 1947304307,
     "wof:placetype": "custom",

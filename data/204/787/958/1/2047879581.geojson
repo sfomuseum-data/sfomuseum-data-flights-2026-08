@@ -2,10 +2,12 @@
   "id": 2047879581,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T02:20:51Z",
+    "edtf:inception": "2026-08-07T00:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-07",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153904330"
+    },
     "wof:country": "US",
     "wof:created": 1786205761,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -88,7 +96,7 @@
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1786205761,
+    "wof:lastmodified": 1786206001,
     "wof:name": "WN4813 (SFO-DEN)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

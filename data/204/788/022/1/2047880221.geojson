@@ -2,10 +2,12 @@
   "id": 2047880221,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T05:40:28Z",
+    "edtf:inception": "2026-08-07T04:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153926005"
+    },
     "wof:country": "US",
     "wof:created": 1786205835,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -94,7 +99,7 @@
       1947304517,
       1159283597
     ],
-    "wof:lastmodified": 1786205835,
+    "wof:lastmodified": 1786206029,
     "wof:name": "UA406 (SFO-LAS)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

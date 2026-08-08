@@ -2,10 +2,12 @@
   "id": 2047875523,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T14:31:21-07:00",
+    "edtf:inception": "2026-08-07T00:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "ITY",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260807-A-ITY-4417",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N26967",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153900986"
+    },
     "wof:country": "US",
     "wof:created": 1786205291,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047875523,
     "wof:involves": [
-      102527513,
       102528817,
       1159285413,
       1947304159,
-      1763699293
+      1763699293,
+      1159293215,
+      102527513
     ],
-    "wof:lastmodified": 1786205291,
+    "wof:lastmodified": 1786205972,
     "wof:name": "UA1757 (IAD-SFO)",
     "wof:parent_id": 1947304159,
     "wof:placetype": "custom",

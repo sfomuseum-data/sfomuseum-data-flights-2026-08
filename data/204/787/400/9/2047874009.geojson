@@ -2,10 +2,12 @@
   "id": 2047874009,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T14:39:54-07:00",
+    "edtf:inception": "2026-08-07T00:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260807-A-KLM-6697",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N125DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153912027"
+    },
     "wof:country": "US",
     "wof:created": 1786205113,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047874009,
     "wof:involves": [
-      102527513,
-      102531131,
       1159284261,
       1947304675,
-      1159284613
+      1159284613,
+      1159289411,
+      102527513,
+      102531131
     ],
-    "wof:lastmodified": 1786205113,
+    "wof:lastmodified": 1786205960,
     "wof:name": "DL2809 (MSP-SFO)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

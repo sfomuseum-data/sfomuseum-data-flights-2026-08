@@ -2,10 +2,12 @@
   "id": 2047875169,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T02:49:31-07:00",
+    "edtf:inception": "2026-08-07T15:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N967WN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153953173"
+    },
     "wof:country": "US",
     "wof:created": 1786205249,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2047875169,
     "wof:involves": [
-      102527513,
-      102527209,
       1159285591,
-      1947304597
+      1947304597,
+      1159289869,
+      102527513,
+      102527209
     ],
-    "wof:lastmodified": 1786205249,
+    "wof:lastmodified": 1786205970,
     "wof:name": "WN510 (LAS-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

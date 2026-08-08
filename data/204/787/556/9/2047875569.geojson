@@ -2,10 +2,12 @@
   "id": 2047875569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T10:12:24-07:00",
+    "edtf:inception": "2026-08-07T22:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260807-A-ACA-4510",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17317",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153998186"
+    },
     "wof:country": "US",
     "wof:created": 1786205296,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047875569,
     "wof:involves": [
+      1528104575,
       102527513,
       102527363,
       1159285413,
       1947304523,
       1159283597
     ],
-    "wof:lastmodified": 1786205296,
+    "wof:lastmodified": 1786205973,
     "wof:name": "UA1955 (SLC-SFO)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

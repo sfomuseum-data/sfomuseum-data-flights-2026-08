@@ -2,10 +2,12 @@
   "id": 2047877897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-08T00:01:35Z",
+    "edtf:inception": "2026-08-07T22:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153997253"
+    },
     "wof:country": "US",
     "wof:created": 1786205567,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -94,7 +102,7 @@
       1947304303,
       1159284021
     ],
-    "wof:lastmodified": 1786205567,
+    "wof:lastmodified": 1786205989,
     "wof:name": "AS1302 (SFO-PDX)",
     "wof:parent_id": 1947304303,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047879889,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-08T04:00:06Z",
+    "edtf:inception": "2026-08-07T22:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153981611"
+    },
     "wof:country": "US",
     "wof:created": 1786205796,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -94,7 +102,7 @@
       1947304515,
       1159283697
     ],
-    "wof:lastmodified": 1786205796,
+    "wof:lastmodified": 1786206026,
     "wof:name": "UA1372 (SFO-BOS)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

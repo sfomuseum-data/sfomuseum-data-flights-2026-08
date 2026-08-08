@@ -2,10 +2,12 @@
   "id": 2047875149,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T11:40:13-07:00",
+    "edtf:inception": "2026-08-07T01:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.907347,
     "geom:longitude": -120.3621325,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 1746879083,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N7742B",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153914801"
+    },
     "wof:country": "US",
     "wof:created": 1786205246,
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2047875149,
     "wof:involves": [
-      102527513,
-      1746879083,
       1159285591,
-      1947304621
+      1947304621,
+      1159289869,
+      102527513,
+      1746879083
     ],
-    "wof:lastmodified": 1786205246,
+    "wof:lastmodified": 1786205970,
     "wof:name": "WN3579 (BUR-SFO)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

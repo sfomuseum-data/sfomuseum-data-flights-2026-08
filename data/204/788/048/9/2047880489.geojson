@@ -2,10 +2,12 @@
   "id": 2047880489,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T18:47:20Z",
+    "edtf:inception": "2026-08-07T17:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N66828",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153967264"
+    },
     "wof:country": "US",
     "wof:created": 1786205865,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2047880489,
     "wof:involves": [
+      1377564285,
       102528997,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1786205865,
+    "wof:lastmodified": 1786206032,
     "wof:name": "UA8218 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

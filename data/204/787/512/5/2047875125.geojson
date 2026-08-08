@@ -2,10 +2,12 @@
   "id": 2047875125,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-07",
-    "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
+    "date:inception_lower": "2026-08-08",
+    "date:inception_upper": "2026-08-08",
+    "edtf:cessation": "2026-08-07T15:11:20-07:00",
+    "edtf:inception": "2026-08-08T04:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8975K",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153923288"
+    },
     "wof:country": "US",
     "wof:created": 1786205244,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2047875125,
     "wof:involves": [
-      102527513,
-      102533795,
       1159285591,
-      1947304599
+      1947304599,
+      1528104575,
+      102527513,
+      102533795
     ],
-    "wof:lastmodified": 1786205244,
+    "wof:lastmodified": 1786205969,
     "wof:name": "WN2856 (LAX-SFO)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

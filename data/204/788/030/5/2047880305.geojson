@@ -2,10 +2,12 @@
   "id": 2047880305,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-08T00:39:38Z",
+    "edtf:inception": "2026-08-07T23:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154003397"
+    },
     "wof:country": "US",
     "wof:created": 1786205844,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -94,7 +102,7 @@
       1947304631,
       1159283597
     ],
-    "wof:lastmodified": 1786205844,
+    "wof:lastmodified": 1786206030,
     "wof:name": "UA543 (SFO-SLC)",
     "wof:parent_id": 1947304631,
     "wof:placetype": "custom",

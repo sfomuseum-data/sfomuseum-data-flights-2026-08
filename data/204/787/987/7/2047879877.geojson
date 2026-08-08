@@ -2,10 +2,12 @@
   "id": 2047879877,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T21:40:58Z",
+    "edtf:inception": "2026-08-07T19:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153982152"
+    },
     "wof:country": "US",
     "wof:created": 1786205795,
     "wof:geomhash": "5cb31017412a00ced54cc35c2a74371e",
@@ -94,7 +102,7 @@
       1947304147,
       1159283597
     ],
-    "wof:lastmodified": 1786205795,
+    "wof:lastmodified": 1786206026,
     "wof:name": "UA1302 (SFO-SMF)",
     "wof:parent_id": 1947304147,
     "wof:placetype": "custom",

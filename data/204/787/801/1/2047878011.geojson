@@ -2,10 +2,12 @@
   "id": 2047878011,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T19:25:26Z",
+    "edtf:inception": "2026-08-07T14:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -139.2030015,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102532939,
     "sfomuseum:base_flight_id": "20260807-D-QTR-2033",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N514AS",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153948796"
+    },
     "wof:country": "US",
     "wof:created": 1786205580,
     "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047878011,
     "wof:involves": [
+      1947304289,
+      1159286153,
+      1159289871,
       102532939,
       102527513,
-      1159283813,
-      1947304289,
-      1159286153
+      1159283813
     ],
-    "wof:lastmodified": 1786205580,
+    "wof:lastmodified": 1786205990,
     "wof:name": "AS693 (SFO-KOA)",
     "wof:parent_id": 1947304289,
     "wof:placetype": "custom",

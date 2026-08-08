@@ -2,10 +2,12 @@
   "id": 2047875407,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T03:24:32-07:00",
+    "edtf:inception": "2026-08-07T12:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ITY",
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260807-A-ITY-4431",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17361",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153938944"
+    },
     "wof:country": "US",
     "wof:created": 1786205277,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047875407,
     "wof:involves": [
+      1528104575,
       102527513,
       102531023,
       1159285413,
       1947304531,
       1763699293
     ],
-    "wof:lastmodified": 1786205277,
+    "wof:lastmodified": 1786205971,
     "wof:name": "UA1257 (MIA-SFO)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

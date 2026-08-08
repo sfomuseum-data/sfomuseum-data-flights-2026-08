@@ -2,10 +2,12 @@
   "id": 2047880517,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-08T10:34:42Z",
+    "edtf:inception": "2026-08-07T22:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-07",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153995029"
+    },
     "wof:country": "US",
     "wof:created": 1786205868,
     "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
@@ -88,7 +96,7 @@
       1159285413,
       1947304459
     ],
-    "wof:lastmodified": 1786205868,
+    "wof:lastmodified": 1786206032,
     "wof:name": "UA871 (SFO-TPE)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047875485,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T07:21:27Z",
+    "edtf:inception": "2026-08-07T01:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153904421"
+    },
     "wof:country": "US",
     "wof:created": 1786205286,
     "wof:geomhash": "70ecaf1bff2da3af9ba52c9bde5534af",
@@ -94,7 +99,7 @@
       1947304527,
       1159283697
     ],
-    "wof:lastmodified": 1786205286,
+    "wof:lastmodified": 1786205972,
     "wof:name": "UA1575 (PHL-SFO)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",

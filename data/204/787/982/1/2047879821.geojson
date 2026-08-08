@@ -2,10 +2,12 @@
   "id": 2047879821,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T21:59:54Z",
+    "edtf:inception": "2026-08-07T17:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-07",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153970240"
+    },
     "wof:country": "US",
     "wof:created": 1786205788,
     "wof:geomhash": "b3e3651b522d461c555c2feff400782a",
@@ -88,7 +96,7 @@
       1159285413,
       1947304609
     ],
-    "wof:lastmodified": 1786205788,
+    "wof:lastmodified": 1786206024,
     "wof:name": "UA1095 (SFO-CMH)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

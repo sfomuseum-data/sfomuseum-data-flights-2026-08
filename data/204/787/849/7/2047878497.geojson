@@ -2,10 +2,12 @@
   "id": 2047878497,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-08T04:27:44Z",
+    "edtf:inception": "2026-08-07T23:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-08-07",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153908988"
+    },
     "wof:country": "US",
     "wof:created": 1786205636,
     "wof:geomhash": "5815a5b1ad78885fe3ae36c1daab138f",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1786205636,
+    "wof:lastmodified": 1786205993,
     "wof:name": "DL450 (SFO-ACV)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

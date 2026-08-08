@@ -2,10 +2,12 @@
   "id": 2047874317,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T12:15:18-07:00",
+    "edtf:inception": "2026-08-07T21:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2026-08-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "F9",
+    "icao:aircraft": "A21N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526927,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N653FR",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153990509"
+    },
     "wof:country": "US",
     "wof:created": 1786205149,
     "wof:geomhash": "ae92617dd2aca2afdb0c9096232ff0bb",
@@ -86,9 +98,10 @@
       102527513,
       102526927,
       1159284401,
-      1947304273
+      1947304273,
+      1377564297
     ],
-    "wof:lastmodified": 1786205149,
+    "wof:lastmodified": 1786205963,
     "wof:name": "F91447 (ATL-SFO)",
     "wof:parent_id": 1947304273,
     "wof:placetype": "custom",

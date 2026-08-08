@@ -2,10 +2,12 @@
   "id": 2047878781,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T01:59:38Z",
+    "edtf:inception": "2026-08-07T00:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2026-08-07",
@@ -48,6 +50,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153914756"
+    },
     "wof:country": "US",
     "wof:created": 1786205670,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
@@ -88,7 +93,7 @@
       1159284401,
       1947304285
     ],
-    "wof:lastmodified": 1786205670,
+    "wof:lastmodified": 1786205996,
     "wof:name": "F93582 (SFO-SNA)",
     "wof:parent_id": 1947304285,
     "wof:placetype": "custom",

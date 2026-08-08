@@ -2,10 +2,12 @@
   "id": 2047875439,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T13:40:58Z",
+    "edtf:inception": "2026-08-07T10:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153933515"
+    },
     "wof:country": "US",
     "wof:created": 1786205281,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -94,7 +102,7 @@
       1947304519,
       1159283597
     ],
-    "wof:lastmodified": 1786205281,
+    "wof:lastmodified": 1786205972,
     "wof:name": "UA1348 (AUS-SFO)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

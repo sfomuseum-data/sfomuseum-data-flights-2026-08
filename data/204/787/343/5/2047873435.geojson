@@ -2,10 +2,12 @@
   "id": 2047873435,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T22:28:15Z",
+    "edtf:inception": "2026-08-07T16:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153957694"
+    },
     "wof:country": "US",
     "wof:created": 1786205047,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -94,7 +102,7 @@
       1947304267,
       1159284193
     ],
-    "wof:lastmodified": 1786205047,
+    "wof:lastmodified": 1786205956,
     "wof:name": "AS41 (JFK-SFO)",
     "wof:parent_id": 1947304267,
     "wof:placetype": "custom",

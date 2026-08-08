@@ -2,10 +2,12 @@
   "id": 2047875863,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T01:17:19-07:00",
+    "edtf:inception": "2026-08-07T14:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.3621325,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260807-A-ACA-4195",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N14235",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153949715"
+    },
     "wof:country": "US",
     "wof:created": 1786205330,
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047875863,
     "wof:involves": [
+      1159289871,
       102527513,
       1746879083,
       1159285413,
       1947304487,
       1159283597
     ],
-    "wof:lastmodified": 1786205330,
+    "wof:lastmodified": 1786205976,
     "wof:name": "UA488 (BUR-SFO)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

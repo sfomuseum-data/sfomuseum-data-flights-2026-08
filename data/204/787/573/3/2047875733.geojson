@@ -2,10 +2,12 @@
   "id": 2047875733,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T17:19:49Z",
+    "edtf:inception": "2026-08-07T13:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153945662"
+    },
     "wof:country": "US",
     "wof:created": 1786205315,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -94,7 +102,7 @@
       1947304457,
       1159284333
     ],
-    "wof:lastmodified": 1786205315,
+    "wof:lastmodified": 1786205975,
     "wof:name": "UA2744 (IAH-SFO)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",

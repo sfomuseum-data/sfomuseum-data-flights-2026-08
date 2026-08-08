@@ -2,10 +2,12 @@
   "id": 2047874791,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T23:58:21Z",
+    "edtf:inception": "2026-08-07T23:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2026-08-07",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153999347"
+    },
     "wof:country": "US",
     "wof:created": 1786205205,
     "wof:geomhash": "6d8f05e22cdd419a749a10658572882e",
@@ -88,7 +96,7 @@
       1763552131,
       1947304603
     ],
-    "wof:lastmodified": 1786205205,
+    "wof:lastmodified": 1786205968,
     "wof:name": "MX608 (SBD-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

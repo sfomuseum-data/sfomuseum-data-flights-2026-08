@@ -2,10 +2,12 @@
   "id": 2047879525,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-07",
-    "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
+    "date:inception_lower": "2026-08-08",
+    "date:inception_upper": "2026-08-08",
+    "edtf:cessation": "2026-08-08T05:55:24Z",
+    "edtf:inception": "2026-08-08T01:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-07",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153990272"
+    },
     "wof:country": "US",
     "wof:created": 1786205754,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -88,7 +96,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1786205754,
+    "wof:lastmodified": 1786206000,
     "wof:name": "WN2840 (SFO-SAN)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

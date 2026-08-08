@@ -2,10 +2,12 @@
   "id": 2047879939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-08T00:45:41Z",
+    "edtf:inception": "2026-08-07T22:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20260807-D-ACA-5252",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N57857",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153970948"
+    },
     "wof:country": "US",
     "wof:created": 1786205802,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047879939,
     "wof:involves": [
+      1159289945,
       102531189,
       102527513,
       1159285413,
       1947304455,
       1159283597
     ],
-    "wof:lastmodified": 1786205802,
+    "wof:lastmodified": 1786206026,
     "wof:name": "UA1604 (SFO-DEN)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

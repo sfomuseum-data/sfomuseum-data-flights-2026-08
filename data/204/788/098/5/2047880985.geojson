@@ -2,10 +2,12 @@
   "id": 2047880985,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T23:33:23Z",
+    "edtf:inception": "2026-08-07T21:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "WS",
     "iata:base_airline": "",
+    "icao:aircraft": "C417",
     "icao:airline": "WJA",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614944,
@@ -39,6 +42,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGXJR",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153985203"
+    },
     "wof:country": "US",
     "wof:created": 1786205922,
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
@@ -94,7 +105,7 @@
       1947304667,
       1159283539
     ],
-    "wof:lastmodified": 1786205922,
+    "wof:lastmodified": 1786206039,
     "wof:name": "WS1503 (SFO-YYC)",
     "wof:parent_id": 1947304667,
     "wof:placetype": "custom",

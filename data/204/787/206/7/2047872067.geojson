@@ -2,10 +2,12 @@
   "id": 2047872067,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-07",
+    "date:cessation_upper": "2026-08-07",
     "date:inception_lower": "2026-08-07",
     "date:inception_upper": "2026-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-07",
+    "edtf:cessation": "2026-08-07T09:23:52Z",
+    "edtf:inception": "2026-08-07T03:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153918253"
+    },
     "wof:country": "US",
     "wof:created": 1786204865,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -94,7 +99,7 @@
       1947304281,
       1159285081
     ],
-    "wof:lastmodified": 1786204865,
+    "wof:lastmodified": 1786205936,
     "wof:name": "AA177 (JFK-SFO)",
     "wof:parent_id": 1947304281,
     "wof:placetype": "custom",
