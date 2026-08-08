@@ -1,0 +1,109 @@
+{
+  "id": 2047879511,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-07",
+    "date:inception_upper": "2026-08-07",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-07",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2026-08-07",
+    "flysfo:estimated_timestamp": 1786111200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "WN2032",
+    "flysfo:gate": "D4",
+    "flysfo:journey": "SFO-PHX",
+    "flysfo:scheduled_timestamp": 1786111200,
+    "flysfo:timestamp": 1786111200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.432684,-112.017392,37.617990",
+    "geom:latitude": 35.525337,
+    "geom:longitude": -117.19416749999999,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.616969,
+    "lbl:longitude": -122.381363,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102526751,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260807-D-SWA-2032",
+    "sfomuseum:flight_number": [
+      "SWA2032",
+      "WN2032"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304595,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304599,
+      1947304591,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786205753,
+    "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304595,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047879511,
+        "flight_id": 2047879511,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304599,
+        "wing_id": 1947304591
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304595,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047879511,
+        "flight_id": 2047879511,
+        "region_id": 85688637,
+        "venue_id": 1947304599,
+        "wing_id": 1947304591
+      }
+    ],
+    "wof:id": 2047879511,
+    "wof:involves": [
+      102526751,
+      102527513,
+      1159285591,
+      1947304599
+    ],
+    "wof:lastmodified": 1786205753,
+    "wof:name": "WN2032 (SFO-PHX)",
+    "wof:parent_id": 1947304599,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.432684,
+    -112.017392,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]]}
+}

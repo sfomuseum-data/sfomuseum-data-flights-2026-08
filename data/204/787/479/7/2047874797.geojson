@@ -1,0 +1,109 @@
+{
+  "id": 2047874797,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-07",
+    "date:inception_upper": "2026-08-07",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-07",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "PR",
+    "flysfo:date": "2026-08-07",
+    "flysfo:estimated_timestamp": 1786163820,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "PR104",
+    "flysfo:gate": "A11",
+    "flysfo:journey": "MNL-SFO",
+    "flysfo:scheduled_timestamp": 1786162200,
+    "flysfo:timestamp": 1786163820,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,14.517768,121.015152,37.617990",
+    "geom:latitude": 26.067878999999998,
+    "geom:longitude": -0.6778954999999982,
+    "iata:airline": "PR",
+    "icao:airline": "PAL",
+    "lbl:latitude": 37.611565,
+    "lbl:longitude": -122.389912,
+    "sfomuseum:airline_id": 1159285015,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102553219,
+    "sfomuseum:flight_id": "20260807-A-PAL-104",
+    "sfomuseum:flight_number": [
+      "PAL104",
+      "PR104"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304073,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304099,
+      1947304069,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786205206,
+    "wof:geomhash": "5a4fd58c6aeb5f6f6368af3561d0b192",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047874797,
+        "flight_id": 2047874797,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304099,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047874797,
+        "flight_id": 2047874797,
+        "region_id": 85688637,
+        "venue_id": 1947304099,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 2047874797,
+    "wof:involves": [
+      102527513,
+      102553219,
+      1159285015,
+      1947304099
+    ],
+    "wof:lastmodified": 1786205206,
+    "wof:name": "PR104 (MNL-SFO)",
+    "wof:parent_id": 1947304099,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    14.517768,
+    121.015152,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[121.015152,14.517768],[-122.370943,37.61799]]}
+}

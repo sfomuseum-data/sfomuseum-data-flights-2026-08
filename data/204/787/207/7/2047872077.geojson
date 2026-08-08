@@ -1,0 +1,109 @@
+{
+  "id": 2047872077,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-07",
+    "date:inception_upper": "2026-08-07",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-07",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2026-08-07",
+    "flysfo:estimated_timestamp": 1786118160,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AA1949",
+    "flysfo:gate": "B24",
+    "flysfo:journey": "DFW-SFO",
+    "flysfo:scheduled_timestamp": 1786117800,
+    "flysfo:timestamp": 1786118160,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
+    "geom:latitude": 35.260825,
+    "geom:longitude": -109.7109545,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528541,
+    "sfomuseum:flight_id": "20260807-A-AAL-1949",
+    "sfomuseum:flight_number": [
+      "AAL1949",
+      "AA1949"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304261,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304277,
+      1947304259,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786204866,
+    "wof:geomhash": "865973335526f09b753756c305bf4946",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047872077,
+        "flight_id": 2047872077,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304277,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047872077,
+        "flight_id": 2047872077,
+        "region_id": 85688637,
+        "venue_id": 1947304277,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 2047872077,
+    "wof:involves": [
+      102527513,
+      102528541,
+      1159283849,
+      1947304277
+    ],
+    "wof:lastmodified": 1786204866,
+    "wof:name": "AA1949 (DFW-SFO)",
+    "wof:parent_id": 1947304277,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.90366,
+    -97.050966,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]]}
+}
