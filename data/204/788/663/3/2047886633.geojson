@@ -2,10 +2,12 @@
   "id": 2047886633,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-09T00:17:07Z",
+    "edtf:inception": "2026-08-08T23:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154091036"
+    },
     "wof:country": "US",
     "wof:created": 1786291950,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -94,7 +102,7 @@
       1947304275,
       1159283849
     ],
-    "wof:lastmodified": 1786291950,
+    "wof:lastmodified": 1786292394,
     "wof:name": "AS776 (SFO-LAS)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

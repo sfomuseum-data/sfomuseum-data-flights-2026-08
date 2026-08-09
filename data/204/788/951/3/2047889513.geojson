@@ -2,10 +2,12 @@
   "id": 2047889513,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-08T12:30:44-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "WS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "WJA",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285523,
     "sfomuseum:arrival_id": 102554947,
     "sfomuseum:base_flight_id": "20260808-D-AMX-7064",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGOCD",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +97,14 @@
     ],
     "wof:id": 2047889513,
     "wof:involves": [
-      102554947,
-      102527513,
       1159285523,
       1947304669,
-      1159283539
+      1159283539,
+      1159289871,
+      102554947,
+      102527513
     ],
-    "wof:lastmodified": 1786292282,
+    "wof:lastmodified": 1786292438,
     "wof:name": "WS1507 (SFO-YYC)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",

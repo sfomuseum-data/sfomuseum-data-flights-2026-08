@@ -2,10 +2,12 @@
   "id": 2047887205,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-09T02:54:48Z",
+    "edtf:inception": "2026-08-08T21:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154072991"
+    },
     "wof:country": "US",
     "wof:created": 1786292016,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -94,7 +102,7 @@
       1947304679,
       1159284157
     ],
-    "wof:lastmodified": 1786292016,
+    "wof:lastmodified": 1786292398,
     "wof:name": "DL977 (SFO-BOS)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

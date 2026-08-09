@@ -2,10 +2,12 @@
   "id": 2047883555,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-08T07:21:39Z",
+    "edtf:inception": "2026-08-08T01:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154010798"
+    },
     "wof:country": "US",
     "wof:created": 1786291590,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -94,7 +99,7 @@
       1947304095,
       1159284513
     ],
-    "wof:lastmodified": 1786291590,
+    "wof:lastmodified": 1786292368,
     "wof:name": "B6413 (BOS-SFO)",
     "wof:parent_id": 1947304095,
     "wof:placetype": "custom",

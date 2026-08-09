@@ -2,10 +2,12 @@
   "id": 2047888471,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-08T19:06:06Z",
+    "edtf:inception": "2026-08-08T15:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154048287"
+    },
     "wof:country": "US",
     "wof:created": 1786292161,
     "wof:geomhash": "ae49e61cad725fa4577f8355bb7297ad",
@@ -94,7 +102,7 @@
       1947304457,
       1159283597
     ],
-    "wof:lastmodified": 1786292161,
+    "wof:lastmodified": 1786292429,
     "wof:name": "UA1212 (SFO-PVR)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",

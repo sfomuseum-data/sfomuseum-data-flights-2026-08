@@ -2,10 +2,12 @@
   "id": 2047884001,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-08T23:26:43Z",
+    "edtf:inception": "2026-08-08T19:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-08",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154066159"
+    },
     "wof:country": "US",
     "wof:created": 1786291643,
     "wof:geomhash": "462e561a68f133085fb895c49eddc748",
@@ -88,7 +96,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1786291643,
+    "wof:lastmodified": 1786292372,
     "wof:name": "WN3951 (BNA-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

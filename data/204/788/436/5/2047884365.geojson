@@ -2,10 +2,12 @@
   "id": 2047884365,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-08T23:11:11Z",
+    "edtf:inception": "2026-08-08T21:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154072897"
+    },
     "wof:country": "US",
     "wof:created": 1786291686,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -94,7 +102,7 @@
       1947304601,
       1159283597
     ],
-    "wof:lastmodified": 1786291686,
+    "wof:lastmodified": 1786292376,
     "wof:name": "UA1812 (DEN-SFO)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

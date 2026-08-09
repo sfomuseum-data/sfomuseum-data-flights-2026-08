@@ -2,10 +2,12 @@
   "id": 2047881667,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-08",
-    "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-08T02:40:09-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -112.83645849999999,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "AMX",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260808-A-DAL-8034",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +99,10 @@
       102536387,
       1159283539,
       1947304081,
-      1159284261
+      1159284261,
+      1528104575
     ],
-    "wof:lastmodified": 1786291367,
+    "wof:lastmodified": 1786292324,
     "wof:name": "AM622 (GDL-SFO)",
     "wof:parent_id": 1947304081,
     "wof:placetype": "custom",

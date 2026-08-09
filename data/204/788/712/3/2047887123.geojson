@@ -2,10 +2,12 @@
   "id": 2047887123,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-08T19:28:16Z",
+    "edtf:inception": "2026-08-08T17:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20260808-D-AMX-3870",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N377DA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154061662"
+    },
     "wof:country": "US",
     "wof:created": 1786292007,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047887123,
     "wof:involves": [
-      102533269,
       102527513,
       1159284261,
       1947304681,
-      1159283539
+      1159283539,
+      1159289871,
+      102533269
     ],
-    "wof:lastmodified": 1786292007,
+    "wof:lastmodified": 1786292397,
     "wof:name": "DL2870 (SFO-SEA)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",

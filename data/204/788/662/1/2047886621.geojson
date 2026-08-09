@@ -2,10 +2,12 @@
   "id": 2047886621,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-08T21:11:52Z",
+    "edtf:inception": "2026-08-08T16:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2026-08-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 28.675217,
     "geom:longitude": -139.2030015,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102532939,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N433AS",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154041250"
+    },
     "wof:country": "US",
     "wof:created": 1786291948,
     "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2047886621,
     "wof:involves": [
+      1947304293,
+      1377564285,
       102532939,
       102527513,
-      1159283813,
-      1947304293
+      1159283813
     ],
-    "wof:lastmodified": 1786291948,
+    "wof:lastmodified": 1786292394,
     "wof:name": "AS693 (SFO-KOA)",
     "wof:parent_id": 1947304293,
     "wof:placetype": "custom",

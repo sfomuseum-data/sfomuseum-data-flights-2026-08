@@ -2,10 +2,12 @@
   "id": 2047888581,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-08T16:29:27-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ITY",
     "lbl:latitude": 37.620164,
     "lbl:longitude": -122.387194,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:base_flight_id": "20260808-D-ITY-4495",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37553",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -88,13 +97,14 @@
     ],
     "wof:id": 2047888581,
     "wof:involves": [
+      1930457221,
+      1763699293,
+      1528104577,
       102531023,
       102527513,
-      1159285413,
-      1930457221,
-      1763699293
+      1159285413
     ],
-    "wof:lastmodified": 1786292174,
+    "wof:lastmodified": 1786292430,
     "wof:name": "UA1769 (SFO-MIA)",
     "wof:parent_id": 1930457221,
     "wof:placetype": "custom",

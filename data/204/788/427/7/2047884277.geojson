@@ -2,10 +2,12 @@
   "id": 2047884277,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-08T12:54:13-07:00",
+    "edtf:inception": "2026-08-08T23:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "UAE",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260808-A-UAE-6126",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N39418",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154091899"
+    },
     "wof:country": "US",
     "wof:created": 1786291675,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047884277,
     "wof:involves": [
-      102527513,
-      102534097,
       1159285413,
       1947304515,
-      1159284333
+      1159284333,
+      1377564285,
+      102527513,
+      102534097
     ],
-    "wof:lastmodified": 1786291675,
+    "wof:lastmodified": 1786292375,
     "wof:name": "UA1341 (IAH-SFO)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

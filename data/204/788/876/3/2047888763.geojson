@@ -2,10 +2,12 @@
   "id": 2047888763,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-08T22:23:31Z",
+    "edtf:inception": "2026-08-08T21:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154078798"
+    },
     "wof:country": "US",
     "wof:created": 1786292195,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
@@ -94,7 +102,7 @@
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1786292195,
+    "wof:lastmodified": 1786292432,
     "wof:name": "UA267 (SFO-BOI)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

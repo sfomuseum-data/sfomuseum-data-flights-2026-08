@@ -2,10 +2,12 @@
   "id": 2047888541,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-09T01:34:52Z",
+    "edtf:inception": "2026-08-08T21:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -136.169672,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531979,
     "sfomuseum:base_flight_id": "20260808-D-ANZ-2831",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N36272",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154014391"
+    },
     "wof:country": "US",
     "wof:created": 1786292170,
     "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047888541,
     "wof:involves": [
-      102531979,
       102527513,
       1159285413,
       1947304523,
-      1159283697
+      1159283697,
+      1159289871,
+      102531979
     ],
-    "wof:lastmodified": 1786292170,
+    "wof:lastmodified": 1786292429,
     "wof:name": "UA1594 (SFO-ANC)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

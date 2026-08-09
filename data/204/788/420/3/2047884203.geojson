@@ -2,10 +2,12 @@
   "id": 2047884203,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-08",
+    "date:cessation_upper": "2026-08-08",
     "date:inception_lower": "2026-08-08",
     "date:inception_upper": "2026-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-08",
+    "edtf:cessation": "2026-08-08T02:32:23Z",
+    "edtf:inception": "2026-08-08T00:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154006375"
+    },
     "wof:country": "US",
     "wof:created": 1786291667,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -94,7 +99,7 @@
       1947304491,
       1159283597
     ],
-    "wof:lastmodified": 1786291667,
+    "wof:lastmodified": 1786292374,
     "wof:name": "UA1007 (DEN-SFO)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",
