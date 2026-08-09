@@ -1,0 +1,109 @@
+{
+  "id": 2047882685,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-08",
+    "date:inception_upper": "2026-08-08",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-08",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "CA",
+    "flysfo:date": "2026-08-08",
+    "flysfo:estimated_timestamp": 1786210740,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "CA985",
+    "flysfo:gate": "G12",
+    "flysfo:journey": "PEK-SFO",
+    "flysfo:scheduled_timestamp": 1786210200,
+    "flysfo:timestamp": 1786210740,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,116.586155,40.068469",
+    "geom:latitude": 38.8432295,
+    "geom:longitude": -2.892393999999996,
+    "iata:airline": "CA",
+    "icao:airline": "CCA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283605,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102550367,
+    "sfomuseum:flight_id": "20260808-A-CCA-985",
+    "sfomuseum:flight_number": [
+      "CCA985",
+      "CA985"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304129,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304147,
+      1947304069,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786291488,
+    "wof:geomhash": "96cbe57d72475858a8ed1d7cff76fcd0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304129,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047882685,
+        "flight_id": 2047882685,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304147,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304129,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047882685,
+        "flight_id": 2047882685,
+        "region_id": 85688637,
+        "venue_id": 1947304147,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 2047882685,
+    "wof:involves": [
+      102527513,
+      102550367,
+      1159283605,
+      1947304147
+    ],
+    "wof:lastmodified": 1786291488,
+    "wof:name": "CA985 (PEK-SFO)",
+    "wof:parent_id": 1947304147,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    116.586155,
+    40.068469
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[116.586155,40.068469],[-122.370943,37.61799]]}
+}
