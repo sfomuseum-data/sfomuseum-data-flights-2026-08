@@ -2,10 +2,12 @@
   "id": 2047897095,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T11:15:40-07:00",
+    "edtf:inception": "2026-08-09T20:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260809-A-AFR-5774",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N810DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154157970"
+    },
     "wof:country": "US",
     "wof:created": 1786377951,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047897095,
     "wof:involves": [
-      102527513,
       102525635,
       1159284261,
       1947304671,
-      1159283627
+      1159283627,
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1786377951,
+    "wof:lastmodified": 1786378799,
     "wof:name": "DL442 (DTW-SFO)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047898645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T01:40:44-07:00",
+    "edtf:inception": "2026-08-09T12:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.134272,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260809-A-ACA-4685",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N464UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154116761"
+    },
     "wof:country": "US",
     "wof:created": 1786378134,
     "wof:geomhash": "a4023a41644574291fc7580f5443d9f4",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047898645,
     "wof:involves": [
+      1947304609,
+      1159283597,
+      1159292085,
       102527513,
       102524739,
-      1159285413,
-      1947304609,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1786378134,
+    "wof:lastmodified": 1786378831,
     "wof:name": "UA2051 (OMA-SFO)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

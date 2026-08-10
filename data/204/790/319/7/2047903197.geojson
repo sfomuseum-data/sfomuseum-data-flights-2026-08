@@ -2,10 +2,12 @@
   "id": 2047903197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T17:36:51Z",
+    "edtf:inception": "2026-08-09T16:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.616825,
     "lbl:longitude": -122.381021,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532251,
     "sfomuseum:base_flight_id": "20260809-D-ANZ-9341",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N472UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154131972"
+    },
     "wof:country": "US",
     "wof:created": 1786378661,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047903197,
     "wof:involves": [
+      1159292085,
       102532251,
       102527513,
       1159285413,
       1947304607,
       1159283697
     ],
-    "wof:lastmodified": 1786378661,
+    "wof:lastmodified": 1786378867,
     "wof:name": "UA2265 (SFO-PDX)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

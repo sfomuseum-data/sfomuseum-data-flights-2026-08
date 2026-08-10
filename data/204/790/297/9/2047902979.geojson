@@ -2,10 +2,12 @@
   "id": 2047902979,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T12:41:21Z",
+    "edtf:inception": "2026-08-09T07:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154108254"
+    },
     "wof:country": "US",
     "wof:created": 1786378636,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -94,7 +99,7 @@
       1947304527,
       1779770723
     ],
-    "wof:lastmodified": 1786378636,
+    "wof:lastmodified": 1786378859,
     "wof:name": "UA1267 (SFO-MCO)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",

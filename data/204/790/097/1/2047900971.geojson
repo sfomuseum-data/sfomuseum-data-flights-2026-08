@@ -2,10 +2,12 @@
   "id": 2047900971,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T21:26:22Z",
+    "edtf:inception": "2026-08-09T20:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154152118"
+    },
     "wof:country": "US",
     "wof:created": 1786378403,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -94,7 +102,7 @@
       1947304303,
       1159284021
     ],
-    "wof:lastmodified": 1786378403,
+    "wof:lastmodified": 1786378847,
     "wof:name": "AS235 (SFO-PDX)",
     "wof:parent_id": 1947304303,
     "wof:placetype": "custom",

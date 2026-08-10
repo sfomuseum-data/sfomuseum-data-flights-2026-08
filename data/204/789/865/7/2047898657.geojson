@@ -2,10 +2,12 @@
   "id": 2047898657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T23:15:36Z",
+    "edtf:inception": "2026-08-09T22:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154161003"
+    },
     "wof:country": "US",
     "wof:created": 1786378135,
     "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
@@ -94,7 +102,7 @@
       1947304473,
       1159284211
     ],
-    "wof:lastmodified": 1786378135,
+    "wof:lastmodified": 1786378831,
     "wof:name": "UA2077 (EUG-SFO)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

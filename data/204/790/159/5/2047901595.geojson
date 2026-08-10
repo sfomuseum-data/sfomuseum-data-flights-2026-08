@@ -2,10 +2,12 @@
   "id": 2047901595,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-10T00:13:23Z",
+    "edtf:inception": "2026-08-09T19:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B764",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1394298249,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20260809-D-AFR-8607",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N833MH",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154150064"
+    },
     "wof:country": "US",
     "wof:created": 1786378475,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047901595,
     "wof:involves": [
-      102534365,
       102527513,
       1159284261,
       1947304681,
-      1159283627
+      1159283627,
+      1394298249,
+      102534365
     ],
-    "wof:lastmodified": 1786378475,
+    "wof:lastmodified": 1786378850,
     "wof:name": "DL668 (SFO-JFK)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",

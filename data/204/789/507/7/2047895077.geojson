@@ -2,10 +2,12 @@
   "id": 2047895077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T12:51:03-07:00",
+    "edtf:inception": "2026-08-09T21:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "FJI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260809-A-FJI-5009",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N155UW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154163541"
+    },
     "wof:country": "US",
     "wof:created": 1786377694,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047895077,
     "wof:involves": [
-      102527513,
       102528659,
       1159283849,
       1947304309,
-      1159283717
+      1159283717,
+      1159289411,
+      102527513
     ],
-    "wof:lastmodified": 1786377694,
+    "wof:lastmodified": 1786378786,
     "wof:name": "AA1538 (CLT-SFO)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

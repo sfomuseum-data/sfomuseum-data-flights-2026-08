@@ -2,10 +2,12 @@
   "id": 2047903613,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T22:53:53Z",
+    "edtf:inception": "2026-08-09T17:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N27463",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154141252"
+    },
     "wof:country": "US",
     "wof:created": 1786378708,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2047903613,
     "wof:involves": [
+      1528104577,
       102530741,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1786378708,
+    "wof:lastmodified": 1786378872,
     "wof:name": "UA8165 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

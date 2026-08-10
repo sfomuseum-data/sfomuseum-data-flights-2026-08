@@ -2,10 +2,12 @@
   "id": 2047897093,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T07:02:08-07:00",
+    "edtf:inception": "2026-08-09T16:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "WJA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260809-A-WJA-6743",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N854DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154137608"
+    },
     "wof:country": "US",
     "wof:created": 1786377951,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047897093,
     "wof:involves": [
+      1377564285,
       102527513,
       102525635,
       1159284261,
       1763588251,
       1159285523
     ],
-    "wof:lastmodified": 1786377951,
+    "wof:lastmodified": 1786378799,
     "wof:name": "DL469 (DTW-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

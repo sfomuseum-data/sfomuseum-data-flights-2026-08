@@ -2,10 +2,12 @@
   "id": 2047898159,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T23:30:29Z",
+    "edtf:inception": "2026-08-09T21:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-09",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154161173"
+    },
     "wof:country": "US",
     "wof:created": 1786378076,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -88,7 +96,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1786378076,
+    "wof:lastmodified": 1786378826,
     "wof:name": "WN1382 (DEN-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047895097,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T04:08:01-07:00",
+    "edtf:inception": "2026-08-09T15:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "CPA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260809-A-CPA-7613",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N152UW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154121465"
+    },
     "wof:country": "US",
     "wof:created": 1786377698,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047895097,
     "wof:involves": [
+      1159289411,
       102527513,
       102528541,
       1159283849,
       1947304277,
       1159284127
     ],
-    "wof:lastmodified": 1786377698,
+    "wof:lastmodified": 1786378786,
     "wof:name": "AA2309 (DFW-SFO)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

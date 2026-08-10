@@ -2,10 +2,12 @@
   "id": 2047903477,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T21:57:12Z",
+    "edtf:inception": "2026-08-09T17:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154141278"
+    },
     "wof:country": "US",
     "wof:created": 1786378693,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -94,7 +102,7 @@
       1947304473,
       1159283597
     ],
-    "wof:lastmodified": 1786378693,
+    "wof:lastmodified": 1786378871,
     "wof:name": "UA573 (SFO-OGG)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

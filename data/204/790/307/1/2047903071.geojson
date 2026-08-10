@@ -2,10 +2,12 @@
   "id": 2047903071,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-09",
-    "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
+    "date:inception_lower": "2026-08-10",
+    "date:inception_upper": "2026-08-10",
+    "edtf:cessation": "2026-08-10T06:23:44Z",
+    "edtf:inception": "2026-08-10T01:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.859366,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528943,
     "sfomuseum:base_flight_id": "20260809-D-DLH-9326",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N47298",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154095429"
+    },
     "wof:country": "US",
     "wof:created": 1786378646,
     "wof:geomhash": "a2498fe603884edb23014f03e0e3c121",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047903071,
     "wof:involves": [
-      102528943,
-      102527513,
       1159285413,
       1947304483,
-      1159286015
+      1159286015,
+      1528104575,
+      102528943,
+      102527513
     ],
-    "wof:lastmodified": 1786378646,
+    "wof:lastmodified": 1786378863,
     "wof:name": "UA1684 (SFO-LIH)",
     "wof:parent_id": 1947304483,
     "wof:placetype": "custom",

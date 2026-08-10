@@ -2,10 +2,12 @@
   "id": 2047895137,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T11:29:09-07:00",
+    "edtf:inception": "2026-08-09T20:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.809414,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260809-A-BAW-4421",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N414AL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154155426"
+    },
     "wof:country": "US",
     "wof:created": 1786377703,
     "wof:geomhash": "70ecaf1bff2da3af9ba52c9bde5534af",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047895137,
     "wof:involves": [
+      1377564297,
       102527513,
       102529403,
       1159283849,
       1947304283,
       1159284021
     ],
-    "wof:lastmodified": 1786377703,
+    "wof:lastmodified": 1786378787,
     "wof:name": "AA3295 (PHL-SFO)",
     "wof:parent_id": 1947304283,
     "wof:placetype": "custom",

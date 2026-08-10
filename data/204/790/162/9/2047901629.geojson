@@ -2,10 +2,12 @@
   "id": 2047901629,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-09",
-    "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
+    "date:inception_lower": "2026-08-10",
+    "date:inception_upper": "2026-08-10",
+    "edtf:cessation": "2026-08-10T07:36:08Z",
+    "edtf:inception": "2026-08-10T06:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-08-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
+    "icao:aircraft": "BCS1",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104583,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N134DU",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154167671"
+    },
     "wof:country": "US",
     "wof:created": 1786378479,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2047901629,
     "wof:involves": [
-      102527363,
       102527513,
       1159284261,
-      -1
+      1528104583,
+      102527363
     ],
-    "wof:lastmodified": 1786378479,
+    "wof:lastmodified": 1786378850,
     "wof:name": "DL8963 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

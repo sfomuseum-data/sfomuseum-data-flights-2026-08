@@ -2,10 +2,12 @@
   "id": 2047897029,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T10:17:48-07:00",
+    "edtf:inception": "2026-08-09T21:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260809-A-AMX-4414",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N332NB",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154157843"
+    },
     "wof:country": "US",
     "wof:created": 1786377944,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047897029,
     "wof:involves": [
+      1159283539,
+      1159289407,
       102527513,
       102521851,
       1159284261,
-      1947304681,
-      1159283539
+      1947304681
     ],
-    "wof:lastmodified": 1786377944,
+    "wof:lastmodified": 1786378798,
     "wof:name": "DL1077 (AUS-SFO)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",

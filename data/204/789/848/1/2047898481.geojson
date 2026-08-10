@@ -2,10 +2,12 @@
   "id": 2047898481,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-09",
+    "date:cessation_upper": "2026-08-09",
     "date:inception_lower": "2026-08-09",
     "date:inception_upper": "2026-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-09",
+    "edtf:cessation": "2026-08-09T00:30:53-07:00",
+    "edtf:inception": "2026-08-09T12:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260809-A-ACA-3333",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17444",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154115436"
+    },
     "wof:country": "US",
     "wof:created": 1786378114,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047898481,
     "wof:involves": [
+      1528104577,
       102527513,
       102531189,
       1159285413,
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1786378114,
+    "wof:lastmodified": 1786378829,
     "wof:name": "UA1301 (DEN-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
