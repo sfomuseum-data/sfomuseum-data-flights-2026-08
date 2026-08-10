@@ -1,0 +1,72 @@
+{
+  "id": 2047902211,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-09",
+    "date:inception_upper": "2026-08-09",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-09",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "KE",
+    "flysfo:date": "2026-08-09",
+    "flysfo:estimated_timestamp": 1786273200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "KE214",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-ICN",
+    "flysfo:scheduled_timestamp": 1786273200,
+    "flysfo:timestamp": 1786273200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.453966,126.661632,37.617990",
+    "geom:latitude": 37.535978,
+    "geom:longitude": 2.1453445,
+    "iata:airline": "KE",
+    "icao:airline": "KAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284625,
+    "sfomuseum:arrival_id": 102556451,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260809-D-KAL-214",
+    "sfomuseum:flight_number": [
+      "KAL214",
+      "KE214"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786378548,
+    "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047902211,
+        "flight_id": 2047902211
+      }
+    ],
+    "wof:id": 2047902211,
+    "wof:involves": [
+      102556451,
+      102527513,
+      1159284625,
+      -1
+    ],
+    "wof:lastmodified": 1786378548,
+    "wof:name": "KE214 (SFO-ICN)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.453966,
+    126.661632,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[126.661632,37.453966]]}
+}

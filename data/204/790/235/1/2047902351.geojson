@@ -1,0 +1,109 @@
+{
+  "id": 2047902351,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-09",
+    "date:inception_upper": "2026-08-09",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-09",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "MX",
+    "flysfo:date": "2026-08-09",
+    "flysfo:estimated_timestamp": 1786311420,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "MX600",
+    "flysfo:gate": "D10",
+    "flysfo:journey": "SFO-SBD",
+    "flysfo:scheduled_timestamp": 1786311420,
+    "flysfo:timestamp": 1786311420,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,34.104408,-117.245887,37.617990",
+    "geom:latitude": 35.861199,
+    "geom:longitude": -119.808415,
+    "iata:airline": "MX",
+    "icao:airline": "MXY",
+    "lbl:latitude": 37.617908,
+    "lbl:longitude": -122.381084,
+    "sfomuseum:airline_id": 1763552131,
+    "sfomuseum:arrival_id": 102530129,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260809-D-MXY-600",
+    "sfomuseum:flight_number": [
+      "MXY600",
+      "MX600"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304595,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304603,
+      1947304591,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786378564,
+    "wof:geomhash": "b4d056e1d6e58dcf382167f77162f897",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304595,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047902351,
+        "flight_id": 2047902351,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304603,
+        "wing_id": 1947304591
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304595,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047902351,
+        "flight_id": 2047902351,
+        "region_id": 85688637,
+        "venue_id": 1947304603,
+        "wing_id": 1947304591
+      }
+    ],
+    "wof:id": 2047902351,
+    "wof:involves": [
+      102530129,
+      102527513,
+      1763552131,
+      1947304603
+    ],
+    "wof:lastmodified": 1786378564,
+    "wof:name": "MX600 (SFO-SBD)",
+    "wof:parent_id": 1947304603,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    34.104408,
+    -117.245887,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-117.245887,34.104408]]}
+}

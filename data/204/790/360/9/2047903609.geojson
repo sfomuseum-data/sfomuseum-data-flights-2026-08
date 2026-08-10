@@ -1,0 +1,72 @@
+{
+  "id": 2047903609,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-09",
+    "date:inception_upper": "2026-08-09",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-09",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-09",
+    "flysfo:estimated_timestamp": 1786340400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8134",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-BWI",
+    "flysfo:scheduled_timestamp": 1786340400,
+    "flysfo:timestamp": 1786340400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-76.671070,39.181319",
+    "geom:latitude": 38.3996545,
+    "geom:longitude": -99.5210065,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102532047,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260809-D-UAL-8134",
+    "sfomuseum:flight_number": [
+      "UAL8134",
+      "UA8134"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786378708,
+    "wof:geomhash": "ff243e97b2d4ce40e0a4accb79115371",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047903609,
+        "flight_id": 2047903609
+      }
+    ],
+    "wof:id": 2047903609,
+    "wof:involves": [
+      102532047,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1786378708,
+    "wof:name": "UA8134 (SFO-BWI)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -76.67107,
+    39.181319
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-76.67107,39.181319]]}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 2047897519,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-09",
+    "date:inception_upper": "2026-08-09",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-09",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "VN",
+    "flysfo:date": "2026-08-09",
+    "flysfo:estimated_timestamp": 1786325160,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "VN98",
+    "flysfo:gate": "A10",
+    "flysfo:journey": "SGN-SFO",
+    "flysfo:scheduled_timestamp": 1786323300,
+    "flysfo:timestamp": 1786325160,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,10.810137,106.663189,37.617990",
+    "geom:latitude": 24.214063499999998,
+    "geom:longitude": -7.853876999999997,
+    "iata:airline": "VN",
+    "icao:airline": "HVN",
+    "lbl:latitude": 37.61227,
+    "lbl:longitude": -122.390079,
+    "sfomuseum:airline_id": 1159285479,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102559025,
+    "sfomuseum:flight_id": "20260809-A-HVN-98",
+    "sfomuseum:flight_number": [
+      "HVN98",
+      "VN98"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304073,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304101,
+      1947304069,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786378000,
+    "wof:geomhash": "012961f8e0c3775359f771a39eab25cc",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047897519,
+        "flight_id": 2047897519,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304101,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047897519,
+        "flight_id": 2047897519,
+        "region_id": 85688637,
+        "venue_id": 1947304101,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 2047897519,
+    "wof:involves": [
+      102527513,
+      102559025,
+      1159285479,
+      1947304101
+    ],
+    "wof:lastmodified": 1786378000,
+    "wof:name": "VN98 (SGN-SFO)",
+    "wof:parent_id": 1947304101,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    10.810137,
+    106.663189,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[106.663189,10.810137],[-122.370943,37.61799]]}
+}
