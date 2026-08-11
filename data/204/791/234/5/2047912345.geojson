@@ -1,0 +1,109 @@
+{
+  "id": 2047912345,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-10",
+    "date:inception_upper": "2026-08-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "B6",
+    "flysfo:date": "2026-08-10",
+    "flysfo:estimated_timestamp": 1786428060,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "B61633",
+    "flysfo:gate": "B18",
+    "flysfo:journey": "BOS-SFO",
+    "flysfo:scheduled_timestamp": 1786426260,
+    "flysfo:timestamp": 1786428060,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
+    "geom:latitude": 39.990156,
+    "geom:longitude": -96.6928465,
+    "iata:airline": "B6",
+    "icao:airline": "JBU",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284583,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530741,
+    "sfomuseum:flight_id": "20260810-A-JBU-1633",
+    "sfomuseum:flight_number": [
+      "JBU1633",
+      "B61633"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304261,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304297,
+      1947304259,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786464435,
+    "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047912345,
+        "flight_id": 2047912345,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304297,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047912345,
+        "flight_id": 2047912345,
+        "region_id": 85688637,
+        "venue_id": 1947304297,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 2047912345,
+    "wof:involves": [
+      102527513,
+      102530741,
+      1159284583,
+      1947304297
+    ],
+    "wof:lastmodified": 1786464435,
+    "wof:name": "B61633 (BOS-SFO)",
+    "wof:parent_id": 1947304297,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -71.01475,
+    42.362322
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]]}
+}

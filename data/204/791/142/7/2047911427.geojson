@@ -1,0 +1,72 @@
+{
+  "id": 2047911427,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-10",
+    "date:inception_upper": "2026-08-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DE",
+    "flysfo:date": "2026-08-10",
+    "flysfo:estimated_timestamp": 1786398060,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DE21",
+    "flysfo:gate": "",
+    "flysfo:journey": "FRA-SFO",
+    "flysfo:scheduled_timestamp": 1786397520,
+    "flysfo:timestamp": 1786398060,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,7.267284,49.945918",
+    "geom:latitude": 43.781954,
+    "geom:longitude": -57.5518295,
+    "iata:airline": "DE",
+    "icao:airline": "CFG",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284193,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102549057,
+    "sfomuseum:flight_id": "20260810-A-CFG-21",
+    "sfomuseum:flight_number": [
+      "CFG21",
+      "DE21"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786464323,
+    "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047911427,
+        "flight_id": 2047911427
+      }
+    ],
+    "wof:id": 2047911427,
+    "wof:involves": [
+      102527513,
+      102549057,
+      1159284193,
+      -1
+    ],
+    "wof:lastmodified": 1786464323,
+    "wof:name": "DE21 (FRA-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    7.267284,
+    49.945918
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[7.267284,49.945918],[-122.370943,37.61799]]}
+}
