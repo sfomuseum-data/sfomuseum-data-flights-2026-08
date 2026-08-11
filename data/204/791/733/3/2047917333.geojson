@@ -2,10 +2,12 @@
   "id": 2047917333,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T19:08:26Z",
+    "edtf:inception": "2026-08-10T18:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-10",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154225120"
+    },
     "wof:country": "US",
     "wof:created": 1786465028,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -88,7 +96,7 @@
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1786465028,
+    "wof:lastmodified": 1786465310,
     "wof:name": "WN3714 (SFO-BUR)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

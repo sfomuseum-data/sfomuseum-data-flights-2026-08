@@ -2,10 +2,12 @@
   "id": 2047917705,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T20:28:52Z",
+    "edtf:inception": "2026-08-10T19:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154196314"
+    },
     "wof:country": "US",
     "wof:created": 1786465071,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -94,7 +102,7 @@
       1947304523,
       1159283605
     ],
-    "wof:lastmodified": 1786465071,
+    "wof:lastmodified": 1786465312,
     "wof:name": "UA1506 (SFO-LAX)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

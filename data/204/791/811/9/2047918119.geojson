@@ -2,10 +2,12 @@
   "id": 2047918119,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T20:52:07Z",
+    "edtf:inception": "2026-08-10T19:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154232798"
+    },
     "wof:country": "US",
     "wof:created": 1786465121,
     "wof:geomhash": "8115bc7828d3bd6404c793fb172971b8",
@@ -94,7 +102,7 @@
       1947304607,
       1159283697
     ],
-    "wof:lastmodified": 1786465121,
+    "wof:lastmodified": 1786465318,
     "wof:name": "UA562 (SFO-BZN)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

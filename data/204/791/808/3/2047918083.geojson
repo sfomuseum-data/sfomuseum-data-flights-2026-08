@@ -2,10 +2,12 @@
   "id": 2047918083,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-10",
-    "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
+    "date:inception_lower": "2026-08-11",
+    "date:inception_upper": "2026-08-11",
+    "edtf:cessation": "2026-08-11T01:51:26Z",
+    "edtf:inception": "2026-08-11T01:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -115.4494075,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532065,
     "sfomuseum:base_flight_id": "20260810-D-ACA-4049",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N14520",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154236189"
+    },
     "wof:country": "US",
     "wof:created": 1786465116,
     "wof:geomhash": "8db666380c01edea8882f91918b43729",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047918083,
     "wof:involves": [
-      102532065,
       102527513,
       1159285413,
       1947304623,
-      1159283597
+      1159283597,
+      1377564297,
+      102532065
     ],
-    "wof:lastmodified": 1786465116,
+    "wof:lastmodified": 1786465318,
     "wof:name": "UA540 (SFO-GJT)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

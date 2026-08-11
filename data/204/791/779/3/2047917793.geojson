@@ -2,10 +2,12 @@
   "id": 2047917793,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T09:56:23Z",
+    "edtf:inception": "2026-08-10T05:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532255,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N27261",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154186926"
+    },
     "wof:country": "US",
     "wof:created": 1786465082,
     "wof:geomhash": "b3e3651b522d461c555c2feff400782a",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2047917793,
     "wof:involves": [
+      1528104575,
       102532255,
       102527513,
       1159285413,
       1947304601
     ],
-    "wof:lastmodified": 1786465082,
+    "wof:lastmodified": 1786465314,
     "wof:name": "UA1939 (SFO-CMH)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

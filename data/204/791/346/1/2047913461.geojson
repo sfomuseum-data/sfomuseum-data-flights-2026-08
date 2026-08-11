@@ -2,10 +2,12 @@
   "id": 2047913461,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T08:41:51-07:00",
+    "edtf:inception": "2026-08-10T21:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260810-A-ACA-5213",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N78506",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154247614"
+    },
     "wof:country": "US",
     "wof:created": 1786464568,
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047913461,
     "wof:involves": [
+      1159289871,
       102527513,
       102534161,
       1159285413,
       1947304515,
       1159283597
     ],
-    "wof:lastmodified": 1786464568,
+    "wof:lastmodified": 1786465276,
     "wof:name": "UA2823 (SNA-SFO)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047914287,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-10",
-    "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
+    "date:inception_lower": "2026-08-11",
+    "date:inception_upper": "2026-08-11",
+    "edtf:cessation": "2026-08-10T15:33:12-07:00",
+    "edtf:inception": "2026-08-11T03:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "WS",
     "iata:base_airline": "",
+    "icao:aircraft": "B737",
     "icao:airline": "WJA",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285523,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260810-A-AMX-7062",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "CGWSP",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154180449"
+    },
     "wof:country": "US",
     "wof:created": 1786464669,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047914287,
     "wof:involves": [
+      1947304673,
+      1159283539,
+      1159289869,
       102527513,
       102554947,
-      1159285523,
-      1947304673,
-      1159283539
+      1159285523
     ],
-    "wof:lastmodified": 1786464669,
+    "wof:lastmodified": 1786465284,
     "wof:name": "WS1504 (YYC-SFO)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047917903,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T17:35:30Z",
+    "edtf:inception": "2026-08-10T16:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154214359"
+    },
     "wof:country": "US",
     "wof:created": 1786465095,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -94,7 +102,7 @@
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1786465095,
+    "wof:lastmodified": 1786465316,
     "wof:name": "UA2382 (SFO-LAS)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

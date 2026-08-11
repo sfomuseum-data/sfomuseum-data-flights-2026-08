@@ -2,10 +2,12 @@
   "id": 2047909695,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T09:23:03Z",
+    "edtf:inception": "2026-08-10T05:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154180944"
+    },
     "wof:country": "US",
     "wof:created": 1786464093,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -94,7 +99,7 @@
       1947304301,
       1159284389
     ],
-    "wof:lastmodified": 1786464093,
+    "wof:lastmodified": 1786465229,
     "wof:name": "AA1649 (ORD-SFO)",
     "wof:parent_id": 1947304301,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047918103,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-10",
-    "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
+    "date:inception_lower": "2026-08-11",
+    "date:inception_upper": "2026-08-11",
+    "edtf:cessation": "2026-08-11T06:12:36Z",
+    "edtf:inception": "2026-08-11T05:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.97934599999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533575,
     "sfomuseum:base_flight_id": "20260810-D-ACA-4122",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154188011"
+    },
     "wof:country": "US",
     "wof:created": 1786465119,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2047918103,
     "wof:involves": [
+      1528104577,
       102533575,
       102527513,
       1159285413,
       1947304513,
       1159283597
     ],
-    "wof:lastmodified": 1786465119,
+    "wof:lastmodified": 1786465318,
     "wof:name": "UA552 (SFO-ONT)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047915625,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T16:44:04Z",
+    "edtf:inception": "2026-08-10T15:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "CFG",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20260810-D-CFG-5033",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N593AS",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154212943"
+    },
     "wof:country": "US",
     "wof:created": 1786464826,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047915625,
     "wof:involves": [
+      1159284193,
+      1159289871,
       102533795,
       102527513,
       1159283813,
-      1947304275,
-      1159284193
+      1947304275
     ],
-    "wof:lastmodified": 1786464826,
+    "wof:lastmodified": 1786465295,
     "wof:name": "AS1329 (SFO-LAX)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047918009,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T17:03:23Z",
+    "edtf:inception": "2026-08-10T13:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-10",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154201192"
+    },
     "wof:country": "US",
     "wof:created": 1786465108,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -88,7 +96,7 @@
       1159285413,
       1947304455
     ],
-    "wof:lastmodified": 1786465108,
+    "wof:lastmodified": 1786465317,
     "wof:name": "UA3774 (SFO-BNA)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

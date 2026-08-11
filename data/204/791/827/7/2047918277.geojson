@@ -2,10 +2,12 @@
   "id": 2047918277,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-10",
-    "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
+    "date:inception_lower": "2026-08-11",
+    "date:inception_upper": "2026-08-11",
+    "edtf:cessation": "2026-08-11T04:46:13Z",
+    "edtf:inception": "2026-08-11T03:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.40566,
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N35204",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154224286"
+    },
     "wof:country": "US",
     "wof:created": 1786465139,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2047918277,
     "wof:involves": [
+      1159289871,
       102555307,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1786465139,
+    "wof:lastmodified": 1786465319,
     "wof:name": "UA8111 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

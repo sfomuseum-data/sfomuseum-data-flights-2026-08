@@ -2,10 +2,12 @@
   "id": 2047916211,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T10:53:34Z",
+    "edtf:inception": "2026-08-10T07:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "DAL",
     "icao:base_airline": "WJA",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:base_flight_id": "20260810-D-WJA-8808",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N122DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154188723"
+    },
     "wof:country": "US",
     "wof:created": 1786464895,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047916211,
     "wof:involves": [
+      1159285523,
+      1159289411,
       102531131,
       102527513,
       1159284261,
-      1947304679,
-      1159285523
+      1947304679
     ],
-    "wof:lastmodified": 1786464895,
+    "wof:lastmodified": 1786465301,
     "wof:name": "DL2789 (SFO-MSP)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

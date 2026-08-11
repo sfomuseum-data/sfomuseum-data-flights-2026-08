@@ -2,10 +2,12 @@
   "id": 2047912819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T18:41:32Z",
+    "edtf:inception": "2026-08-10T17:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-10",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154217696"
+    },
     "wof:country": "US",
     "wof:created": 1786464493,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -88,7 +96,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1786464493,
+    "wof:lastmodified": 1786465258,
     "wof:name": "WN2288 (SAN-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

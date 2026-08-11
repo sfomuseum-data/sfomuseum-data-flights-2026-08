@@ -2,10 +2,12 @@
   "id": 2047917797,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-11T01:21:15Z",
+    "edtf:inception": "2026-08-10T23:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20260810-D-ACA-4065",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N81110",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154221054"
+    },
     "wof:country": "US",
     "wof:created": 1786465082,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047917797,
     "wof:involves": [
+      1159283597,
+      1159293215,
       102533631,
       102527513,
       1159285413,
-      1947304459,
-      1159283597
+      1947304459
     ],
-    "wof:lastmodified": 1786465082,
+    "wof:lastmodified": 1786465314,
     "wof:name": "UA1954 (SFO-ORD)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

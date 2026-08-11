@@ -2,10 +2,12 @@
   "id": 2047911641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T23:47:28Z",
+    "edtf:inception": "2026-08-10T20:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154240295"
+    },
     "wof:country": "US",
     "wof:created": 1786464348,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -94,7 +102,7 @@
       1947304679,
       1159283539
     ],
-    "wof:lastmodified": 1786464348,
+    "wof:lastmodified": 1786465247,
     "wof:name": "DL1077 (AUS-SFO)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

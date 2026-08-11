@@ -2,10 +2,12 @@
   "id": 2047918309,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-11T04:08:41Z",
+    "edtf:inception": "2026-08-10T18:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154226486"
+    },
     "wof:country": "US",
     "wof:created": 1786465143,
     "wof:geomhash": "64252c90f74b3e5d6a354a131140ee76",
@@ -94,7 +102,7 @@
       1947304131,
       1159283875
     ],
-    "wof:lastmodified": 1786465143,
+    "wof:lastmodified": 1786465319,
     "wof:name": "UA875 (SFO-HND)",
     "wof:parent_id": 1947304131,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047918279,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-11T02:15:21Z",
+    "edtf:inception": "2026-08-10T22:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.7258735,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102536579,
     "sfomuseum:base_flight_id": "20260810-D-ACA-5402",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N452UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154248639"
+    },
     "wof:country": "US",
     "wof:created": 1786465140,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047918279,
     "wof:involves": [
+      1159292085,
       102536579,
       102527513,
       1159285413,
       1947304623,
       1159283597
     ],
-    "wof:lastmodified": 1786465140,
+    "wof:lastmodified": 1786465319,
     "wof:name": "UA817 (SFO-MEX)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

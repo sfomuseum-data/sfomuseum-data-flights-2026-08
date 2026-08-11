@@ -2,10 +2,12 @@
   "id": 2047914383,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T11:53:10Z",
+    "edtf:inception": "2026-08-10T07:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "CSN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528659,
     "sfomuseum:base_flight_id": "20260810-D-CSN-1638",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N427AN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154186883"
+    },
     "wof:country": "US",
     "wof:created": 1786464680,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047914383,
     "wof:involves": [
-      102528659,
       102527513,
       1159283849,
       1947304281,
-      1159284165
+      1159284165,
+      1377564297,
+      102528659
     ],
-    "wof:lastmodified": 1786464680,
+    "wof:lastmodified": 1786465286,
     "wof:name": "AA2410 (SFO-CLT)",
     "wof:parent_id": 1947304281,
     "wof:placetype": "custom",

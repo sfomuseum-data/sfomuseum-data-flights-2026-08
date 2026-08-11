@@ -2,10 +2,12 @@
   "id": 2047914347,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-11T03:28:19Z",
+    "edtf:inception": "2026-08-10T22:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154248779"
+    },
     "wof:country": "US",
     "wof:created": 1786464676,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -94,7 +102,7 @@
       1947304309,
       1159285043
     ],
-    "wof:lastmodified": 1786464676,
+    "wof:lastmodified": 1786465285,
     "wof:name": "AA148 (SFO-JFK)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

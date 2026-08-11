@@ -2,10 +2,12 @@
   "id": 2047912829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-10",
+    "date:cessation_upper": "2026-08-10",
     "date:inception_lower": "2026-08-10",
     "date:inception_upper": "2026-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-10",
+    "edtf:cessation": "2026-08-10T10:42:02-07:00",
+    "edtf:inception": "2026-08-10T21:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.9120825,
     "geom:longitude": -110.006986,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102521851,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8518R",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154242341"
+    },
     "wof:country": "US",
     "wof:created": 1786464495,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2047912829,
     "wof:involves": [
-      102527513,
-      102521851,
       1159285591,
-      1947304599
+      1947304599,
+      1159289871,
+      102527513,
+      102521851
     ],
-    "wof:lastmodified": 1786464495,
+    "wof:lastmodified": 1786465258,
     "wof:name": "WN2774 (AUS-SFO)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",
