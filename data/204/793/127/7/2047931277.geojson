@@ -2,10 +2,12 @@
   "id": 2047931277,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "2026-08-11T23:02:23Z",
+    "edtf:inception": "2026-08-11T19:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.9120825,
     "geom:longitude": -110.006986,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102521851,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N9003B",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154319000"
+    },
     "wof:country": "US",
     "wof:created": 1786551321,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2047931277,
     "wof:involves": [
+      1528104575,
       102521851,
       102527513,
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1786551321,
+    "wof:lastmodified": 1786551559,
     "wof:name": "WN2375 (SFO-AUS)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

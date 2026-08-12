@@ -2,10 +2,12 @@
   "id": 2047929807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-11T13:05:40-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20260811-D-BAW-6448",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N535AS",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +97,14 @@
     ],
     "wof:id": 2047929807,
     "wof:involves": [
+      1947304313,
+      1159284021,
+      1159289871,
       102533795,
       102527513,
-      1159283813,
-      1947304313,
-      1159284021
+      1159283813
     ],
-    "wof:lastmodified": 1786551153,
+    "wof:lastmodified": 1786551539,
     "wof:name": "AS751 (SFO-LAX)",
     "wof:parent_id": 1947304313,
     "wof:placetype": "custom",

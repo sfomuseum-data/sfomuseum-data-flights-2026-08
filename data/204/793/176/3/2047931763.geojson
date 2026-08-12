@@ -2,10 +2,12 @@
   "id": 2047931763,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "2026-08-11T18:14:08Z",
+    "edtf:inception": "2026-08-11T17:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154306885"
+    },
     "wof:country": "US",
     "wof:created": 1786551376,
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
@@ -94,7 +102,7 @@
       1947304523,
       1159283697
     ],
-    "wof:lastmodified": 1786551376,
+    "wof:lastmodified": 1786551564,
     "wof:name": "UA246 (SFO-EUG)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047930521,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "2026-08-11T21:55:57Z",
+    "edtf:inception": "2026-08-11T19:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154321166"
+    },
     "wof:country": "US",
     "wof:created": 1786551234,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -94,7 +102,7 @@
       1947304285,
       1360700749
     ],
-    "wof:lastmodified": 1786551234,
+    "wof:lastmodified": 1786551552,
     "wof:name": "F91094 (SFO-DEN)",
     "wof:parent_id": 1947304285,
     "wof:placetype": "custom",

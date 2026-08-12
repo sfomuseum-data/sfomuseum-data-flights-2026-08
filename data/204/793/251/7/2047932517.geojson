@@ -2,10 +2,12 @@
   "id": 2047932517,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "2026-08-11T15:19:40Z",
+    "edtf:inception": "2026-08-11T13:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "WS",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "WJA",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285523,
     "sfomuseum:arrival_id": 102554947,
     "sfomuseum:base_flight_id": "20260811-D-AMX-7145",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154284559"
+    },
     "wof:country": "US",
     "wof:created": 1786551461,
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2047932517,
     "wof:involves": [
+      1528104575,
       102554947,
       102527513,
       1159285523,
       1947304673,
       1159283539
     ],
-    "wof:lastmodified": 1786551461,
+    "wof:lastmodified": 1786551570,
     "wof:name": "WS1501 (SFO-YYC)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",

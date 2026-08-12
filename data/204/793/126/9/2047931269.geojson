@@ -2,10 +2,12 @@
   "id": 2047931269,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "2026-08-12T00:33:19Z",
+    "edtf:inception": "2026-08-11T21:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.231919500000004,
     "geom:longitude": -109.610733,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102525799,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8757L",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154327904"
+    },
     "wof:country": "US",
     "wof:created": 1786551320,
     "wof:geomhash": "a08c5b1a6c329f228ec453404f254a51",
@@ -86,9 +98,10 @@
       102525799,
       102527513,
       1159285591,
-      1947304625
+      1947304625,
+      1528104575
     ],
-    "wof:lastmodified": 1786551320,
+    "wof:lastmodified": 1786551559,
     "wof:name": "WN1184 (SFO-DAL)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

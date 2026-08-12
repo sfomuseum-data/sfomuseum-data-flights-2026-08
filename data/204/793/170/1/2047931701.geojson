@@ -2,10 +2,12 @@
   "id": 2047931701,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "2026-08-11T21:19:18Z",
+    "edtf:inception": "2026-08-11T19:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-11",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154317166"
+    },
     "wof:country": "US",
     "wof:created": 1786551369,
     "wof:geomhash": "a5add9b66add88268a967cc7812997cb",
@@ -88,7 +96,7 @@
       1159285413,
       1947304623
     ],
-    "wof:lastmodified": 1786551369,
+    "wof:lastmodified": 1786551563,
     "wof:name": "UA2100 (SFO-FCA)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

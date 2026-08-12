@@ -2,10 +2,12 @@
   "id": 2047927659,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "2026-08-11T08:22:17-07:00",
+    "edtf:inception": "2026-08-11T20:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "STMN",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.616838,
@@ -39,6 +42,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N54561",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154320336"
+    },
     "wof:country": "US",
     "wof:created": 1786550906,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -94,7 +105,7 @@
       1947304621,
       1159283597
     ],
-    "wof:lastmodified": 1786550906,
+    "wof:lastmodified": 1786551521,
     "wof:name": "UA1812 (DEN-SFO)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

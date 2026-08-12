@@ -2,10 +2,12 @@
   "id": 2047926279,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "2026-08-11T05:27:38-07:00",
+    "edtf:inception": "2026-08-11T17:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-08-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.529906499999996,
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533269,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N655DL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154305365"
+    },
     "wof:country": "US",
     "wof:created": 1786550745,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -86,9 +98,10 @@
       102527513,
       102533269,
       1159284261,
-      1947304671
+      1947304671,
+      1159289939
     ],
-    "wof:lastmodified": 1786550745,
+    "wof:lastmodified": 1786551510,
     "wof:name": "DL8959 (SEA-SFO)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

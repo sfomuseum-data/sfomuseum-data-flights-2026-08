@@ -2,10 +2,12 @@
   "id": 2047928005,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "2026-08-11T04:19:00-07:00",
+    "edtf:inception": "2026-08-11T14:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -104.5237975,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260811-A-ANZ-9388",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154285824"
+    },
     "wof:country": "US",
     "wof:created": 1786550947,
     "wof:geomhash": "462e561a68f133085fb895c49eddc748",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2047928005,
     "wof:involves": [
+      1528104577,
       102527513,
       102525035,
       1159285413,
       1947304529,
       1159283697
     ],
-    "wof:lastmodified": 1786550947,
+    "wof:lastmodified": 1786551524,
     "wof:name": "UA626 (BNA-SFO)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",

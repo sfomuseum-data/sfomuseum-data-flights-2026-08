@@ -2,10 +2,12 @@
   "id": 2047927719,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-11",
+    "date:cessation_upper": "2026-08-11",
     "date:inception_lower": "2026-08-11",
     "date:inception_upper": "2026-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-11",
+    "edtf:cessation": "2026-08-11T01:54:43-07:00",
+    "edtf:inception": "2026-08-11T13:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -114.4957645,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260811-A-ACA-4033",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N897UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154288050"
+    },
     "wof:country": "US",
     "wof:created": 1786550913,
     "wof:geomhash": "8fe6791c85dc44fbddffd72416ea0024",
@@ -92,9 +104,10 @@
       102529173,
       1159285413,
       1947304601,
-      1159283597
+      1159283597,
+      1159289407
     ],
-    "wof:lastmodified": 1786550913,
+    "wof:lastmodified": 1786551521,
     "wof:name": "UA214 (ABQ-SFO)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",
