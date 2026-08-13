@@ -1,0 +1,109 @@
+{
+  "id": 2047940939,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-12",
+    "date:inception_upper": "2026-08-12",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-12",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "SY",
+    "flysfo:date": "2026-08-12",
+    "flysfo:estimated_timestamp": 1786561140,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "SY393",
+    "flysfo:gate": "B20",
+    "flysfo:journey": "MSP-SFO",
+    "flysfo:scheduled_timestamp": 1786561560,
+    "flysfo:timestamp": 1786561560,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
+    "iata:airline": "SY",
+    "icao:airline": "SCX",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285227,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531131,
+    "sfomuseum:flight_id": "20260812-A-SCX-393",
+    "sfomuseum:flight_number": [
+      "SCX393",
+      "SY393"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304261,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304281,
+      1947304259,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786637256,
+    "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047940939,
+        "flight_id": 2047940939,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304281,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047940939,
+        "flight_id": 2047940939,
+        "region_id": 85688637,
+        "venue_id": 1947304281,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 2047940939,
+    "wof:involves": [
+      102527513,
+      102531131,
+      1159285227,
+      1947304281
+    ],
+    "wof:lastmodified": 1786637256,
+    "wof:name": "SY393 (MSP-SFO)",
+    "wof:parent_id": 1947304281,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -93.200317,
+    44.883321
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]]}
+}
