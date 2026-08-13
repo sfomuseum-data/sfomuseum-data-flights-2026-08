@@ -2,10 +2,12 @@
   "id": 2047942355,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T19:55:24Z",
+    "edtf:inception": "2026-08-12T15:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-08-12",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154381468"
+    },
     "wof:country": "US",
     "wof:created": 1786637424,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
@@ -88,7 +96,7 @@
       1159283849,
       1947304309
     ],
-    "wof:lastmodified": 1786637424,
+    "wof:lastmodified": 1786637972,
     "wof:name": "AA1960 (SFO-CLT)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047941031,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T23:14:54Z",
+    "edtf:inception": "2026-08-12T22:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-12",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154418612"
+    },
     "wof:country": "US",
     "wof:created": 1786637268,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -88,7 +96,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1786637268,
+    "wof:lastmodified": 1786637964,
     "wof:name": "WN4512 (LAS-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

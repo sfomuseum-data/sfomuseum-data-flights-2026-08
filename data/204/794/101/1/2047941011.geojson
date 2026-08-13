@@ -2,10 +2,12 @@
   "id": 2047941011,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T10:24:08-07:00",
+    "edtf:inception": "2026-08-12T23:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N7827A",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154337394"
+    },
     "wof:country": "US",
     "wof:created": 1786637266,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2047941011,
     "wof:involves": [
+      1159289869,
       102527513,
       102533795,
-      1159285591,
-      -1
+      1159285591
     ],
-    "wof:lastmodified": 1786637266,
+    "wof:lastmodified": 1786637964,
     "wof:name": "WN3178 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

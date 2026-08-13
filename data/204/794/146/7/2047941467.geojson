@@ -2,10 +2,12 @@
   "id": 2047941467,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T23:23:53Z",
+    "edtf:inception": "2026-08-12T22:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154421184"
+    },
     "wof:country": "US",
     "wof:created": 1786637319,
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
@@ -94,7 +102,7 @@
       1947304531,
       1159283597
     ],
-    "wof:lastmodified": 1786637319,
+    "wof:lastmodified": 1786637967,
     "wof:name": "UA2304 (SNA-SFO)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

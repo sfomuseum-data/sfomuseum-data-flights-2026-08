@@ -2,10 +2,12 @@
   "id": 2047940723,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T03:59:00-07:00",
+    "edtf:inception": "2026-08-12T12:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2026-08-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.5640565,
     "geom:longitude": -99.852697,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532729,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N206BZ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154368778"
+    },
     "wof:country": "US",
     "wof:created": 1786637231,
     "wof:geomhash": "d5be5400cafac7bead55e86e8433ced9",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2047940723,
     "wof:involves": [
+      1813375783,
       102527513,
       102532729,
       1763552131,
       1947304603
     ],
-    "wof:lastmodified": 1786637231,
+    "wof:lastmodified": 1786637962,
     "wof:name": "MX236 (RIC-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

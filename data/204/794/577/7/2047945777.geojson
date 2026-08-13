@@ -2,10 +2,12 @@
   "id": 2047945777,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-13T02:32:46Z",
+    "edtf:inception": "2026-08-12T22:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154418634"
+    },
     "wof:country": "US",
     "wof:created": 1786637822,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -94,7 +102,7 @@
       1947304609,
       1159283697
     ],
-    "wof:lastmodified": 1786637822,
+    "wof:lastmodified": 1786637993,
     "wof:name": "UA433 (SFO-BNA)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

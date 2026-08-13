@@ -2,10 +2,12 @@
   "id": 2047943953,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-13T08:12:40Z",
+    "edtf:inception": "2026-08-12T20:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CA",
     "flysfo:date": "2026-08-12",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154410733"
+    },
     "wof:country": "US",
     "wof:created": 1786637610,
     "wof:geomhash": "8a4a8d08e2e66037bce440d01d4bc21e",
@@ -88,7 +96,7 @@
       1159283605,
       1947304153
     ],
-    "wof:lastmodified": 1786637610,
+    "wof:lastmodified": 1786637981,
     "wof:name": "CA986 (SFO-PEK)",
     "wof:parent_id": 1947304153,
     "wof:placetype": "custom",

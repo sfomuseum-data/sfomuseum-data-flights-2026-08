@@ -2,10 +2,12 @@
   "id": 2047941815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T13:41:35-07:00",
+    "edtf:inception": "2026-08-12T23:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533631,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N36444",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154413332"
+    },
     "wof:country": "US",
     "wof:created": 1786637361,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2047941815,
     "wof:involves": [
+      1377564285,
       102527513,
       102533631,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1786637361,
+    "wof:lastmodified": 1786637969,
     "wof:name": "UA8134 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

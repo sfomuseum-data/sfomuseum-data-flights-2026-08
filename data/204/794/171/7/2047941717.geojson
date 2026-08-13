@@ -2,10 +2,12 @@
   "id": 2047941717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T02:02:24-07:00",
+    "edtf:inception": "2026-08-12T11:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260812-A-ACA-4105",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N14230",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154359695"
+    },
     "wof:country": "US",
     "wof:created": 1786637349,
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047941717,
     "wof:involves": [
-      102527513,
-      102555091,
       1159285413,
       1947304613,
-      1159283597
+      1159283597,
+      1159289871,
+      102527513,
+      102555091
     ],
-    "wof:lastmodified": 1786637349,
+    "wof:lastmodified": 1786637969,
     "wof:name": "UA565 (YYZ-SFO)",
     "wof:parent_id": 1947304613,
     "wof:placetype": "custom",

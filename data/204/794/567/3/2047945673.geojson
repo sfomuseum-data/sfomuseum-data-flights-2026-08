@@ -2,10 +2,12 @@
   "id": 2047945673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-13T01:55:14Z",
+    "edtf:inception": "2026-08-12T21:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154416263"
+    },
     "wof:country": "US",
     "wof:created": 1786637810,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -94,7 +102,7 @@
       1947304495,
       1159283597
     ],
-    "wof:lastmodified": 1786637810,
+    "wof:lastmodified": 1786637992,
     "wof:name": "UA2623 (SFO-OGG)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",

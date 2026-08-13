@@ -2,10 +2,12 @@
   "id": 2047941829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T13:44:22-07:00",
+    "edtf:inception": "2026-08-12T22:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.0247425,
     "geom:longitude": -101.83923999999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533657,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154496159"
+    },
     "wof:country": "US",
     "wof:created": 1786637362,
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
@@ -46,12 +57,12 @@
     ],
     "wof:id": 2047941829,
     "wof:involves": [
+      1528104577,
       102527513,
       102533657,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1786637362,
+    "wof:lastmodified": 1786637970,
     "wof:name": "UA8220 (MCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

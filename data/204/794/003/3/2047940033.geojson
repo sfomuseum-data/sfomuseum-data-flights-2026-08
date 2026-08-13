@@ -2,10 +2,12 @@
   "id": 2047940033,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T01:41:56-07:00",
+    "edtf:inception": "2026-08-12T14:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS1",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104583,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260812-A-KAL-6746",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N107DU",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154374851"
+    },
     "wof:country": "US",
     "wof:created": 1786637149,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047940033,
     "wof:involves": [
+      1528104583,
       102527513,
       102527363,
       1159284261,
       1947304669,
       1159284625
     ],
-    "wof:lastmodified": 1786637149,
+    "wof:lastmodified": 1786637957,
     "wof:name": "DL920 (SLC-SFO)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",

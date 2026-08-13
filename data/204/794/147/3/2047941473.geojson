@@ -2,10 +2,12 @@
   "id": 2047941473,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T11:43:03-07:00",
+    "edtf:inception": "2026-08-12T20:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260812-A-ANZ-9132",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N226UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154403326"
+    },
     "wof:country": "US",
     "wof:created": 1786637320,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047941473,
     "wof:involves": [
+      1947304475,
+      1159283697,
+      1159289985,
       102527513,
       102530049,
-      1159285413,
-      1947304475,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1786637320,
+    "wof:lastmodified": 1786637967,
     "wof:name": "UA2328 (EWR-SFO)",
     "wof:parent_id": 1947304475,
     "wof:placetype": "custom",

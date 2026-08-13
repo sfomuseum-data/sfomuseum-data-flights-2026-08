@@ -2,10 +2,12 @@
   "id": 2047945135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-13T02:34:59Z",
+    "edtf:inception": "2026-08-12T23:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-12",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154415504"
+    },
     "wof:country": "US",
     "wof:created": 1786637747,
     "wof:geomhash": "a08c5b1a6c329f228ec453404f254a51",
@@ -88,7 +96,7 @@
       1159285591,
       1947304607
     ],
-    "wof:lastmodified": 1786637747,
+    "wof:lastmodified": 1786637988,
     "wof:name": "WN1184 (SFO-DAL)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047945171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-12",
+    "date:cessation_upper": "2026-08-12",
     "date:inception_lower": "2026-08-12",
     "date:inception_upper": "2026-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-12",
+    "edtf:cessation": "2026-08-12T23:36:28Z",
+    "edtf:inception": "2026-08-12T20:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-12",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154401896"
+    },
     "wof:country": "US",
     "wof:created": 1786637752,
     "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
@@ -88,7 +96,7 @@
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1786637752,
+    "wof:lastmodified": 1786637988,
     "wof:name": "WN3564 (SFO-STL)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",
