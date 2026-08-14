@@ -2,10 +2,12 @@
   "id": 2047959195,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T17:58:31Z",
+    "edtf:inception": "2026-08-13T13:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "RAM",
     "lbl:latitude": 37.613288,
     "lbl:longitude": -122.389396,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20260813-D-RAM-9557",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N983JT",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154460512"
+    },
     "wof:country": "US",
     "wof:created": 1786724180,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047959195,
     "wof:involves": [
+      1947304087,
+      1159285081,
+      1159289411,
       102534365,
       102527513,
-      1159284583,
-      1947304087,
-      1159285081
+      1159284583
     ],
-    "wof:lastmodified": 1786724180,
+    "wof:lastmodified": 1786724506,
     "wof:name": "B6116 (SFO-JFK)",
     "wof:parent_id": 1947304087,
     "wof:placetype": "custom",

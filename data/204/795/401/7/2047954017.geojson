@@ -2,10 +2,12 @@
   "id": 2047954017,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-13",
-    "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-13T15:48:17-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -4.221753499999998,
     "iata:airline": "CX",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "CPA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.612893,
     "lbl:longitude": -122.389652,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159284127,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260813-A-AAL-8930",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "BKQQ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +100,10 @@
       102541737,
       1159284127,
       1947304077,
-      1159283849
+      1159283849,
+      1159289993
     ],
-    "wof:lastmodified": 1786723566,
+    "wof:lastmodified": 1786724476,
     "wof:name": "CX872 (HKG-SFO)",
     "wof:parent_id": 1947304077,
     "wof:placetype": "custom",

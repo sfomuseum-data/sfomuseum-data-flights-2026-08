@@ -2,10 +2,12 @@
   "id": 2047960597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T20:15:18Z",
+    "edtf:inception": "2026-08-13T17:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-13",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154476936"
+    },
     "wof:country": "US",
     "wof:created": 1786724365,
     "wof:geomhash": "b2b4de685cac2a2e83e7d43e9bbb14d9",
@@ -88,7 +96,7 @@
       1159285413,
       1947304459
     ],
-    "wof:lastmodified": 1786724365,
+    "wof:lastmodified": 1786724516,
     "wof:name": "UA739 (SFO-OMA)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

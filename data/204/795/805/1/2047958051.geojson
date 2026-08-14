@@ -2,10 +2,12 @@
   "id": 2047958051,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T19:04:46Z",
+    "edtf:inception": "2026-08-13T14:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2026-08-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 28.675217,
     "geom:longitude": -139.2030015,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102532939,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N564AS",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154465653"
+    },
     "wof:country": "US",
     "wof:created": 1786724036,
     "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2047958051,
     "wof:involves": [
+      1159289871,
       102532939,
       102527513,
-      1159283813,
-      -1
+      1159283813
     ],
-    "wof:lastmodified": 1786724036,
+    "wof:lastmodified": 1786724500,
     "wof:name": "AS693 (SFO-KOA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

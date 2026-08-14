@@ -2,10 +2,12 @@
   "id": 2047953425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T07:23:46-07:00",
+    "edtf:inception": "2026-08-13T15:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "CFG",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260813-A-CFG-5018",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N961AK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154474235"
+    },
     "wof:country": "US",
     "wof:created": 1786723496,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047953425,
     "wof:involves": [
+      1159284193,
+      1528104577,
       102527513,
       102534365,
       1159283813,
-      1947304289,
-      1159284193
+      1947304289
     ],
-    "wof:lastmodified": 1786723496,
+    "wof:lastmodified": 1786724472,
     "wof:name": "AS41 (JFK-SFO)",
     "wof:parent_id": 1947304289,
     "wof:placetype": "custom",

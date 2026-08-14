@@ -2,10 +2,12 @@
   "id": 2047960141,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T18:05:48Z",
+    "edtf:inception": "2026-08-13T15:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102554947,
     "sfomuseum:base_flight_id": "20260813-D-ACA-3468",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N57439",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154474994"
+    },
     "wof:country": "US",
     "wof:created": 1786724304,
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047960141,
     "wof:involves": [
+      1159283597,
+      1377564285,
       102554947,
       102527513,
       1159285413,
-      1947304491,
-      1159283597
+      1947304491
     ],
-    "wof:lastmodified": 1786724304,
+    "wof:lastmodified": 1786724512,
     "wof:name": "UA1986 (SFO-YYC)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

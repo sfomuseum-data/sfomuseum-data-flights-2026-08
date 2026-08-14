@@ -2,10 +2,12 @@
   "id": 2047956063,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T05:47:03-07:00",
+    "edtf:inception": "2026-08-13T13:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260813-A-ANZ-9019",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154462469"
+    },
     "wof:country": "US",
     "wof:created": 1786723807,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -92,9 +103,10 @@
       102530741,
       1159285413,
       1947304623,
-      1159283697
+      1159283697,
+      1528104577
     ],
-    "wof:lastmodified": 1786723807,
+    "wof:lastmodified": 1786724490,
     "wof:name": "UA726 (BOS-SFO)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047960027,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-14",
+    "date:cessation_upper": "2026-08-14",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-14T00:25:23Z",
+    "edtf:inception": "2026-08-13T21:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154507070"
+    },
     "wof:country": "US",
     "wof:created": 1786724290,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -94,7 +102,7 @@
       1947304489,
       1159283597
     ],
-    "wof:lastmodified": 1786724290,
+    "wof:lastmodified": 1786724511,
     "wof:name": "UA1389 (SFO-SAN)",
     "wof:parent_id": 1947304489,
     "wof:placetype": "custom",

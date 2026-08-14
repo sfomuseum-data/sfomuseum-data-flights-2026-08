@@ -2,10 +2,12 @@
   "id": 2047956677,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T22:18:10Z",
+    "edtf:inception": "2026-08-13T19:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154489884"
+    },
     "wof:country": "US",
     "wof:created": 1786723878,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -94,7 +102,7 @@
       1947304309,
       1159284021
     ],
-    "wof:lastmodified": 1786723878,
+    "wof:lastmodified": 1786724493,
     "wof:name": "AA1849 (SFO-DFW)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

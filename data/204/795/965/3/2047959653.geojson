@@ -2,10 +2,12 @@
   "id": 2047959653,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T04:40:42Z",
+    "edtf:inception": "2026-08-13T03:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N902WN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +56,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154530596"
+    },
     "wof:country": "US",
     "wof:created": 1786724241,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -83,12 +94,13 @@
     ],
     "wof:id": 2047959653,
     "wof:involves": [
-      102533795,
-      102527513,
       1159285591,
-      1947304597
+      1947304597,
+      1159289869,
+      102533795,
+      102527513
     ],
-    "wof:lastmodified": 1786724241,
+    "wof:lastmodified": 1786724509,
     "wof:name": "WN2367 (SFO-LAX)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

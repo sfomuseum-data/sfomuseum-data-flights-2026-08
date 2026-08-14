@@ -2,10 +2,12 @@
   "id": 2047960309,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T22:50:57Z",
+    "edtf:inception": "2026-08-13T19:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154495692"
+    },
     "wof:country": "US",
     "wof:created": 1786724327,
     "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
@@ -94,7 +102,7 @@
       1947304607,
       1159283697
     ],
-    "wof:lastmodified": 1786724327,
+    "wof:lastmodified": 1786724514,
     "wof:name": "UA2818 (SFO-STL)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047960135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T20:42:07Z",
+    "edtf:inception": "2026-08-13T16:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.103286,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534019,
     "sfomuseum:base_flight_id": "20260813-D-ANZ-9040",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N11206",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154473725"
+    },
     "wof:country": "US",
     "wof:created": 1786724304,
     "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047960135,
     "wof:involves": [
+      1159289871,
       102534019,
       102527513,
       1159285413,
       1947304531,
       1159283697
     ],
-    "wof:lastmodified": 1786724304,
+    "wof:lastmodified": 1786724512,
     "wof:name": "UA1982 (SFO-CLE)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

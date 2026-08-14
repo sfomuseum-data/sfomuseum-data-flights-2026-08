@@ -2,10 +2,12 @@
   "id": 2047955573,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T08:42:09-07:00",
+    "edtf:inception": "2026-08-13T21:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.6226995,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260813-A-CMP-2422",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17565",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154508324"
+    },
     "wof:country": "US",
     "wof:created": 1786723750,
     "wof:geomhash": "10bf27aabb5200ef4863b11f6c2a5d60",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047955573,
     "wof:involves": [
+      1947304487,
+      1159284211,
+      1528104577,
       102527513,
       102527187,
-      1159285413,
-      1947304487,
-      1159284211
+      1159285413
     ],
-    "wof:lastmodified": 1786723750,
+    "wof:lastmodified": 1786724487,
     "wof:name": "UA1754 (MFR-SFO)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

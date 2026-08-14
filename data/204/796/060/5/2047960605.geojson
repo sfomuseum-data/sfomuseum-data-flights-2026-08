@@ -2,10 +2,12 @@
   "id": 2047960605,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T18:20:58Z",
+    "edtf:inception": "2026-08-13T17:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.79198650000001,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533927,
     "sfomuseum:base_flight_id": "20260813-D-ANZ-9189",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17244",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154483851"
+    },
     "wof:country": "US",
     "wof:created": 1786724366,
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1947304515,
-      1159283697
+      1159283697,
+      1159289871
     ],
-    "wof:lastmodified": 1786724366,
+    "wof:lastmodified": 1786724516,
     "wof:name": "UA790 (SFO-EUG)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047960079,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-14",
+    "date:cessation_upper": "2026-08-14",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-14T02:14:15Z",
+    "edtf:inception": "2026-08-13T23:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154473504"
+    },
     "wof:country": "US",
     "wof:created": 1786724296,
     "wof:geomhash": "df4d5906f2523703f9da91c779be1785",
@@ -94,7 +102,7 @@
       1947304473,
       1159283697
     ],
-    "wof:lastmodified": 1786724296,
+    "wof:lastmodified": 1786724512,
     "wof:name": "UA1678 (SFO-DCA)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

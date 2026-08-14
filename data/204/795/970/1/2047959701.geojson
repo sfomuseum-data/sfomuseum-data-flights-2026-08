@@ -2,10 +2,12 @@
   "id": 2047959701,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T21:31:19Z",
+    "edtf:inception": "2026-08-13T20:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8690A",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154490437"
+    },
     "wof:country": "US",
     "wof:created": 1786724247,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2047959701,
     "wof:involves": [
+      1159289871,
       102527209,
       102527513,
-      1159285591,
-      -1
+      1159285591
     ],
-    "wof:lastmodified": 1786724247,
+    "wof:lastmodified": 1786724509,
     "wof:name": "WN4108 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

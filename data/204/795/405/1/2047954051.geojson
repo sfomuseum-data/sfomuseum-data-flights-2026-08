@@ -2,10 +2,12 @@
   "id": 2047954051,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T04:24:36-07:00",
+    "edtf:inception": "2026-08-13T17:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "CAL",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260813-A-CAL-9169",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N833DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154480432"
+    },
     "wof:country": "US",
     "wof:created": 1786723571,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047954051,
     "wof:involves": [
-      102527513,
       102533795,
       1159284261,
       1947304679,
-      1159284153
+      1159284153,
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1786723571,
+    "wof:lastmodified": 1786724477,
     "wof:name": "DL1715 (LAX-SFO)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

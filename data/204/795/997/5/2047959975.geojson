@@ -2,10 +2,12 @@
   "id": 2047959975,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T05:29:10Z",
+    "edtf:inception": "2026-08-13T03:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20260813-D-ACA-3652",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17347",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154441962"
+    },
     "wof:country": "US",
     "wof:created": 1786724283,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2047959975,
     "wof:involves": [
-      102531189,
-      102527513,
       1159285413,
       1947304609,
-      1159283597
+      1159283597,
+      1528104575,
+      102531189,
+      102527513
     ],
-    "wof:lastmodified": 1786724283,
+    "wof:lastmodified": 1786724511,
     "wof:name": "UA1145 (SFO-DEN)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

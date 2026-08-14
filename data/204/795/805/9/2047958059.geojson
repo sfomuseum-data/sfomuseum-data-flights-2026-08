@@ -2,10 +2,12 @@
   "id": 2047958059,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T15:49:39Z",
+    "edtf:inception": "2026-08-13T14:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20260813-D-AAL-9434",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N586AS",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154467644"
+    },
     "wof:country": "US",
     "wof:created": 1786724036,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2047958059,
     "wof:involves": [
+      1159283849,
+      1159289871,
       102527209,
       102527513,
       1159283813,
-      1947304267,
-      1159283849
+      1947304267
     ],
-    "wof:lastmodified": 1786724036,
+    "wof:lastmodified": 1786724500,
     "wof:name": "AS718 (SFO-LAS)",
     "wof:parent_id": 1947304267,
     "wof:placetype": "custom",

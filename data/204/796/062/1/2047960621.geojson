@@ -2,10 +2,12 @@
   "id": 2047960621,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T01:59:16Z",
+    "edtf:inception": "2026-08-13T00:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154428184"
+    },
     "wof:country": "US",
     "wof:created": 1786724368,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -94,7 +102,7 @@
       1947304627,
       1159285749
     ],
-    "wof:lastmodified": 1786724368,
+    "wof:lastmodified": 1786724516,
     "wof:name": "UA8100 (SFO-YVR)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",

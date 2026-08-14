@@ -2,10 +2,12 @@
   "id": 2047959677,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-14",
+    "date:cessation_upper": "2026-08-14",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-14T00:40:42Z",
+    "edtf:inception": "2026-08-13T23:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-13",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154507909"
+    },
     "wof:country": "US",
     "wof:created": 1786724244,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -88,7 +96,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1786724244,
+    "wof:lastmodified": 1786724509,
     "wof:name": "WN3546 (SFO-BUR)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

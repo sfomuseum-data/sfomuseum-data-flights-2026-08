@@ -2,10 +2,12 @@
   "id": 2047955803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T00:36:35-07:00",
+    "edtf:inception": "2026-08-13T13:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "PA34",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618249,
@@ -39,6 +42,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37449",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154462436"
+    },
     "wof:country": "US",
     "wof:created": 1786723777,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -94,7 +105,7 @@
       1947304631,
       1159283597
     ],
-    "wof:lastmodified": 1786723777,
+    "wof:lastmodified": 1786724489,
     "wof:name": "UA2830 (SAN-SFO)",
     "wof:parent_id": 1947304631,
     "wof:placetype": "custom",

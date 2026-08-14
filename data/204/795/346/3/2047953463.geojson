@@ -2,10 +2,12 @@
   "id": 2047953463,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T23:05:47Z",
+    "edtf:inception": "2026-08-13T21:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154503711"
+    },
     "wof:country": "US",
     "wof:created": 1786723500,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -94,7 +102,7 @@
       1947304293,
       1159284127
     ],
-    "wof:lastmodified": 1786723500,
+    "wof:lastmodified": 1786724472,
     "wof:name": "AS680 (SEA-SFO)",
     "wof:parent_id": 1947304293,
     "wof:placetype": "custom",

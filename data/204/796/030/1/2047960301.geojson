@@ -2,10 +2,12 @@
   "id": 2047960301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-14",
+    "date:cessation_upper": "2026-08-14",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-14T00:32:17Z",
+    "edtf:inception": "2026-08-13T23:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154519344"
+    },
     "wof:country": "US",
     "wof:created": 1786724326,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -94,7 +102,7 @@
       1947304147,
       1159283597
     ],
-    "wof:lastmodified": 1786724326,
+    "wof:lastmodified": 1786724513,
     "wof:name": "UA2764 (SFO-BUR)",
     "wof:parent_id": 1947304147,
     "wof:placetype": "custom",

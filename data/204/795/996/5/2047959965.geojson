@@ -2,10 +2,12 @@
   "id": 2047959965,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T19:53:50Z",
+    "edtf:inception": "2026-08-13T16:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154473842"
+    },
     "wof:country": "US",
     "wof:created": 1786724282,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -94,7 +102,7 @@
       1947304517,
       1159283597
     ],
-    "wof:lastmodified": 1786724282,
+    "wof:lastmodified": 1786724511,
     "wof:name": "UA1107 (SFO-AUS)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047960695,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T10:00:11Z",
+    "edtf:inception": "2026-08-13T00:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154431036"
+    },
     "wof:country": "US",
     "wof:created": 1786724378,
     "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
@@ -94,7 +99,7 @@
       1947304141,
       1159283597
     ],
-    "wof:lastmodified": 1786724378,
+    "wof:lastmodified": 1786724516,
     "wof:name": "UA948 (SFO-LHR)",
     "wof:parent_id": 1947304141,
     "wof:placetype": "custom",

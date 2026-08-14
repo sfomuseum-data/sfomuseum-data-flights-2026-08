@@ -2,10 +2,12 @@
   "id": 2047955833,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-13",
-    "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-13T03:07:44-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.70629299999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618678,
     "lbl:longitude": -122.385955,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260813-A-ANZ-2776",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17373",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2047955833,
     "wof:involves": [
-      102527513,
       1746879047,
       1159285413,
       1947304481,
-      1159283697
+      1159283697,
+      1528104575,
+      102527513
     ],
-    "wof:lastmodified": 1786723781,
+    "wof:lastmodified": 1786724489,
     "wof:name": "UA369 (DCA-SFO)",
     "wof:parent_id": 1947304481,
     "wof:placetype": "custom",

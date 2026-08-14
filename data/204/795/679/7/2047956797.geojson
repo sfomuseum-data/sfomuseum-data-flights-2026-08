@@ -2,10 +2,12 @@
   "id": 2047956797,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-14",
+    "date:cessation_upper": "2026-08-14",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-14T00:24:10Z",
+    "edtf:inception": "2026-08-13T19:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154494215"
+    },
     "wof:country": "US",
     "wof:created": 1786723892,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -94,7 +102,7 @@
       1947304291,
       1159284021
     ],
-    "wof:lastmodified": 1786723892,
+    "wof:lastmodified": 1786724494,
     "wof:name": "AA773 (SFO-MIA)",
     "wof:parent_id": 1947304291,
     "wof:placetype": "custom",

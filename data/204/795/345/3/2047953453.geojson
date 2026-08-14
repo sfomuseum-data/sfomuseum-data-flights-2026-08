@@ -2,10 +2,12 @@
   "id": 2047953453,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-13",
-    "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-13T15:52:13-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260813-A-AAL-7462",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N734AL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2047953453,
     "wof:involves": [
+      1159283849,
+      1528104577,
       102527513,
       102533269,
       1159283813,
-      1947304289,
-      1159283849
+      1947304289
     ],
-    "wof:lastmodified": 1786723499,
+    "wof:lastmodified": 1786724472,
     "wof:name": "AS628 (SEA-SFO)",
     "wof:parent_id": 1947304289,
     "wof:placetype": "custom",

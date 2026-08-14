@@ -2,10 +2,12 @@
   "id": 2047960131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-13",
+    "date:cessation_upper": "2026-08-13",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-13T06:38:11Z",
+    "edtf:inception": "2026-08-13T04:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20260813-D-ACA-3108",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N35204",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154442979"
+    },
     "wof:country": "US",
     "wof:created": 1786724303,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2047960131,
     "wof:involves": [
+      1159289871,
       102555307,
       102527513,
       1159285413,
       1947304601,
       1159283597
     ],
-    "wof:lastmodified": 1786724303,
+    "wof:lastmodified": 1786724512,
     "wof:name": "UA1973 (SFO-YVR)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

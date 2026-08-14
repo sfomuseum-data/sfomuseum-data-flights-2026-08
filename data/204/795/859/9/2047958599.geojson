@@ -2,10 +2,12 @@
   "id": 2047958599,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-14",
+    "date:cessation_upper": "2026-08-14",
     "date:inception_lower": "2026-08-13",
     "date:inception_upper": "2026-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-13",
+    "edtf:cessation": "2026-08-14T04:18:54Z",
+    "edtf:inception": "2026-08-13T23:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154519023"
+    },
     "wof:country": "US",
     "wof:created": 1786724101,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -94,7 +102,7 @@
       1947304675,
       1159285483
     ],
-    "wof:lastmodified": 1786724101,
+    "wof:lastmodified": 1786724503,
     "wof:name": "DL396 (SFO-JFK)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",
