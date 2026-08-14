@@ -1,0 +1,72 @@
+{
+  "id": 2047958879,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-13",
+    "date:inception_upper": "2026-08-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "BR",
+    "flysfo:date": "2026-08-13",
+    "flysfo:estimated_timestamp": 1786630500,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "BR629",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-TPE",
+    "flysfo:scheduled_timestamp": 1786630500,
+    "flysfo:timestamp": 1786630500,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,25.078566,121.233152,37.617990",
+    "geom:latitude": 31.348278,
+    "geom:longitude": -0.5688954999999964,
+    "iata:airline": "BR",
+    "icao:airline": "EVA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284349,
+    "sfomuseum:arrival_id": 102551487,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260813-D-EVA-629",
+    "sfomuseum:flight_number": [
+      "EVA629",
+      "BR629"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786724139,
+    "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047958879,
+        "flight_id": 2047958879
+      }
+    ],
+    "wof:id": 2047958879,
+    "wof:involves": [
+      102551487,
+      102527513,
+      1159284349,
+      -1
+    ],
+    "wof:lastmodified": 1786724139,
+    "wof:name": "BR629 (SFO-TPE)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    25.078566,
+    121.233152,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[121.233152,25.078566]]}
+}

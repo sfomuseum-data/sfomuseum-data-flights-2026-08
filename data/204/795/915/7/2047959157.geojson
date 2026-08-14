@@ -1,0 +1,109 @@
+{
+  "id": 2047959157,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-13",
+    "date:inception_upper": "2026-08-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AZ",
+    "flysfo:date": "2026-08-13",
+    "flysfo:estimated_timestamp": 1786659300,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AZ641",
+    "flysfo:gate": "A5",
+    "flysfo:journey": "SFO-FCO",
+    "flysfo:scheduled_timestamp": 1786659300,
+    "flysfo:timestamp": 1786659300,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,12.245178,41.796892",
+    "geom:latitude": 39.707441,
+    "geom:longitude": -55.0628825,
+    "iata:airline": "AZ",
+    "icao:airline": "ITY",
+    "lbl:latitude": 37.613288,
+    "lbl:longitude": -122.389396,
+    "sfomuseum:airline_id": 1763699293,
+    "sfomuseum:arrival_id": 102547941,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260813-D-ITY-641",
+    "sfomuseum:flight_number": [
+      "ITY641",
+      "AZ641"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304073,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304087,
+      1947304069,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786724174,
+    "wof:geomhash": "033526ec5f586bb6dd7c4e05cd770e88",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047959157,
+        "flight_id": 2047959157,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304087,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047959157,
+        "flight_id": 2047959157,
+        "region_id": 85688637,
+        "venue_id": 1947304087,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 2047959157,
+    "wof:involves": [
+      102547941,
+      102527513,
+      1763699293,
+      1947304087
+    ],
+    "wof:lastmodified": 1786724174,
+    "wof:name": "AZ641 (SFO-FCO)",
+    "wof:parent_id": 1947304087,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    12.245178,
+    41.796892
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[12.245178,41.796892]]}
+}

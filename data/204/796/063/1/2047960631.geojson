@@ -1,0 +1,72 @@
+{
+  "id": 2047960631,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-13",
+    "date:inception_upper": "2026-08-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-13",
+    "flysfo:estimated_timestamp": 1786687560,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8138",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SAN",
+    "flysfo:scheduled_timestamp": 1786687560,
+    "flysfo:timestamp": 1786687560,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102528997,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260813-D-UAL-8138",
+    "sfomuseum:flight_number": [
+      "UAL8138",
+      "UA8138"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786724369,
+    "wof:geomhash": "25f5345529d944df781e36098260a435",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047960631,
+        "flight_id": 2047960631
+      }
+    ],
+    "wof:id": 2047960631,
+    "wof:involves": [
+      102528997,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1786724369,
+    "wof:name": "UA8138 (SFO-SAN)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.733534,
+    -117.185927,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]]}
+}

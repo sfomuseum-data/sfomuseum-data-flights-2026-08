@@ -1,0 +1,109 @@
+{
+  "id": 2047955127,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-13",
+    "date:inception_upper": "2026-08-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "SQ",
+    "flysfo:date": "2026-08-13",
+    "flysfo:estimated_timestamp": 1786637400,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "SQ32",
+    "flysfo:gate": "A6",
+    "flysfo:journey": "SIN-SFO",
+    "flysfo:scheduled_timestamp": 1786639800,
+    "flysfo:timestamp": 1786639800,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,1.347400,103.976839,37.617990",
+    "geom:latitude": 19.482695,
+    "geom:longitude": -9.197052,
+    "iata:airline": "SQ",
+    "icao:airline": "SIA",
+    "lbl:latitude": 37.612674,
+    "lbl:longitude": -122.389174,
+    "sfomuseum:airline_id": 1159286259,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102551593,
+    "sfomuseum:flight_id": "20260813-A-SIA-32",
+    "sfomuseum:flight_number": [
+      "SIA32",
+      "SQ32"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304073,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304085,
+      1947304069,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786723698,
+    "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047955127,
+        "flight_id": 2047955127,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304085,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047955127,
+        "flight_id": 2047955127,
+        "region_id": 85688637,
+        "venue_id": 1947304085,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 2047955127,
+    "wof:involves": [
+      102527513,
+      102551593,
+      1159286259,
+      1947304085
+    ],
+    "wof:lastmodified": 1786723698,
+    "wof:name": "SQ32 (SIN-SFO)",
+    "wof:parent_id": 1947304085,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    1.3474,
+    103.976839,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[103.976839,1.3474],[-122.370943,37.61799]]}
+}

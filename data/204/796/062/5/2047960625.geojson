@@ -1,0 +1,72 @@
+{
+  "id": 2047960625,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-13",
+    "date:inception_upper": "2026-08-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-13",
+    "flysfo:estimated_timestamp": 1786656300,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8124",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-IAH",
+    "flysfo:scheduled_timestamp": 1786656300,
+    "flysfo:timestamp": 1786656300,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,29.977186,-95.338444,37.617990",
+    "geom:latitude": 33.797588,
+    "geom:longitude": -108.8546935,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102534097,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260813-D-UAL-8124",
+    "sfomuseum:flight_number": [
+      "UAL8124",
+      "UA8124"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786724369,
+    "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047960625,
+        "flight_id": 2047960625
+      }
+    ],
+    "wof:id": 2047960625,
+    "wof:involves": [
+      102534097,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1786724369,
+    "wof:name": "UA8124 (SFO-IAH)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    29.977186,
+    -95.338444,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]]}
+}

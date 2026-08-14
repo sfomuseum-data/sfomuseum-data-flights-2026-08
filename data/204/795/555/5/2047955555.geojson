@@ -1,0 +1,72 @@
+{
+  "id": 2047955555,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-13",
+    "date:inception_upper": "2026-08-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-13",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA1685",
+    "flysfo:gate": "",
+    "flysfo:journey": "LIH-SFO",
+    "flysfo:scheduled_timestamp": 1786629660,
+    "flysfo:timestamp": 1786629660,
+    "geom:area": 0,
+    "geom:bbox": "-159.347789,21.981539,-122.370943,37.617990",
+    "geom:latitude": 29.799764500000002,
+    "geom:longitude": -140.859366,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528943,
+    "sfomuseum:flight_id": "20260813-A-UAL-1685",
+    "sfomuseum:flight_number": [
+      "UAL1685",
+      "UA1685"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786723748,
+    "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047955555,
+        "flight_id": 2047955555
+      }
+    ],
+    "wof:id": 2047955555,
+    "wof:involves": [
+      102527513,
+      102528943,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1786723748,
+    "wof:name": "UA1685 (LIH-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -159.347789,
+    21.981539,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-159.347789,21.981539],[-122.370943,37.61799]]}
+}

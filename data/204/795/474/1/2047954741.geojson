@@ -1,0 +1,72 @@
+{
+  "id": 2047954741,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-13",
+    "date:inception_upper": "2026-08-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "KE",
+    "flysfo:date": "2026-08-13",
+    "flysfo:estimated_timestamp": 1786633620,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "KE214",
+    "flysfo:gate": "",
+    "flysfo:journey": "LAX-SFO",
+    "flysfo:scheduled_timestamp": 1786633140,
+    "flysfo:timestamp": 1786633620,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "KE",
+    "icao:airline": "KAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284625,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102533795,
+    "sfomuseum:flight_id": "20260813-A-KAL-214",
+    "sfomuseum:flight_number": [
+      "KAL214",
+      "KE214"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786723653,
+    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047954741,
+        "flight_id": 2047954741
+      }
+    ],
+    "wof:id": 2047954741,
+    "wof:involves": [
+      102527513,
+      102533795,
+      1159284625,
+      -1
+    ],
+    "wof:lastmodified": 1786723653,
+    "wof:name": "KE214 (LAX-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.942593,
+    -118.38951,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]]}
+}

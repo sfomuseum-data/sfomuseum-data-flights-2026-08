@@ -1,0 +1,72 @@
+{
+  "id": 2047958911,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-13",
+    "date:inception_upper": "2026-08-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "F9",
+    "flysfo:date": "2026-08-13",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "F93582",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SNA",
+    "flysfo:scheduled_timestamp": 1786667160,
+    "flysfo:timestamp": 1786667160,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
+    "geom:latitude": 35.647857,
+    "geom:longitude": -120.1186115,
+    "iata:airline": "F9",
+    "icao:airline": "FFT",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284401,
+    "sfomuseum:arrival_id": 102534161,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260813-D-FFT-3582",
+    "sfomuseum:flight_number": [
+      "FFT3582",
+      "F93582"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786724143,
+    "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047958911,
+        "flight_id": 2047958911
+      }
+    ],
+    "wof:id": 2047958911,
+    "wof:involves": [
+      102534161,
+      102527513,
+      1159284401,
+      -1
+    ],
+    "wof:lastmodified": 1786724143,
+    "wof:name": "F93582 (SFO-SNA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.677724,
+    -117.86628,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]]}
+}
