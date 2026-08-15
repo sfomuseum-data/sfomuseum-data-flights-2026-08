@@ -2,10 +2,12 @@
   "id": 2047971299,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-14",
     "date:inception_upper": "2026-08-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-14",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-14T01:18:28-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-08-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
+    "icao:aircraft": "A320",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N667AW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2047971299,
     "wof:involves": [
+      1159292085,
       102526751,
       102527513,
       1159283849,
       1947304283
     ],
-    "wof:lastmodified": 1786810269,
+    "wof:lastmodified": 1786810812,
     "wof:name": "AA2414 (SFO-PHX)",
     "wof:parent_id": 1947304283,
     "wof:placetype": "custom",

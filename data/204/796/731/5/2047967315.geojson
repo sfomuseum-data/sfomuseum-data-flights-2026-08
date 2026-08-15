@@ -2,10 +2,12 @@
   "id": 2047967315,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-14",
-    "date:inception_upper": "2026-08-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-14",
+    "date:cessation_lower": "2026-08-14",
+    "date:cessation_upper": "2026-08-14",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-14T03:37:35-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260814-A-ANZ-4733",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "CFDCA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2047967315,
     "wof:involves": [
-      102527513,
       102555091,
       1159283597,
       1947304667,
-      1159283697
+      1159283697,
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1786809808,
+    "wof:lastmodified": 1786810787,
     "wof:name": "AC739 (YYZ-SFO)",
     "wof:parent_id": 1947304667,
     "wof:placetype": "custom",

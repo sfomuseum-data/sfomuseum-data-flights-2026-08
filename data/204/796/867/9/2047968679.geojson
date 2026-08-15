@@ -2,10 +2,12 @@
   "id": 2047968679,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-14",
-    "date:inception_upper": "2026-08-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-14",
+    "date:cessation_lower": "2026-08-14",
+    "date:cessation_upper": "2026-08-14",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-14T05:31:41-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B764",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1394298249,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260814-A-KLM-7014",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N830MH",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2047968679,
     "wof:involves": [
-      102527513,
       102534365,
       1159284261,
       1947304681,
-      1159284613
+      1159284613,
+      1394298249,
+      102527513
     ],
-    "wof:lastmodified": 1786809969,
+    "wof:lastmodified": 1786810793,
     "wof:name": "DL668 (JFK-SFO)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",
