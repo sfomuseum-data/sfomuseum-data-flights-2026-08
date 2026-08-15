@@ -1,0 +1,72 @@
+{
+  "id": 2047970099,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-14",
+    "date:inception_upper": "2026-08-14",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-14",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-14",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA1476",
+    "flysfo:gate": "",
+    "flysfo:journey": "IAH-SFO",
+    "flysfo:scheduled_timestamp": 1786692420,
+    "flysfo:timestamp": 1786692420,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,29.977186,-95.338444,37.617990",
+    "geom:latitude": 33.797588,
+    "geom:longitude": -108.8546935,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102534097,
+    "sfomuseum:flight_id": "20260814-A-UAL-1476",
+    "sfomuseum:flight_number": [
+      "UAL1476",
+      "UA1476"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786810133,
+    "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047970099,
+        "flight_id": 2047970099
+      }
+    ],
+    "wof:id": 2047970099,
+    "wof:involves": [
+      102527513,
+      102534097,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1786810133,
+    "wof:name": "UA1476 (IAH-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    29.977186,
+    -95.338444,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]]}
+}

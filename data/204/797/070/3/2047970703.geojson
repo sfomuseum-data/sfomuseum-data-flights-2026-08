@@ -1,0 +1,72 @@
+{
+  "id": 2047970703,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-14",
+    "date:inception_upper": "2026-08-14",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-14",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-14",
+    "flysfo:estimated_timestamp": 1786766220,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA8257",
+    "flysfo:gate": "",
+    "flysfo:journey": "IAD-SFO",
+    "flysfo:scheduled_timestamp": 1786762680,
+    "flysfo:timestamp": 1786766220,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-77.453702,38.949246",
+    "geom:latitude": 38.283618000000004,
+    "geom:longitude": -99.9123225,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528817,
+    "sfomuseum:flight_id": "20260814-A-UAL-8257",
+    "sfomuseum:flight_number": [
+      "UAL8257",
+      "UA8257"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786810203,
+    "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047970703,
+        "flight_id": 2047970703
+      }
+    ],
+    "wof:id": 2047970703,
+    "wof:involves": [
+      102527513,
+      102528817,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1786810203,
+    "wof:name": "UA8257 (IAD-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -77.453702,
+    38.949246
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]]}
+}
