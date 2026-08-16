@@ -1,0 +1,78 @@
+{
+  "id": 2047983725,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-15",
+    "date:inception_upper": "2026-08-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WS",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "7064",
+    "flysfo:date": "2026-08-15",
+    "flysfo:estimated_timestamp": 1786843200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "WS1507",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-YYC",
+    "flysfo:scheduled_timestamp": 1786842300,
+    "flysfo:timestamp": 1786843200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-114.020920,51.119526",
+    "geom:latitude": 44.368758,
+    "geom:longitude": -118.1959315,
+    "iata:airline": "WS",
+    "iata:base_airline": "",
+    "icao:airline": "WJA",
+    "icao:base_airline": "AMX",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285523,
+    "sfomuseum:arrival_id": 102554947,
+    "sfomuseum:base_flight_id": "20260815-D-AMX-7064",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260815-D-WJA-1507",
+    "sfomuseum:flight_number": [
+      "WJA1507",
+      "WS1507"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786897051,
+    "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047983725,
+        "flight_id": 2047983725
+      }
+    ],
+    "wof:id": 2047983725,
+    "wof:involves": [
+      102554947,
+      102527513,
+      1159285523,
+      -1,
+      1159283539
+    ],
+    "wof:lastmodified": 1786897051,
+    "wof:name": "WS1507 (SFO-YYC)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -114.02092,
+    51.119526
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-114.02092,51.119526]]}
+}

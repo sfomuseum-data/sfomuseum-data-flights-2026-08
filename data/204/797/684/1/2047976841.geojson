@@ -1,0 +1,109 @@
+{
+  "id": 2047976841,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-15",
+    "date:inception_upper": "2026-08-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "YP",
+    "flysfo:date": "2026-08-15",
+    "flysfo:estimated_timestamp": 1786823280,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "YP113",
+    "flysfo:gate": "A13",
+    "flysfo:journey": "ICN-SFO",
+    "flysfo:scheduled_timestamp": 1786824000,
+    "flysfo:timestamp": 1786824000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.453966,126.661632,37.617990",
+    "geom:latitude": 37.535978,
+    "geom:longitude": 2.1453445,
+    "iata:airline": "YP",
+    "icao:airline": "APZ",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1930448549,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102556451,
+    "sfomuseum:flight_id": "20260815-A-APZ-113",
+    "sfomuseum:flight_number": [
+      "APZ113",
+      "YP113"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304073,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304093,
+      1947304069,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786896269,
+    "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047976841,
+        "flight_id": 2047976841,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304093,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047976841,
+        "flight_id": 2047976841,
+        "region_id": 85688637,
+        "venue_id": 1947304093,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 2047976841,
+    "wof:involves": [
+      102527513,
+      102556451,
+      1930448549,
+      1947304093
+    ],
+    "wof:lastmodified": 1786896269,
+    "wof:name": "YP113 (ICN-SFO)",
+    "wof:parent_id": 1947304093,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.453966,
+    126.661632,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[126.661632,37.453966],[-122.370943,37.61799]]}
+}

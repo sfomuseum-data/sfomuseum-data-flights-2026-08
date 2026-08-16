@@ -1,0 +1,109 @@
+{
+  "id": 2047982657,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-15",
+    "date:inception_upper": "2026-08-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "ZG",
+    "flysfo:date": "2026-08-15",
+    "flysfo:estimated_timestamp": 1786824120,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "ZG25D",
+    "flysfo:gate": "A6",
+    "flysfo:journey": "SFO-NRT",
+    "flysfo:scheduled_timestamp": 1786821300,
+    "flysfo:timestamp": 1786824120,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.755744,140.395257,37.617990",
+    "geom:latitude": 36.686867,
+    "geom:longitude": 9.012156999999995,
+    "iata:airline": "ZG",
+    "icao:airline": "TZP",
+    "lbl:latitude": 37.612674,
+    "lbl:longitude": -122.389174,
+    "sfomuseum:airline_id": 1813375131,
+    "sfomuseum:arrival_id": 102541685,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260815-D-TZP-25D",
+    "sfomuseum:flight_number": [
+      "TZP25D",
+      "ZG25D"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304073,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304085,
+      1947304069,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786896932,
+    "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047982657,
+        "flight_id": 2047982657,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304085,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047982657,
+        "flight_id": 2047982657,
+        "region_id": 85688637,
+        "venue_id": 1947304085,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 2047982657,
+    "wof:involves": [
+      102541685,
+      102527513,
+      1813375131,
+      1947304085
+    ],
+    "wof:lastmodified": 1786896932,
+    "wof:name": "ZG25D (SFO-NRT)",
+    "wof:parent_id": 1947304085,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.755744,
+    140.395257,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[140.395257,35.755744]]}
+}

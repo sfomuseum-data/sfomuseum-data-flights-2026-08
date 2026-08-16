@@ -1,0 +1,72 @@
+{
+  "id": 2047981523,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-15",
+    "date:inception_upper": "2026-08-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-08-15",
+    "flysfo:estimated_timestamp": 1786802400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL445",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-EUG",
+    "flysfo:scheduled_timestamp": 1786802400,
+    "flysfo:timestamp": 1786802400,
+    "geom:area": 0,
+    "geom:bbox": "-123.213030,37.617990,-122.370943,44.119058",
+    "geom:latitude": 40.868524,
+    "geom:longitude": -122.79198650000001,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102533927,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260815-D-DAL-445",
+    "sfomuseum:flight_number": [
+      "DAL445",
+      "DL445"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786896804,
+    "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047981523,
+        "flight_id": 2047981523
+      }
+    ],
+    "wof:id": 2047981523,
+    "wof:involves": [
+      102533927,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1786896804,
+    "wof:name": "DL445 (SFO-EUG)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -123.21303,
+    37.61799,
+    -122.370943,
+    44.119058
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-123.21303,44.119058]]}
+}

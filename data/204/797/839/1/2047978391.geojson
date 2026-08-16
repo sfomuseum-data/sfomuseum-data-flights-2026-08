@@ -1,0 +1,72 @@
+{
+  "id": 2047978391,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-15",
+    "date:inception_upper": "2026-08-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "QR",
+    "flysfo:date": "2026-08-15",
+    "flysfo:estimated_timestamp": 1786827600,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "QR5",
+    "flysfo:gate": "",
+    "flysfo:journey": "DOH-SFO",
+    "flysfo:scheduled_timestamp": 1786823760,
+    "flysfo:timestamp": 1786827600,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,25.264800,51.604244,37.617990",
+    "geom:latitude": 31.441395,
+    "geom:longitude": -35.383349499999994,
+    "iata:airline": "QR",
+    "icao:airline": "QTR",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159286153,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 1729749565,
+    "sfomuseum:flight_id": "20260815-A-QTR-5",
+    "sfomuseum:flight_number": [
+      "QTR5",
+      "QR5"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786896450,
+    "wof:geomhash": "27d105ecd0cb5505c65a584eb4bda7e7",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047978391,
+        "flight_id": 2047978391
+      }
+    ],
+    "wof:id": 2047978391,
+    "wof:involves": [
+      102527513,
+      1729749565,
+      1159286153,
+      -1
+    ],
+    "wof:lastmodified": 1786896450,
+    "wof:name": "QR5 (DOH-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    25.2648,
+    51.604244,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[51.604244,25.2648],[-122.370943,37.61799]]}
+}
