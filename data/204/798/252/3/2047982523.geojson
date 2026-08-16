@@ -2,10 +2,12 @@
   "id": 2047982523,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-15",
     "date:inception_upper": "2026-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-15",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-15T01:23:26-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.702760999999995,
     "geom:longitude": -105.058423,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102531205,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8674B",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -86,9 +94,10 @@
       102531205,
       102527513,
       1159285591,
-      1947304597
+      1947304597,
+      1159289871
     ],
-    "wof:lastmodified": 1786896917,
+    "wof:lastmodified": 1786897113,
     "wof:name": "WN4530 (SFO-MDW)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

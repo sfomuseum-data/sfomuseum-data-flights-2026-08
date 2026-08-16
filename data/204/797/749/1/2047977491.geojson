@@ -2,10 +2,12 @@
   "id": 2047977491,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-15",
-    "date:inception_upper": "2026-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-15",
+    "date:cessation_lower": "2026-08-15",
+    "date:cessation_upper": "2026-08-15",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-15T12:18:49-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260815-A-AMX-4033",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N917DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -92,9 +100,10 @@
       102533795,
       1159284261,
       1763588251,
-      1159283539
+      1159283539,
+      1377564285
     ],
-    "wof:lastmodified": 1786896346,
+    "wof:lastmodified": 1786897086,
     "wof:name": "DL1559 (LAX-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047979827,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-15",
-    "date:inception_upper": "2026-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-15",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-15T17:06:57-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "CSN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528659,
     "sfomuseum:base_flight_id": "20260815-D-CSN-1638",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N423AN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2047979827,
     "wof:involves": [
-      102528659,
       102527513,
       1159283849,
       1947304309,
-      1159284165
+      1159284165,
+      1377564297,
+      102528659
     ],
-    "wof:lastmodified": 1786896614,
+    "wof:lastmodified": 1786897100,
     "wof:name": "AA2514 (SFO-CLT)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047979081,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-15",
-    "date:inception_upper": "2026-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-15",
+    "date:cessation_lower": "2026-08-15",
+    "date:cessation_upper": "2026-08-15",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-15T10:48:30-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.529906499999996,
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533269,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +90,13 @@
     ],
     "wof:id": 2047979081,
     "wof:involves": [
+      1528104577,
       102527513,
       102533269,
       1159285413,
       1947304517
     ],
-    "wof:lastmodified": 1786896528,
+    "wof:lastmodified": 1786897096,
     "wof:name": "UA3895 (SEA-SFO)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

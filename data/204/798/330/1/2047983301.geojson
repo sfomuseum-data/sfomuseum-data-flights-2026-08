@@ -2,10 +2,12 @@
   "id": 2047983301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-15",
     "date:inception_upper": "2026-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-15",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-15T03:31:20-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N57862",
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1786897004,
@@ -46,12 +54,12 @@
     ],
     "wof:id": 2047983301,
     "wof:involves": [
+      1159289945,
       102533631,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1786897004,
+    "wof:lastmodified": 1786897118,
     "wof:name": "UA8143 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2047982779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-15",
     "date:inception_upper": "2026-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-15",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-15T06:35:25-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:base_flight_id": "20260815-D-ACA-4218",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N76504",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2047982779,
     "wof:involves": [
-      102528997,
       102527513,
       1159285413,
       1947304473,
-      1159283597
+      1159283597,
+      1159289871,
+      102528997
     ],
-    "wof:lastmodified": 1786896946,
+    "wof:lastmodified": 1786897115,
     "wof:name": "UA1257 (SFO-SAN)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

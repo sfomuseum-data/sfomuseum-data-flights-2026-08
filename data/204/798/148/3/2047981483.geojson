@@ -2,10 +2,12 @@
   "id": 2047981483,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-15",
     "date:inception_upper": "2026-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-15",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-15T10:29:21-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20260815-D-KAL-7259",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N895DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2047981483,
     "wof:involves": [
-      102533795,
-      102527513,
       1159284261,
       1947304671,
-      1159284625
+      1159284625,
+      1377564285,
+      102533795,
+      102527513
     ],
-    "wof:lastmodified": 1786896800,
+    "wof:lastmodified": 1786897108,
     "wof:name": "DL1850 (SFO-LAX)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

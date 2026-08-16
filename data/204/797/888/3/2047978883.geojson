@@ -2,10 +2,12 @@
   "id": 2047978883,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-15",
-    "date:inception_upper": "2026-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-15",
+    "date:cessation_lower": "2026-08-15",
+    "date:cessation_upper": "2026-08-15",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-15T05:08:36-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "PA34",
     "icao:airline": "UAL",
     "icao:base_airline": "MSR",
     "lbl:latitude": 37.619197,
@@ -39,6 +42,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37449",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -94,7 +101,7 @@
       1947304515,
       1159284325
     ],
-    "wof:lastmodified": 1786896506,
+    "wof:lastmodified": 1786897095,
     "wof:name": "UA1773 (IAD-SFO)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",
