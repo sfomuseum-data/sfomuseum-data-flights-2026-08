@@ -1,0 +1,109 @@
+{
+  "id": 2047997809,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786912560,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA3751",
+    "flysfo:gate": "E5",
+    "flysfo:journey": "SFO-LGB",
+    "flysfo:scheduled_timestamp": 1786912500,
+    "flysfo:timestamp": 1786912560,
+    "geom:area": 0,
+    "geom:bbox": "-118.148993,0.000000,0.000000,33.814039",
+    "geom:latitude": 16.9070195,
+    "geom:longitude": -59.0744965,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.618486,
+    "lbl:longitude": -122.384457,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102528985,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260816-D-UAL-3751",
+    "sfomuseum:flight_number": [
+      "UAL3751",
+      "UA3751"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304511,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304525,
+      1947304447,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786983904,
+    "wof:geomhash": "cb8d5da8fb8b083e534776c3b5644435",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304511,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047997809,
+        "flight_id": 2047997809,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304525,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304511,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047997809,
+        "flight_id": 2047997809,
+        "region_id": 85688637,
+        "venue_id": 1947304525,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 2047997809,
+    "wof:involves": [
+      102528985,
+      102527513,
+      1159285413,
+      1947304525
+    ],
+    "wof:lastmodified": 1786983904,
+    "wof:name": "UA3751 (SFO-LGB)",
+    "wof:parent_id": 1947304525,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -118.148993,
+    0,
+    0,
+    33.814039
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[0,0],[-118.148993,33.814039]]}
+}

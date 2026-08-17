@@ -1,0 +1,72 @@
+{
+  "id": 2047993439,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786919220,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA5560",
+    "flysfo:gate": "F5",
+    "flysfo:journey": "BIH-SFO",
+    "flysfo:scheduled_timestamp": 1786919340,
+    "flysfo:timestamp": 1786919340,
+    "geom:area": 0,
+    "geom:bbox": "-118.363998,0.000000,0.000000,37.373100",
+    "geom:latitude": 18.68655,
+    "geom:longitude": -59.181999,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527547,
+    "sfomuseum:flight_id": "20260816-A-UAL-5560",
+    "sfomuseum:flight_number": [
+      "UAL5560",
+      "UA5560"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786983405,
+    "wof:geomhash": "3b0fbcb0fd9f5ebf3e595a141887b644",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047993439,
+        "flight_id": 2047993439
+      }
+    ],
+    "wof:id": 2047993439,
+    "wof:involves": [
+      102527513,
+      102527547,
+      1159285413,
+      1930457221
+    ],
+    "wof:lastmodified": 1786983405,
+    "wof:name": "UA5560 (BIH-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -118.363998,
+    0,
+    0,
+    37.3731
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.363998,37.3731],[0,0]]}
+}

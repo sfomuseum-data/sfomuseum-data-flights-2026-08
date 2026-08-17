@@ -1,0 +1,78 @@
+{
+  "id": 2047990147,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AC",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "4807",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786942740,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AC759",
+    "flysfo:gate": "",
+    "flysfo:journey": "YUL-SFO",
+    "flysfo:scheduled_timestamp": 1786938660,
+    "flysfo:timestamp": 1786942740,
+    "geom:area": 0,
+    "geom:bbox": "-73.744749,0.000000,0.000000,45.462004",
+    "geom:latitude": 22.731002,
+    "geom:longitude": -36.8723745,
+    "iata:airline": "AC",
+    "iata:base_airline": "",
+    "icao:airline": "ACA",
+    "icao:base_airline": "ANZ",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283597,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20260816-A-ANZ-4807",
+    "sfomuseum:departure_id": 102554351,
+    "sfomuseum:flight_id": "20260816-A-ACA-759",
+    "sfomuseum:flight_number": [
+      "ACA759",
+      "AC759"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786982954,
+    "wof:geomhash": "458dc334325c82143c2bf41f8564f675",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047990147,
+        "flight_id": 2047990147
+      }
+    ],
+    "wof:id": 2047990147,
+    "wof:involves": [
+      102527513,
+      102554351,
+      1159283597,
+      -1,
+      1159283697
+    ],
+    "wof:lastmodified": 1786982954,
+    "wof:name": "AC759 (YUL-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -73.744749,
+    0,
+    0,
+    45.462004
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.744749,45.462004],[0,0]]}
+}

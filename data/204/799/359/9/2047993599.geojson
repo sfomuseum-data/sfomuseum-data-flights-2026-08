@@ -1,0 +1,109 @@
+{
+  "id": 2047993599,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786899540,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA862",
+    "flysfo:gate": "G13",
+    "flysfo:journey": "HKG-SFO",
+    "flysfo:scheduled_timestamp": 1786899000,
+    "flysfo:timestamp": 1786899540,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,113.927436,22.307471",
+    "geom:latitude": 11.1537355,
+    "geom:longitude": 56.963718,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102541737,
+    "sfomuseum:flight_id": "20260816-A-UAL-862",
+    "sfomuseum:flight_number": [
+      "UAL862",
+      "UA862"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304129,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304159,
+      1947304069,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786983427,
+    "wof:geomhash": "92de9e625a2f06279427385c5dcb85c0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304129,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047993599,
+        "flight_id": 2047993599,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304159,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304129,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047993599,
+        "flight_id": 2047993599,
+        "region_id": 85688637,
+        "venue_id": 1947304159,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 2047993599,
+    "wof:involves": [
+      102527513,
+      102541737,
+      1159285413,
+      1947304159
+    ],
+    "wof:lastmodified": 1786983427,
+    "wof:name": "UA862 (HKG-SFO)",
+    "wof:parent_id": 1947304159,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    113.927436,
+    22.307471
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[113.927436,22.307471],[0,0]]}
+}

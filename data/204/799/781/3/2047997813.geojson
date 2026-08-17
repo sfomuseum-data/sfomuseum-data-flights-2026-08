@@ -1,0 +1,109 @@
+{
+  "id": 2047997813,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1787000400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA3882",
+    "flysfo:gate": "F12",
+    "flysfo:journey": "SFO-LCQ",
+    "flysfo:scheduled_timestamp": 1786948200,
+    "flysfo:timestamp": 1787000400,
+    "geom:area": 0,
+    "geom:bbox": "-75.710820,0.000000,0.000000,44.059200",
+    "geom:latitude": 22.0296,
+    "geom:longitude": -37.85541,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.620058,
+    "lbl:longitude": -122.38824,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102531643,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260816-D-UAL-3882",
+    "sfomuseum:flight_number": [
+      "UAL3882",
+      "UA3882"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304451,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304483,
+      1947304447,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786983905,
+    "wof:geomhash": "4922eb38354dc87b445c992b382b518b",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047997813,
+        "flight_id": 2047997813,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304483,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047997813,
+        "flight_id": 2047997813,
+        "region_id": 85688637,
+        "venue_id": 1947304483,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 2047997813,
+    "wof:involves": [
+      102531643,
+      102527513,
+      1159285413,
+      1947304483
+    ],
+    "wof:lastmodified": 1786983905,
+    "wof:name": "UA3882 (SFO-LCQ)",
+    "wof:parent_id": 1947304483,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -75.71082,
+    0,
+    0,
+    44.0592
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[0,0],[-75.71082,44.0592]]}
+}

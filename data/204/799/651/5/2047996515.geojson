@@ -1,0 +1,78 @@
+{
+  "id": 2047996515,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "IB",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "8324",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786927200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "IB6002",
+    "flysfo:gate": "B5",
+    "flysfo:journey": "SFO-DUB",
+    "flysfo:scheduled_timestamp": 1786927200,
+    "flysfo:timestamp": 1786927200,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "iata:airline": "IB",
+    "iata:base_airline": "",
+    "icao:airline": "IBE",
+    "icao:base_airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284511,
+    "sfomuseum:arrival_id": 102547639,
+    "sfomuseum:base_flight_id": "20260816-D-AAL-8324",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260816-D-IBE-6002",
+    "sfomuseum:flight_number": [
+      "IBE6002",
+      "IB6002"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786983758,
+    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047996515,
+        "flight_id": 2047996515
+      }
+    ],
+    "wof:id": 2047996515,
+    "wof:involves": [
+      102547639,
+      102527513,
+      1159284511,
+      1947304299,
+      1159283849
+    ],
+    "wof:lastmodified": 1786983758,
+    "wof:name": "IB6002 (SFO-DUB)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[0,0],[0,0]]}
+}

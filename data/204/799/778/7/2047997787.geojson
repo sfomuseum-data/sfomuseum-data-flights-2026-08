@@ -1,0 +1,109 @@
+{
+  "id": 2047997787,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786903260,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA29",
+    "flysfo:gate": "G9",
+    "flysfo:journey": "SFO-SIN",
+    "flysfo:scheduled_timestamp": 1786903200,
+    "flysfo:timestamp": 1786903260,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,103.976839,1.347400",
+    "geom:latitude": 0.6737,
+    "geom:longitude": 51.9884195,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61844,
+    "lbl:longitude": -122.392214,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102551593,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260816-D-UAL-29",
+    "sfomuseum:flight_number": [
+      "UAL29",
+      "UA29"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304129,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304153,
+      1947304069,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1786983901,
+    "wof:geomhash": "8d0f0475c6905f76a03f122d9de26038",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304129,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2047997787,
+        "flight_id": 2047997787,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304153,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304129,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2047997787,
+        "flight_id": 2047997787,
+        "region_id": 85688637,
+        "venue_id": 1947304153,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 2047997787,
+    "wof:involves": [
+      102551593,
+      102527513,
+      1159285413,
+      1947304153
+    ],
+    "wof:lastmodified": 1786983901,
+    "wof:name": "UA29 (SFO-SIN)",
+    "wof:parent_id": 1947304153,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    103.976839,
+    1.3474
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[0,0],[103.976839,1.3474]]}
+}

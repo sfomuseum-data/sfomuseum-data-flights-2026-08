@@ -1,0 +1,78 @@
+{
+  "id": 2047989585,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "4325",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786899960,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AA2885",
+    "flysfo:gate": "B23",
+    "flysfo:journey": "ORD-SFO",
+    "flysfo:scheduled_timestamp": 1786899780,
+    "flysfo:timestamp": 1786899960,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "iata:airline": "AA",
+    "iata:base_airline": "",
+    "icao:airline": "AAL",
+    "icao:base_airline": "QFA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20260816-A-QFA-4325",
+    "sfomuseum:departure_id": 102533631,
+    "sfomuseum:flight_id": "20260816-A-AAL-2885",
+    "sfomuseum:flight_number": [
+      "AAL2885",
+      "AA2885"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786982626,
+    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047989585,
+        "flight_id": 2047989585
+      }
+    ],
+    "wof:id": 2047989585,
+    "wof:involves": [
+      102527513,
+      102533631,
+      1159283849,
+      1947304317,
+      1159285043
+    ],
+    "wof:lastmodified": 1786982626,
+    "wof:name": "AA2885 (ORD-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[0,0],[0,0]]}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 2047992607,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "SQ",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786938780,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "SQ34",
+    "flysfo:gate": "A10",
+    "flysfo:journey": "SIN-SFO",
+    "flysfo:scheduled_timestamp": 1786937700,
+    "flysfo:timestamp": 1786938780,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,103.976839,1.347400",
+    "geom:latitude": 0.6737,
+    "geom:longitude": 51.9884195,
+    "iata:airline": "SQ",
+    "icao:airline": "SIA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159286259,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102551593,
+    "sfomuseum:flight_id": "20260816-A-SIA-34",
+    "sfomuseum:flight_number": [
+      "SIA34",
+      "SQ34"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786983284,
+    "wof:geomhash": "b8ccb714d7ed686adce55bc03195b421",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047992607,
+        "flight_id": 2047992607
+      }
+    ],
+    "wof:id": 2047992607,
+    "wof:involves": [
+      102527513,
+      102551593,
+      1159286259,
+      1947304101
+    ],
+    "wof:lastmodified": 1786983284,
+    "wof:name": "SQ34 (SIN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    103.976839,
+    1.3474
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[103.976839,1.3474],[0,0]]}
+}

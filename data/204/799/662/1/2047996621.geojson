@@ -1,0 +1,78 @@
+{
+  "id": 2047996621,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "JL",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "8410",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786914900,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "JL57",
+    "flysfo:gate": "A12",
+    "flysfo:journey": "SFO-NRT",
+    "flysfo:scheduled_timestamp": 1786913700,
+    "flysfo:timestamp": 1786914900,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,140.395257,35.755744",
+    "geom:latitude": 17.877872,
+    "geom:longitude": 70.1976285,
+    "iata:airline": "JL",
+    "iata:base_airline": "",
+    "icao:airline": "JAL",
+    "icao:base_airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284563,
+    "sfomuseum:arrival_id": 102541685,
+    "sfomuseum:base_flight_id": "20260816-D-AAL-8410",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260816-D-JAL-57",
+    "sfomuseum:flight_number": [
+      "JAL57",
+      "JL57"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786983770,
+    "wof:geomhash": "0d0b763a201aeddac7ea678f9e542a39",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047996621,
+        "flight_id": 2047996621
+      }
+    ],
+    "wof:id": 2047996621,
+    "wof:involves": [
+      102541685,
+      102527513,
+      1159284563,
+      1947304083,
+      1159283849
+    ],
+    "wof:lastmodified": 1786983770,
+    "wof:name": "JL57 (SFO-NRT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    140.395257,
+    35.755744
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[0,0],[140.395257,35.755744]]}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 2047992163,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "B6",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786913220,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "B61833",
+    "flysfo:gate": "B18",
+    "flysfo:journey": "BOS-SFO",
+    "flysfo:scheduled_timestamp": 1786912380,
+    "flysfo:timestamp": 1786913220,
+    "geom:area": 0,
+    "geom:bbox": "-71.014750,0.000000,0.000000,42.362322",
+    "geom:latitude": 21.181161,
+    "geom:longitude": -35.507375,
+    "iata:airline": "B6",
+    "icao:airline": "JBU",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284583,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530741,
+    "sfomuseum:flight_id": "20260816-A-JBU-1833",
+    "sfomuseum:flight_number": [
+      "JBU1833",
+      "B61833"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786983218,
+    "wof:geomhash": "cd1e89ef383f117e12f9509cefd6a1e8",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047992163,
+        "flight_id": 2047992163
+      }
+    ],
+    "wof:id": 2047992163,
+    "wof:involves": [
+      102527513,
+      102530741,
+      1159284583,
+      1947304297
+    ],
+    "wof:lastmodified": 1786983218,
+    "wof:name": "B61833 (BOS-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -71.01475,
+    0,
+    0,
+    42.362322
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-71.01475,42.362322],[0,0]]}
+}

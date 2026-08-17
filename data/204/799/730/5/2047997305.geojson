@@ -1,0 +1,72 @@
+{
+  "id": 2047997305,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "ZG",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786926600,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "ZG25",
+    "flysfo:gate": "A12",
+    "flysfo:journey": "SFO-NRT",
+    "flysfo:scheduled_timestamp": 1786925700,
+    "flysfo:timestamp": 1786926600,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,140.395257,35.755744",
+    "geom:latitude": 17.877872,
+    "geom:longitude": 70.1976285,
+    "iata:airline": "ZG",
+    "icao:airline": "TZP",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1813375131,
+    "sfomuseum:arrival_id": 102541685,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260816-D-TZP-25",
+    "sfomuseum:flight_number": [
+      "TZP25",
+      "ZG25"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786983847,
+    "wof:geomhash": "0d0b763a201aeddac7ea678f9e542a39",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047997305,
+        "flight_id": 2047997305
+      }
+    ],
+    "wof:id": 2047997305,
+    "wof:involves": [
+      102541685,
+      102527513,
+      1813375131,
+      1947304083
+    ],
+    "wof:lastmodified": 1786983847,
+    "wof:name": "ZG25 (SFO-NRT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    140.395257,
+    35.755744
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[0,0],[140.395257,35.755744]]}
+}

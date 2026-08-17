@@ -1,0 +1,78 @@
+{
+  "id": 2047996495,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-16",
+    "date:inception_upper": "2026-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "IB",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "6995",
+    "flysfo:date": "2026-08-16",
+    "flysfo:estimated_timestamp": 1786931400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "IB3625",
+    "flysfo:gate": "A11",
+    "flysfo:journey": "SFO-LHR",
+    "flysfo:scheduled_timestamp": 1786923300,
+    "flysfo:timestamp": 1786931400,
+    "geom:area": 0,
+    "geom:bbox": "-0.450443,0.000000,0.000000,51.470087",
+    "geom:latitude": 25.7350435,
+    "geom:longitude": -0.2252215,
+    "iata:airline": "IB",
+    "iata:base_airline": "",
+    "icao:airline": "IBE",
+    "icao:base_airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284511,
+    "sfomuseum:arrival_id": 102556703,
+    "sfomuseum:base_flight_id": "20260816-D-AAL-6995",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260816-D-IBE-3625",
+    "sfomuseum:flight_number": [
+      "IBE3625",
+      "IB3625"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1786983755,
+    "wof:geomhash": "32ba62d95b72febfc889ca99adc01fb5",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2047996495,
+        "flight_id": 2047996495
+      }
+    ],
+    "wof:id": 2047996495,
+    "wof:involves": [
+      102556703,
+      102527513,
+      1159284511,
+      1947304099,
+      1159283849
+    ],
+    "wof:lastmodified": 1786983755,
+    "wof:name": "IB3625 (SFO-LHR)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -0.450443,
+    0,
+    0,
+    51.470087
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[0,0],[-0.450443,51.470087]]}
+}
