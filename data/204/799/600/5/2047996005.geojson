@@ -2,10 +2,12 @@
   "id": 2047996005,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-16",
     "date:inception_upper": "2026-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-16",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-16T15:20:27-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -35.507375,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "LAN",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20260816-D-LAN-8968",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +99,10 @@
       102527513,
       1159284261,
       1947304675,
-      1159285641
+      1159285641,
+      1377564297
     ],
-    "wof:lastmodified": 1786983700,
+    "wof:lastmodified": 1786984072,
     "wof:name": "DL1189 (SFO-BOS)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

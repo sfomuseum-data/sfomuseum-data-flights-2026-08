@@ -2,10 +2,12 @@
   "id": 2047996661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-16",
     "date:inception_upper": "2026-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-16",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-16T06:47:00-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -36.8939225,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "KQA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20260816-D-KQA-7281",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N992JB",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2047996661,
     "wof:involves": [
-      102534365,
       102527513,
       1159284583,
       1947304315,
-      1159284603
+      1159284603,
+      1159289411,
+      102534365
     ],
-    "wof:lastmodified": 1786983774,
+    "wof:lastmodified": 1786984079,
     "wof:name": "B6216 (SFO-JFK)",
     "wof:parent_id": 1947304315,
     "wof:placetype": "custom",

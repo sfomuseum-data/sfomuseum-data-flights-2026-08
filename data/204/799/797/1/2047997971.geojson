@@ -2,10 +2,12 @@
   "id": 2047997971,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-16",
     "date:inception_upper": "2026-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-16",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-16T00:41:42-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -40.6537685,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "AZU",
     "lbl:latitude": 37.618678,
     "lbl:longitude": -122.385955,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533657,
     "sfomuseum:base_flight_id": "20260816-D-AZU-7938",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N77426",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +100,10 @@
       102527513,
       1159285413,
       1947304481,
-      1779770723
+      1779770723,
+      1528104577
     ],
-    "wof:lastmodified": 1786983923,
+    "wof:lastmodified": 1786984098,
     "wof:name": "UA583 (SFO-MCO)",
     "wof:parent_id": 1947304481,
     "wof:placetype": "custom",

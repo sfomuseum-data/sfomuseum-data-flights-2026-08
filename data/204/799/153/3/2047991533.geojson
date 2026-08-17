@@ -2,10 +2,12 @@
   "id": 2047991533,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-16",
-    "date:inception_upper": "2026-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-16",
+    "date:cessation_lower": "2026-08-16",
+    "date:cessation_upper": "2026-08-16",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-16T04:00:47-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -41.6758545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260816-A-KAL-3470",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N6705Y",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +100,10 @@
       102525635,
       1159284261,
       1947304675,
-      1159284625
+      1159284625,
+      1159289939
     ],
-    "wof:lastmodified": 1786983132,
+    "wof:lastmodified": 1786984039,
     "wof:name": "DL361 (DTW-SFO)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

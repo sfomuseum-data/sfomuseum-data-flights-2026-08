@@ -2,10 +2,12 @@
   "id": 2047996099,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-16",
-    "date:inception_upper": "2026-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-16",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
+    "date:inception_lower": "2026-08-17",
+    "date:inception_upper": "2026-08-17",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-16T22:44:54-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -41.6758545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:base_flight_id": "20260816-D-AFR-2227",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N821DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2047996099,
     "wof:involves": [
-      102525635,
       102527513,
       1159284261,
       1947304675,
-      1159283627
+      1159283627,
+      1377564285,
+      102525635
     ],
-    "wof:lastmodified": 1786983710,
+    "wof:lastmodified": 1786984073,
     "wof:name": "DL772 (SFO-DTW)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

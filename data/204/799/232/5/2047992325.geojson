@@ -2,10 +2,12 @@
   "id": 2047992325,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-16",
-    "date:inception_upper": "2026-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-16",
+    "date:cessation_lower": "2026-08-16",
+    "date:cessation_upper": "2026-08-16",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-16T14:15:57-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PR",
     "flysfo:date": "2026-08-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 7.258884,
     "geom:longitude": 60.507576,
     "iata:airline": "PR",
+    "icao:aircraft": "A35K",
     "icao:airline": "PAL",
     "lbl:latitude": 37.612674,
     "lbl:longitude": -122.389174,
+    "sfomuseum:aircraft_id": 1377649085,
     "sfomuseum:airline_id": 1159285015,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102553219,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +90,13 @@
     ],
     "wof:id": 2047992325,
     "wof:involves": [
-      102527513,
-      102553219,
       1159285015,
-      1947304085
+      1947304085,
+      1377649085,
+      102527513,
+      102553219
     ],
-    "wof:lastmodified": 1786983237,
+    "wof:lastmodified": 1786984044,
     "wof:name": "PR104 (MNL-SFO)",
     "wof:parent_id": 1947304085,
     "wof:placetype": "custom",

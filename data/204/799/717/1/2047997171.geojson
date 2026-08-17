@@ -2,10 +2,12 @@
   "id": 2047997171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-16",
     "date:inception_upper": "2026-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-16",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-16T10:02:32-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 16.9712965,
     "geom:longitude": -59.194755,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8734Q",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2047997171,
     "wof:involves": [
+      1528104575,
       102533795,
       102527513,
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1786983832,
+    "wof:lastmodified": 1786984092,
     "wof:name": "WN4529 (SFO-LAX)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

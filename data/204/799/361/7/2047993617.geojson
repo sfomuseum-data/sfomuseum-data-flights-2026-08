@@ -2,10 +2,12 @@
   "id": 2047993617,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-16",
-    "date:inception_upper": "2026-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-16",
+    "date:cessation_lower": "2026-08-16",
+    "date:cessation_upper": "2026-08-16",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-16T13:01:17-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 11.1537355,
     "geom:longitude": 56.963718,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61836,
     "lbl:longitude": -122.393229,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102541737,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2250U",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2047993617,
     "wof:involves": [
+      1947304133,
+      1159289993,
       102527513,
       102541737,
-      1159285413,
-      1947304133
+      1159285413
     ],
-    "wof:lastmodified": 1786983429,
+    "wof:lastmodified": 1786984054,
     "wof:name": "UA878 (HKG-SFO)",
     "wof:parent_id": 1947304133,
     "wof:placetype": "custom",

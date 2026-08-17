@@ -2,10 +2,12 @@
   "id": 2047992299,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-16",
-    "date:inception_upper": "2026-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-16",
+    "date:cessation_lower": "2026-08-16",
+    "date:cessation_upper": "2026-08-16",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-16T07:08:05-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LO",
     "flysfo:date": "2026-08-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 26.085607,
     "geom:longitude": 10.4871895,
     "iata:airline": "LO",
+    "icao:aircraft": "B788",
     "icao:airline": "LOT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289995,
     "sfomuseum:airline_id": 1159284705,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102542051,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "SPLRE",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -86,9 +94,10 @@
       102527513,
       102542051,
       1159284705,
-      1947304075
+      1947304075,
+      1159289995
     ],
-    "wof:lastmodified": 1786983234,
+    "wof:lastmodified": 1786984044,
     "wof:name": "LO35 (WAW-SFO)",
     "wof:parent_id": 1947304075,
     "wof:placetype": "custom",

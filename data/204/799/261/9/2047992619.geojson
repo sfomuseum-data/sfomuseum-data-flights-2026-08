@@ -2,10 +2,12 @@
   "id": 2047992619,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-16",
-    "date:inception_upper": "2026-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-16",
+    "date:cessation_lower": "2026-08-16",
+    "date:cessation_upper": "2026-08-16",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-16T07:21:18-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 16.366767,
     "geom:longitude": -58.5929635,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8322X",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2047992619,
     "wof:involves": [
+      1947304599,
+      1159289871,
       102527513,
       102528997,
-      1159285591,
-      1947304599
+      1159285591
     ],
-    "wof:lastmodified": 1786983286,
+    "wof:lastmodified": 1786984046,
     "wof:name": "WN1092 (SAN-SFO)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",
