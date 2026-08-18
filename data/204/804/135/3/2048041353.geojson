@@ -2,10 +2,12 @@
   "id": 2048041353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-17",
     "date:inception_upper": "2026-08-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-17",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-17T08:05:57-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.5547415,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534217,
     "sfomuseum:base_flight_id": "20260817-D-ANZ-9489",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N465UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2048041353,
     "wof:involves": [
+      1159283697,
+      1159292085,
       102534217,
       102527513,
       1159285413,
-      1947304613,
-      1159283697
+      1947304613
     ],
-    "wof:lastmodified": 1787069911,
+    "wof:lastmodified": 1787070098,
     "wof:name": "UA2472 (SFO-JAC)",
     "wof:parent_id": 1947304613,
     "wof:placetype": "custom",

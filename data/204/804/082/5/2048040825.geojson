@@ -2,10 +2,12 @@
   "id": 2048040825,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-17",
-    "date:inception_upper": "2026-08-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-17",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
+    "date:inception_lower": "2026-08-18",
+    "date:inception_upper": "2026-08-18",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-17T23:57:26-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-08-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8946L",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2048040825,
     "wof:involves": [
-      102531189,
       102527513,
       1159285591,
-      1947304603
+      1947304603,
+      1528104575,
+      102531189
     ],
-    "wof:lastmodified": 1787069847,
+    "wof:lastmodified": 1787070095,
     "wof:name": "WN4703 (SFO-DEN)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

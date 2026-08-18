@@ -2,10 +2,12 @@
   "id": 2048041387,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-17",
-    "date:inception_upper": "2026-08-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-17",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
+    "date:inception_lower": "2026-08-18",
+    "date:inception_upper": "2026-08-18",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-17T17:05:28-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.057846,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102554351,
     "sfomuseum:base_flight_id": "20260817-D-ACA-3106",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37273",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -92,9 +100,10 @@
       102527513,
       1159285413,
       1763588337,
-      1159283597
+      1159283597,
+      1159289871
     ],
-    "wof:lastmodified": 1787069915,
+    "wof:lastmodified": 1787070098,
     "wof:name": "UA2681 (SFO-YUL)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
