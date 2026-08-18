@@ -1,0 +1,72 @@
+{
+  "id": 2048037001,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-17",
+    "date:inception_upper": "2026-08-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-17",
+    "flysfo:estimated_timestamp": 1787002080,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA3880",
+    "flysfo:gate": "",
+    "flysfo:journey": "LCQ-SFO",
+    "flysfo:scheduled_timestamp": 1786994400,
+    "flysfo:timestamp": 1787002080,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-75.710820,44.059200",
+    "geom:latitude": 40.838595,
+    "geom:longitude": -99.0408815,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531643,
+    "sfomuseum:flight_id": "20260817-A-UAL-3880",
+    "sfomuseum:flight_number": [
+      "UAL3880",
+      "UA3880"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787069391,
+    "wof:geomhash": "968f91bc93138a625766f1e676a062a5",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048037001,
+        "flight_id": 2048037001
+      }
+    ],
+    "wof:id": 2048037001,
+    "wof:involves": [
+      102527513,
+      102531643,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1787069391,
+    "wof:name": "UA3880 (LCQ-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -75.71082,
+    44.0592
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-75.71082,44.0592],[-122.370943,37.61799]]}
+}

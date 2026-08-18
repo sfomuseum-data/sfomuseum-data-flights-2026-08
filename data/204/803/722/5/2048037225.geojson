@@ -1,0 +1,109 @@
+{
+  "id": 2048037225,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-17",
+    "date:inception_upper": "2026-08-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-17",
+    "flysfo:estimated_timestamp": 1786977120,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA702",
+    "flysfo:gate": "D15",
+    "flysfo:journey": "RDM-SFO",
+    "flysfo:scheduled_timestamp": 1786977600,
+    "flysfo:timestamp": 1786977600,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-121.157137,44.259811",
+    "geom:latitude": 40.9389005,
+    "geom:longitude": -121.76404,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.617921,
+    "lbl:longitude": -122.38181,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530507,
+    "sfomuseum:flight_id": "20260817-A-UAL-702",
+    "sfomuseum:flight_number": [
+      "UAL702",
+      "UA702"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304595,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304623,
+      1947304591,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1787069418,
+    "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304595,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2048037225,
+        "flight_id": 2048037225,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304623,
+        "wing_id": 1947304591
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304595,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2048037225,
+        "flight_id": 2048037225,
+        "region_id": 85688637,
+        "venue_id": 1947304623,
+        "wing_id": 1947304591
+      }
+    ],
+    "wof:id": 2048037225,
+    "wof:involves": [
+      102527513,
+      102530507,
+      1159285413,
+      1947304623
+    ],
+    "wof:lastmodified": 1787069418,
+    "wof:name": "UA702 (RDM-SFO)",
+    "wof:parent_id": 1947304623,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -121.157137,
+    44.259811
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.157137,44.259811],[-122.370943,37.61799]]}
+}

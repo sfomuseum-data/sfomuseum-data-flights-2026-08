@@ -1,0 +1,72 @@
+{
+  "id": 2048034635,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-17",
+    "date:inception_upper": "2026-08-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2026-08-17",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AS9791",
+    "flysfo:gate": "",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1787006880,
+    "flysfo:timestamp": 1787006880,
+    "geom:area": 0,
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20260817-A-ASA-9791",
+    "sfomuseum:flight_number": [
+      "ASA9791",
+      "AS9791"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787069106,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048034635,
+        "flight_id": 2048034635
+      }
+    ],
+    "wof:id": 2048034635,
+    "wof:involves": [
+      102527513,
+      102532251,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1787069106,
+    "wof:name": "AS9791 (PDX-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.597389,
+    37.61799,
+    -122.370943,
+    45.586144
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]]}
+}

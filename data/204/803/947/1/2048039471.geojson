@@ -1,0 +1,72 @@
+{
+  "id": 2048039471,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-17",
+    "date:inception_upper": "2026-08-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "CI",
+    "flysfo:date": "2026-08-17",
+    "flysfo:estimated_timestamp": 1786982400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "CI5345",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-TPE",
+    "flysfo:scheduled_timestamp": 1786982400,
+    "flysfo:timestamp": 1786982400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,25.078566,121.233152,37.617990",
+    "geom:latitude": 31.348278,
+    "geom:longitude": -0.5688954999999964,
+    "iata:airline": "CI",
+    "icao:airline": "CAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284153,
+    "sfomuseum:arrival_id": 102551487,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260817-D-CAL-5345",
+    "sfomuseum:flight_number": [
+      "CAL5345",
+      "CI5345"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787069686,
+    "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048039471,
+        "flight_id": 2048039471
+      }
+    ],
+    "wof:id": 2048039471,
+    "wof:involves": [
+      102551487,
+      102527513,
+      1159284153,
+      -1
+    ],
+    "wof:lastmodified": 1787069686,
+    "wof:name": "CI5345 (SFO-TPE)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    25.078566,
+    121.233152,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[121.233152,25.078566]]}
+}
