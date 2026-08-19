@@ -2,10 +2,12 @@
   "id": 2048048979,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-18",
-    "date:inception_upper": "2026-08-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-18",
+    "date:cessation_lower": "2026-08-18",
+    "date:cessation_upper": "2026-08-18",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-18T14:34:33-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260818-A-AAL-9403",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +95,14 @@
     ],
     "wof:id": 2048048979,
     "wof:involves": [
+      1159283849,
+      1528104575,
       102527513,
       102528997,
       1159283813,
-      1947304385,
-      1159283849
+      1947304385
     ],
-    "wof:lastmodified": 1787155500,
+    "wof:lastmodified": 1787156358,
     "wof:name": "AS1716 (SAN-SFO)",
     "wof:parent_id": 1947304385,
     "wof:placetype": "custom",

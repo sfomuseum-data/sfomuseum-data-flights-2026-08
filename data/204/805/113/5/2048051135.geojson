@@ -2,10 +2,12 @@
   "id": 2048051135,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-18",
-    "date:inception_upper": "2026-08-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-18",
+    "date:cessation_lower": "2026-08-18",
+    "date:cessation_upper": "2026-08-18",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-18T03:14:39-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.5210065,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260818-A-ANA-7365",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +99,10 @@
       102532047,
       1159285413,
       1947304513,
-      1159283875
+      1159283875,
+      1528104577
     ],
-    "wof:lastmodified": 1787155762,
+    "wof:lastmodified": 1787156369,
     "wof:name": "UA2192 (BWI-SFO)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",
