@@ -1,0 +1,72 @@
+{
+  "id": 2048053087,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-18",
+    "date:inception_upper": "2026-08-18",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-18",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2026-08-18",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS1523",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1787095800,
+    "flysfo:timestamp": 1787095800,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260818-D-ASA-1523",
+    "sfomuseum:flight_number": [
+      "ASA1523",
+      "AS1523"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787155992,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048053087,
+        "flight_id": 2048053087
+      }
+    ],
+    "wof:id": 2048053087,
+    "wof:involves": [
+      102533795,
+      102527513,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1787155992,
+    "wof:name": "AS1523 (SFO-LAX)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.942593,
+    -118.38951,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]]}
+}

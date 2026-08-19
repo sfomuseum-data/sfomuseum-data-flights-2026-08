@@ -1,0 +1,72 @@
+{
+  "id": 2048049701,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-18",
+    "date:inception_upper": "2026-08-18",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-18",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-08-18",
+    "flysfo:estimated_timestamp": 1787093880,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL8964",
+    "flysfo:gate": "",
+    "flysfo:journey": "MSP-SFO",
+    "flysfo:scheduled_timestamp": 1787094000,
+    "flysfo:timestamp": 1787094000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531131,
+    "sfomuseum:flight_id": "20260818-A-DAL-8964",
+    "sfomuseum:flight_number": [
+      "DAL8964",
+      "DL8964"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787155588,
+    "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048049701,
+        "flight_id": 2048049701
+      }
+    ],
+    "wof:id": 2048049701,
+    "wof:involves": [
+      102527513,
+      102531131,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1787155588,
+    "wof:name": "DL8964 (MSP-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -93.200317,
+    44.883321
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]]}
+}

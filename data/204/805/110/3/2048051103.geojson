@@ -1,0 +1,72 @@
+{
+  "id": 2048051103,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-18",
+    "date:inception_upper": "2026-08-18",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-18",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-18",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA2040",
+    "flysfo:gate": "",
+    "flysfo:journey": "BOS-SFO",
+    "flysfo:scheduled_timestamp": 1787037360,
+    "flysfo:timestamp": 1787037360,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
+    "geom:latitude": 39.990156,
+    "geom:longitude": -96.6928465,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530741,
+    "sfomuseum:flight_id": "20260818-A-UAL-2040",
+    "sfomuseum:flight_number": [
+      "UAL2040",
+      "UA2040"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787155758,
+    "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048051103,
+        "flight_id": 2048051103
+      }
+    ],
+    "wof:id": 2048051103,
+    "wof:involves": [
+      102527513,
+      102530741,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1787155758,
+    "wof:name": "UA2040 (BOS-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -71.01475,
+    42.362322
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]]}
+}
