@@ -1,0 +1,72 @@
+{
+  "id": 2048067039,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-19",
+    "date:inception_upper": "2026-08-19",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-19",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2026-08-19",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS9963",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-HNL",
+    "flysfo:scheduled_timestamp": 1787158800,
+    "flysfo:timestamp": 1787158800,
+    "geom:area": 0,
+    "geom:bbox": "-157.918416,21.332508,-122.370943,37.617990",
+    "geom:latitude": 29.475248999999998,
+    "geom:longitude": -140.1446795,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102533997,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260819-D-ASA-9963",
+    "sfomuseum:flight_number": [
+      "ASA9963",
+      "AS9963"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787242400,
+    "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048067039,
+        "flight_id": 2048067039
+      }
+    ],
+    "wof:id": 2048067039,
+    "wof:involves": [
+      102533997,
+      102527513,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1787242400,
+    "wof:name": "AS9963 (SFO-HNL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -157.918416,
+    21.332508,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]]}
+}
