@@ -2,10 +2,12 @@
   "id": 2048062085,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-19",
-    "date:inception_upper": "2026-08-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-19",
+    "date:cessation_lower": "2026-08-19",
+    "date:cessation_upper": "2026-08-19",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-19T14:45:48-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260819-A-ANZ-4737",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "CGVDQ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +100,10 @@
       102555091,
       1159283597,
       1947304627,
-      1159283697
+      1159283697,
+      1813375783
     ],
-    "wof:lastmodified": 1787241820,
+    "wof:lastmodified": 1787242755,
     "wof:name": "AC745 (YYZ-SFO)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",

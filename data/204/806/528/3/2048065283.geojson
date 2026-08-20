@@ -2,10 +2,12 @@
   "id": 2048065283,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-19",
-    "date:inception_upper": "2026-08-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-19",
+    "date:cessation_lower": "2026-08-19",
+    "date:cessation_upper": "2026-08-19",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-19T13:49:30-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -57.5518295,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260819-A-ACA-5031",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N29968",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +100,10 @@
       102549057,
       1159285413,
       1947304137,
-      1159283597
+      1159283597,
+      1159293215
     ],
-    "wof:lastmodified": 1787242200,
+    "wof:lastmodified": 1787242770,
     "wof:name": "UA927 (FRA-SFO)",
     "wof:parent_id": 1947304137,
     "wof:placetype": "custom",
