@@ -1,0 +1,72 @@
+{
+  "id": 2048084031,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-20",
+    "date:inception_upper": "2026-08-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-20",
+    "flysfo:estimated_timestamp": 1787269200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8105",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-IAH",
+    "flysfo:scheduled_timestamp": 1787269200,
+    "flysfo:timestamp": 1787269200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,29.977186,-95.338444,37.617990",
+    "geom:latitude": 33.797588,
+    "geom:longitude": -108.8546935,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102534097,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260820-D-UAL-8105",
+    "sfomuseum:flight_number": [
+      "UAL8105",
+      "UA8105"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787329091,
+    "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048084031,
+        "flight_id": 2048084031
+      }
+    ],
+    "wof:id": 2048084031,
+    "wof:involves": [
+      102534097,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1787329091,
+    "wof:name": "UA8105 (SFO-IAH)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    29.977186,
+    -95.338444,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]]}
+}

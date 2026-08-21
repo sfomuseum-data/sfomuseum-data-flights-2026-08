@@ -1,0 +1,109 @@
+{
+  "id": 2048078233,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-20",
+    "date:inception_upper": "2026-08-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "LO",
+    "flysfo:date": "2026-08-20",
+    "flysfo:estimated_timestamp": 1787259600,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "LO35",
+    "flysfo:gate": "B11",
+    "flysfo:journey": "WAW-SFO",
+    "flysfo:scheduled_timestamp": 1787259600,
+    "flysfo:timestamp": 1787259600,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,20.974379,52.171214",
+    "geom:latitude": 44.894602,
+    "geom:longitude": -50.698282,
+    "iata:airline": "LO",
+    "icao:airline": "LOT",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284705,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102542051,
+    "sfomuseum:flight_id": "20260820-A-LOT-35",
+    "sfomuseum:flight_number": [
+      "LOT35",
+      "LO35"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304261,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304311,
+      1947304259,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1787328425,
+    "wof:geomhash": "1954d77428ab4c71ee39d262b7abdced",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2048078233,
+        "flight_id": 2048078233,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304311,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2048078233,
+        "flight_id": 2048078233,
+        "region_id": 85688637,
+        "venue_id": 1947304311,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 2048078233,
+    "wof:involves": [
+      102527513,
+      102542051,
+      1159284705,
+      1947304311
+    ],
+    "wof:lastmodified": 1787328425,
+    "wof:name": "LO35 (WAW-SFO)",
+    "wof:parent_id": 1947304311,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    20.974379,
+    52.171214
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[20.974379,52.171214],[-122.370943,37.61799]]}
+}

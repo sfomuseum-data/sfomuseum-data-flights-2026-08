@@ -1,0 +1,72 @@
+{
+  "id": 2048077795,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-20",
+    "date:inception_upper": "2026-08-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "BF",
+    "flysfo:date": "2026-08-20",
+    "flysfo:estimated_timestamp": 1787261640,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "BF89",
+    "flysfo:gate": "",
+    "flysfo:journey": "ORY-SFO",
+    "flysfo:scheduled_timestamp": 1787261040,
+    "flysfo:timestamp": 1787261640,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,2.366130,48.729315",
+    "geom:latitude": 43.1736525,
+    "geom:longitude": -60.0024065,
+    "iata:airline": "BF",
+    "icao:airline": "FBU",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1377649073,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102544453,
+    "sfomuseum:flight_id": "20260820-A-FBU-89",
+    "sfomuseum:flight_number": [
+      "FBU89",
+      "BF89"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787328374,
+    "wof:geomhash": "ccdcde8e2753acf4845b350f07bc56a7",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048077795,
+        "flight_id": 2048077795
+      }
+    ],
+    "wof:id": 2048077795,
+    "wof:involves": [
+      102527513,
+      102544453,
+      1377649073,
+      -1
+    ],
+    "wof:lastmodified": 1787328374,
+    "wof:name": "BF89 (ORY-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    2.36613,
+    48.729315
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[2.36613,48.729315],[-122.370943,37.61799]]}
+}

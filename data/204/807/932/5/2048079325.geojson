@@ -1,0 +1,109 @@
+{
+  "id": 2048079325,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-20",
+    "date:inception_upper": "2026-08-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-20",
+    "flysfo:estimated_timestamp": 1787248200,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA5209",
+    "flysfo:gate": "F6",
+    "flysfo:journey": "COS-SFO",
+    "flysfo:scheduled_timestamp": 1787238000,
+    "flysfo:timestamp": 1787248200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-104.689858,38.773626",
+    "geom:latitude": 38.195808,
+    "geom:longitude": -113.5304005,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102526247,
+    "sfomuseum:flight_id": "20260820-A-UAL-5209",
+    "sfomuseum:flight_number": [
+      "UAL5209",
+      "UA5209"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304451,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304461,
+      1947304447,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1787328552,
+    "wof:geomhash": "95bd643fadb680ccccd4d1a4dfb3c584",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2048079325,
+        "flight_id": 2048079325,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304461,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2048079325,
+        "flight_id": 2048079325,
+        "region_id": 85688637,
+        "venue_id": 1947304461,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 2048079325,
+    "wof:involves": [
+      102527513,
+      102526247,
+      1159285413,
+      1947304461
+    ],
+    "wof:lastmodified": 1787328552,
+    "wof:name": "UA5209 (COS-SFO)",
+    "wof:parent_id": 1947304461,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -104.689858,
+    38.773626
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-104.689858,38.773626],[-122.370943,37.61799]]}
+}
