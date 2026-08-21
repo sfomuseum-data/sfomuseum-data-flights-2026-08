@@ -2,10 +2,12 @@
   "id": 2048081939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-20",
     "date:inception_upper": "2026-08-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-20",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-20T11:39:27-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102521851,
     "sfomuseum:base_flight_id": "20260820-D-KAL-3278",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N317NB",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +100,10 @@
       102527513,
       1159284261,
       1947304681,
-      1159284625
+      1159284625,
+      1159289407
     ],
-    "wof:lastmodified": 1787328850,
+    "wof:lastmodified": 1787329206,
     "wof:name": "DL1077 (SFO-AUS)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",

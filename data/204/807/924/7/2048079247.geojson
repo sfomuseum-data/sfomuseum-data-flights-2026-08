@@ -2,10 +2,12 @@
   "id": 2048079247,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-20",
-    "date:inception_upper": "2026-08-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-20",
+    "date:cessation_lower": "2026-08-21",
+    "date:cessation_upper": "2026-08-21",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-20T18:41:06-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.475248999999998,
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533997,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N27586",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2048079247,
     "wof:involves": [
+      1947304513,
+      1528104577,
       102527513,
       102533997,
-      1159285413,
-      1947304513
+      1159285413
     ],
-    "wof:lastmodified": 1787328543,
+    "wof:lastmodified": 1787329189,
     "wof:name": "UA3939 (HNL-SFO)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

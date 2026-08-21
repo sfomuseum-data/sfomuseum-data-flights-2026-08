@@ -2,10 +2,12 @@
   "id": 2048075497,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-20",
-    "date:inception_upper": "2026-08-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-20",
+    "date:cessation_lower": "2026-08-20",
+    "date:cessation_upper": "2026-08-20",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-20T10:16:25-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "JAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260820-A-JAL-7541",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N918US",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2048075497,
     "wof:involves": [
-      102527513,
       102526751,
       1159283849,
       1947304277,
-      1159284563
+      1159284563,
+      1159289411,
+      102527513
     ],
-    "wof:lastmodified": 1787328080,
+    "wof:lastmodified": 1787329171,
     "wof:name": "AA2321 (PHX-SFO)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

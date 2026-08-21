@@ -2,10 +2,12 @@
   "id": 2048083999,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-08-20",
     "date:inception_upper": "2026-08-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-20",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-08-20T02:23:21-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-08-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.459714,
     "geom:longitude": -109.134272,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102524739,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N27292",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2048083999,
     "wof:involves": [
-      102524739,
-      102527513,
       1159285413,
-      1947304529
+      1947304529,
+      1528104575,
+      102524739,
+      102527513
     ],
-    "wof:lastmodified": 1787329088,
+    "wof:lastmodified": 1787329218,
     "wof:name": "UA739 (SFO-OMA)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",
