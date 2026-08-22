@@ -2,10 +2,12 @@
   "id": 2048091481,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-08-21",
-    "date:inception_upper": "2026-08-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-08-21",
+    "date:cessation_lower": "2026-08-21",
+    "date:cessation_upper": "2026-08-21",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-08-21T07:57:56-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "YP",
     "flysfo:date": "2026-08-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.535978,
     "geom:longitude": 2.1453445,
     "iata:airline": "YP",
+    "icao:aircraft": "B789",
     "icao:airline": "APZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1930448549,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102556451,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -86,9 +93,10 @@
       102527513,
       102556451,
       1930448549,
-      1947304093
+      1947304093,
+      1159293215
     ],
-    "wof:lastmodified": 1787414670,
+    "wof:lastmodified": 1787415570,
     "wof:name": "YP111 (ICN-SFO)",
     "wof:parent_id": 1947304093,
     "wof:placetype": "custom",
