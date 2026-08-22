@@ -1,0 +1,72 @@
+{
+  "id": 2048098613,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-21",
+    "date:inception_upper": "2026-08-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-21",
+    "flysfo:estimated_timestamp": 1787344500,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8220",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-FCA",
+    "flysfo:scheduled_timestamp": 1787340360,
+    "flysfo:timestamp": 1787344500,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-114.254457,48.309054",
+    "geom:latitude": 42.963522,
+    "geom:longitude": -118.3127,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102528363,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260821-D-UAL-8220",
+    "sfomuseum:flight_number": [
+      "UAL8220",
+      "UA8220"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787415476,
+    "wof:geomhash": "a5add9b66add88268a967cc7812997cb",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048098613,
+        "flight_id": 2048098613
+      }
+    ],
+    "wof:id": 2048098613,
+    "wof:involves": [
+      102528363,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1787415476,
+    "wof:name": "UA8220 (SFO-FCA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -114.254457,
+    48.309054
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-114.254457,48.309054]]}
+}

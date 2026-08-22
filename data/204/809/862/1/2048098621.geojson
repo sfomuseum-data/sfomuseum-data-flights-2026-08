@@ -1,0 +1,72 @@
+{
+  "id": 2048098621,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-21",
+    "date:inception_upper": "2026-08-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-08-21",
+    "flysfo:estimated_timestamp": 1787333820,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8261",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-ONT",
+    "flysfo:scheduled_timestamp": 1787333820,
+    "flysfo:timestamp": 1787333820,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,34.059934,-117.587749,37.617990",
+    "geom:latitude": 35.838961999999995,
+    "geom:longitude": -119.97934599999999,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102533575,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260821-D-UAL-8261",
+    "sfomuseum:flight_number": [
+      "UAL8261",
+      "UA8261"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787415477,
+    "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048098621,
+        "flight_id": 2048098621
+      }
+    ],
+    "wof:id": 2048098621,
+    "wof:involves": [
+      102533575,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1787415477,
+    "wof:name": "UA8261 (SFO-ONT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    34.059934,
+    -117.587749,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-117.587749,34.059934]]}
+}

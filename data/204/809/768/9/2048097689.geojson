@@ -1,0 +1,72 @@
+{
+  "id": 2048097689,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-08-21",
+    "date:inception_upper": "2026-08-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-08-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2026-08-21",
+    "flysfo:estimated_timestamp": 1787347740,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "WN4496",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DAL",
+    "flysfo:scheduled_timestamp": 1787345700,
+    "flysfo:timestamp": 1787347740,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.845849,-96.850523,37.617990",
+    "geom:latitude": 35.231919500000004,
+    "geom:longitude": -109.610733,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102525799,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260821-D-SWA-4496",
+    "sfomuseum:flight_number": [
+      "SWA4496",
+      "WN4496"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1787415374,
+    "wof:geomhash": "a08c5b1a6c329f228ec453404f254a51",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048097689,
+        "flight_id": 2048097689
+      }
+    ],
+    "wof:id": 2048097689,
+    "wof:involves": [
+      102525799,
+      102527513,
+      1159285591,
+      -1
+    ],
+    "wof:lastmodified": 1787415374,
+    "wof:name": "WN4496 (SFO-DAL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.845849,
+    -96.850523,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-96.850523,32.845849]]}
+}
